@@ -264,35 +264,8 @@
 </footer>
 
 <script>
-const jobsData = [
-    // ===== MAJOR STUDIOS =====
-    { en: { title: "Senior Technical Artist, Animation", company: "Riot Games", desc: "Join our animation team to create cutting-edge visual effects for our games. 5+ years experience required." }, zh: { title: "資深技術美術師 - 動畫", company: "Riot Games", desc: "加入動畫團隊為遊戲打造尖端視覺效果。需 5 年以上經驗。" }, location: "Los Angeles, CA", type: "On-site", category: "Game Art", salary: "$120K-$180K/yr", posted: "2 days ago", link: "https://www.riotgames.com/en/work-with-us", featured: true, new: true },
-    { en: { title: "Artist, Creative Development (Disney & Pixar Games)", company: "Disney", desc: "Provide visual guidance and brand feedback for Disney and Pixar game projects." }, zh: { title: "創意開發美術師 (Disney & Pixar 遊戲)", company: "Disney", desc: "為 Disney 和 Pixar 遊戲專案提供視覺指導與品牌反饋。" }, location: "Glendale, CA", type: "On-site", category: "Concept Art", salary: "$90K-$140K/yr", posted: "2 hours ago", link: "https://www.disneycareers.com/", featured: false, new: true },
-    { en: { title: "Animator", company: "Disney", desc: "Create compelling character animations for Disney Animation Studios productions." }, zh: { title: "動畫師", company: "Disney", desc: "為 Disney Animation Studios 製作打造引人入勝的角色動畫。" }, location: "Burbank, CA", type: "On-site", category: "Animation", salary: "$85K-$135K/yr", posted: "5 days ago", link: "https://www.disneycareers.com/", featured: false, new: false },
-    { en: { title: "Lead Product Designer, The New Yorker", company: "The New Yorker", desc: "Lead design initiatives for The New Yorker digital platform." }, zh: { title: "首席產品設計師", company: "The New Yorker", desc: "領導 The New Yorker 數位平台的設計計劃。" }, location: "London, GB", type: "Hybrid", category: "Product Design", salary: "$130K-$180K/yr", posted: "6 days ago", link: "https://www.condenast.com/careers", featured: false, new: false },
-    { en: { title: "Concept Artist", company: "DreamWorks", desc: "Develop visual concepts for DreamWorks Animation feature films." }, zh: { title: "概念藝術家", company: "DreamWorks", desc: "為 DreamWorks 動畫電影開發視覺概念。" }, location: "Glendale, CA", type: "On-site", category: "Concept Art", salary: "$85K-$130K/yr", posted: "3 days ago", link: "https://www.dreamworks.com/careers", featured: false, new: false },
-    { en: { title: "Graphic Designer", company: "Nike", desc: "Design marketing materials and brand assets for Nike." }, zh: { title: "平面設計師", company: "Nike", desc: "為 Nike 設計行銷素材與品牌資產。" }, location: "Beaverton, OR", type: "Hybrid", category: "Graphic Design", salary: "$75K-$110K/yr", posted: "1 day ago", link: "https://www.nike.com/careers/", featured: false, new: false },
-    { en: { title: "Motion Graphics Designer", company: "TikTok", desc: "Create engaging motion graphics for TikTok content and marketing." }, zh: { title: "動態圖形設計師", company: "TikTok", desc: "為 TikTok 內容與行銷創作吸睛的動態圖形。" }, location: "Los Angeles, CA", type: "Hybrid", category: "Motion Design", salary: "$100K-$150K/yr", posted: "4 days ago", link: "https://careers.tiktok.com/", featured: false, new: false },
-    { en: { title: "Character Artist", company: "Blur Studio", desc: "Create high-quality 3D character models for film and game projects. 2-3 years experience preferred." }, zh: { title: "角色美術師", company: "Blur Studio", desc: "為電影與遊戲專案製作高品質 3D 角色模型。優先考慮 2-3 年經驗。" }, location: "Los Angeles, CA", type: "On-site", category: "3D Art", salary: "$80K-$130K/yr", posted: "1 day ago", link: "https://blur.com/careers", featured: false, new: true },
-    { en: { title: "2D Animator", company: "Cartoon Saloon", desc: "Create beautiful 2D animations for independent animated films. Entry to mid-level positions available." }, zh: { title: "2D 動畫師", company: "Cartoon Saloon", desc: "為獨立動畫電影創作優美的 2D 動畫。適合初階至中階。" }, location: "Remote", type: "Remote", category: "Animation", salary: "€30K-€55K/yr", posted: "3 days ago", link: "https://www.cartoonsaloon.ie/jobs/", featured: false, new: false },
-    { en: { title: "Visual Effects Artist", company: "Zoic Studios", desc: "Work on VFX for TV shows and commercials. Proficiency in Houdini or Maya required." }, zh: { title: "視覺特效師", company: "Zoic Studios", desc: "為電視節目與廣告製作 VFX。需熟悉 Houdini 或 Maya。" }, location: "Los Angeles, CA", type: "Hybrid", category: "VFX", salary: "$70K-$120K/yr", posted: "2 days ago", link: "https://www.zoicstudios.com/careers", featured: false, new: true },
-    { en: { title: "Environment Artist", company: "Tangent Animation", desc: "Design and create detailed 3D environments for animated productions. 1-2 years experience welcome." }, zh: { title: "環境美術師", company: "Tangent Animation", desc: "為動畫製作設計與創作細緻的 3D 環境。歡迎 1-2 年經驗。" }, location: "Remote", type: "Remote", category: "3D Art", salary: "$55K-$85K/yr", posted: "5 days ago", link: "https://tangentanimation.com/", featured: false, new: false },
-    { en: { title: "UI/UX Designer", company: "Riot Games", desc: "Design game interfaces and user experiences that delight players worldwide." }, zh: { title: "UI/UX 設計師", company: "Riot Games", desc: "設計遊戲界面與用戶體驗，讓全球玩家為之驚喜。" }, location: "Los Angeles, CA", type: "Hybrid", category: "UI/UX", salary: "$95K-$160K/yr", posted: "1 day ago", link: "https://www.riotgames.com/en/work-with-us", featured: false, new: true },
-    { en: { title: "Visual Designer", company: "TikTok", desc: "Design TikTok product interfaces, brand visuals, and marketing materials." }, zh: { title: "視覺設計師", company: "TikTok", desc: "設計 TikTok 產品界面、品牌視覺與行銷素材。" }, location: "San Jose, CA", type: "On-site", category: "Graphic Design", salary: "$120K-$180K/yr", posted: "6 days ago", link: "https://careers.tiktok.com/", featured: false, new: false },
-    { en: { title: "Brand Designer", company: "Nike", desc: "Design visual identity systems, advertising creative, and digital content for Nike." }, zh: { title: "品牌設計師", company: "Nike", desc: "為 Nike 設計視覺識別系統、廣告創意與數位內容。" }, location: "Beaverton, OR", type: "On-site", category: "Graphic Design", salary: "$85K-$140K/yr", posted: "4 days ago", link: "https://www.nike.com/careers/", featured: false, new: false },
-    // ===== EDUCATION =====
-    { en: { title: "Art Teacher - High School", company: "LAUSD", desc: "Full-time visual arts teaching position at Los Angeles Unified high school." }, zh: { title: "高中美術教師", company: "LAUSD", desc: "洛杉磯聯合學區高中全職視覺藝術教學職位。" }, location: "Los Angeles, CA", type: "On-site", category: "Education", salary: "$55k-$85k/yr", posted: "3 days ago", link: "https://www.lausd.org/Page/4300", featured: false, new: false },
-    { en: { title: "Digital Art Instructor", company: "SVA", desc: "Teach digital painting and character design. Part-time evening classes. Industry experience valued." }, zh: { title: "數位藝術講師", company: "SVA (School of Visual Arts)", desc: "教授數位繪畫與角色設計。夜間兼職課程。重視業界經驗。" }, location: "Santa Monica, CA", type: "On-site", category: "Education", salary: "$45k-$75k/yr", posted: "2 days ago", link: "https://jobs.sva.edu", featured: false, new: true },
-    { en: { title: "Animation Workshop Instructor", company: "Skillshare", desc: "Create pre-recorded animation courses. Royalty-based revenue model." }, zh: { title: "動畫工作坊講師", company: "Skillshare", desc: "製作預錄動畫課程。基於分潤的收入模式。" }, location: "Remote", type: "Remote", category: "Education", salary: "$50-$100/hr", posted: "4 days ago", link: "https://www.skillshare.com/teach", featured: false, new: false },
-    { en: { title: "3D Modeling Instructor", company: "Coursera", desc: "Design and deliver a Blender 3D modeling specialization for online learners." }, zh: { title: "3D 建模講師", company: "Coursera", desc: "為線上學習者設計與交付 Blender 3D 建模專業課程。" }, location: "Los Angeles, CA", type: "On-site", category: "Education", salary: "$60k-$90k/yr", posted: "5 days ago", link: "https://www.coursera.org/instructor-community", featured: false, new: false },
-    // ===== FREELANCE =====
-    { en: { title: "Art Director - Non-Profit", company: "Upwork", desc: "Lead visual direction for a non-profit organization's rebranding initiative." }, zh: { title: "藝術總監 - 非營利組織", company: "Upwork", desc: "領導非營利組織品牌重塑的視覺方向。" }, location: "Los Angeles, CA", type: "Hybrid", category: "Art Direction", salary: "$50k-$70k/yr", posted: "6 days ago", link: "https://www.upwork.com/", featured: false, new: false },
-    { en: { title: "2D Character Animation Project", company: "Fiverr", desc: "Create 2D character animations for indie game. Budget: $3,000-$5,000. 2-4 weeks project." }, zh: { title: "2D 角色動畫專案", company: "Fiverr", desc: "為獨立遊戲製作 2D 角色動畫。預算 $3,000-$5,000。2-4 週專案。" }, location: "Remote", type: "Remote", category: "Animation", salary: "$3K-$5K/project", posted: "1 day ago", link: "https://www.fiverr.com/gigs/character-design", featured: false, new: true },
-    { en: { title: "Brand Identity Designer", company: "Fiverr Pro", desc: "Design full brand identity for a tech startup. Logo, palette, typography, and stationery." }, zh: { title: "品牌識別設計師", company: "Fiverr Pro", desc: "為科技新創設計完整品牌識別（Logo、色彩系統、字體、文具）。" }, location: "Remote", type: "Remote", category: "Graphic Design", salary: "$300-$1,500/project", posted: "3 days ago", link: "https://www.fiverr.com/start/graphic-design", featured: false, new: false },
-    // ===== ADDITIONAL MAJOR =====
-    { en: { title: "3D Character Artist", company: "Riot Games", desc: "Create 3D character models, materials, and textures for League of Legends and VALORANT." }, zh: { title: "3D 角色美術師", company: "Riot Games", desc: "為英雄聯盟與 VALORANT 製作 3D 角色模型、材質與貼圖。" }, location: "Los Angeles, CA", type: "On-site", category: "3D Art", salary: "$85K-$150K/yr", posted: "5 days ago", link: "https://www.riotgames.com/en/work-with-us", featured: false, new: false },
-    { en: { title: "Illustrator", company: "The New Yorker", desc: "Create cover illustrations and interior artwork for the iconic magazine." }, zh: { title: "插畫家", company: "The New Yorker", desc: "為標誌性雜誌創作封面插畫與內頁藝術作品。" }, location: "New York, NY", type: "On-site", category: "Concept Art", salary: "Commission based", posted: "6 days ago", link: "https://www.condenast.com/careers", featured: false, new: false },
-];
+let jobsData = [];
+let lastUpdated = null;
 let currentLang = 'en';
 
 function getText(d, lang) { return lang === 'zh' && d.zh ? d.zh : d.en; }
@@ -313,7 +286,7 @@ function buildFilters() {
     document.getElementById('totalJobs').textContent = jobsData.length;
     document.getElementById('totalCompanies').textContent = new Set(jobsData.map(j => j.en.company)).size;
     document.getElementById('totalLocations').textContent = new Set(jobsData.map(j => j.location)).size;
-    document.getElementById('updateTime').textContent = 'May 5, 2026';
+    document.getElementById('updateTime').textContent = lastUpdated || new Date().toLocaleDateString('en-US', { year: 'numeric', month: 'short', day: 'numeric' });
 }
 
 function daysAgo(posted) { const n = parseInt(posted); return isNaN(n) ? posted : n; }
@@ -423,9 +396,26 @@ function setLang(lang) {
     renderJobs(jobs);
 }
 
-// Init
-buildFilters();
-filterJobs();
+// Init - load from external JSON
+async function loadJobs() {
+    try {
+        const resp = await fetch('jobs.json');
+        const data = await resp.json();
+        jobsData = data;
+        // Fetch last updated timestamp
+        const metaResp = await fetch('last_updated.txt');
+        if (metaResp.ok) {
+            lastUpdated = await metaResp.text();
+        }
+        document.getElementById('updateTime').textContent = lastUpdated || 'Today';
+        buildFilters();
+        filterJobs();
+    } catch (e) {
+        console.error('Failed to load jobs:', e);
+        document.getElementById('jobList').innerHTML = '<p style="text-align:center;padding:40px;color:#6b7280;">Unable to load job listings. Please try again later.</p>';
+    }
+}
+document.addEventListener('DOMContentLoaded', loadJobs);
 </script>
 </body>
 </html>
