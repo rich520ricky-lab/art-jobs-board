@@ -254,6 +254,7 @@
     </div>
     <div class="modal-footer">
         <a class="btn-apply" id="modalLink" href="#" target="_blank" rel="noopener"><span class="en-text">View Job</span><span class="zh-text">查看職缺</span> →</a>
+        <button class="btn-details" onclick="closeModal()">✕ <span class="en-text">Close</span><span class="zh-text">關閉</span></button>
     </div>
 </div>
 
@@ -342,7 +343,7 @@ function renderJobs(jobs) {
             </div>
             <div class="job-actions">
                 <button class="btn-details" onclick='openModal(${JSON.stringify(j).replace(/'/g,"&#39;")})'>📋 Details</button>
-                <a class="btn-apply" href="${j.link}" target="_blank" rel="noopener">Apply →</a>
+                <button class="btn-apply" onclick='openModal(${JSON.stringify(j).replace(/'/g,"&#39;")})'>Apply →</button>
             </div>
         </div>`;
     }).join('');
