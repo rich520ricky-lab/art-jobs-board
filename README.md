@@ -1,47 +1,53 @@
-# Art & Design Jobs Board
+# Art & Design Job Tracker
+# 美術設計職缺追蹤
 
-A curated bilingual (中文 / English) job board for art, design, and animation positions.
+A bilingual (EN / 中文) static job board that aggregates art & design job openings from multiple sources, automatically updated daily.
 
-## 🎯 Scope
+中英雙語靜態求職看板，彙整美術與設計相關職缺，每日自動更新。
 
-- **Major Studios:** Pixar, DreamWorks, Riot Games, TikTok, Nike, The New Yorker, Marvel
-- **Mid-size Studios:** Blur Studio, Cartoon Saloon, Zoic Studios, Passion Pictures
-- **Education:** UCLA, RISD, SCAD, SVA, NYC DOE, Animation Mentor, Skillshare, Coursera
-- **Freelance:** Upwork, Fiverr
-
-## 🚀 Deployment
-
-This is a static HTML site — deploy via GitHub Pages, Netlify, or any static host.
-
-### GitHub Pages
-
-```bash
-# Option 1: Push to gh-pages branch
-git checkout -b gh-pages
-git push origin gh-pages
-
-# Option 2: Push to main and enable Pages from / (root)
-```
-
-## 📁 Structure
-
-```
-art-jobs-site/
-├── index.html       # Main job board (self-contained, no dependencies)
-└── README.md        # This file
-```
-
-## 🔄 Updating
-
-Edit the `jobs` array in `index.html` to add/remove listings.
-
-## 📊 Stats
-
-- **28 job listings** across 4 categories
-- **Bilingual** (中文 + English toggle)
-- **Dark theme** with responsive design
-- **Zero dependencies** — pure HTML/CSS/JS
+**Live Site / 網站：** https://rich520ricky-lab.github.io/art-jobs-board/
 
 ---
 
-*Data sourced from official career pages. Not affiliated with listed companies.*
+## Data Sources / 資料來源
+
+| Source / 來源 | Type / 類型 | Method / 方式 |
+|---------------|-------------|----------------|
+| Jobicy API | Design/Creative jobs | HTTP API (free) |
+| Remotive API | Remote design jobs | HTTP API (free) |
+| Disney Careers | Animation/Art at Disney, Pixar, Marvel | Browser scrape |
+| TikTok Careers | Design team roles | Browser scrape |
+
+## Features / 功能
+
+- **Bilingual toggle** — switch between English and 中文
+- **Company type filter** — Enterprise / Mid-Small / School / Freelance
+- **Category, location, job type filters** — narrow down results
+- **Detail modal** — view full job info before applying
+- **Daily auto-update** — new jobs added automatically
+
+## Tech Stack / 技術棧
+
+- Static HTML/CSS/JS (no framework, no build step)
+- GitHub Pages for hosting
+- Python scripts for data collection
+- Hermes Agent for cron scheduling
+
+## Setup / 安裝
+
+See [SETUP_GUIDE.md](SETUP_GUIDE.md) for full setup and maintenance instructions.
+
+完整安裝與維護說明請見 [SETUP_GUIDE.md](SETUP_GUIDE.md)。
+
+## Structure / 目錄結構
+
+```
+├── index.html            # Bilingual job board
+├── jobs.json             # All job data
+├── last_updated.txt      # Update timestamp
+├── update_jobs.py        # Daily API scraper (Jobicy + Remotive)
+├── extra_scraper.py      # Disney+TikTok known job manager
+├── DISNEY_TIKTOK_SCRAPE.md  # Step-by-step browser scrape guide
+├── SETUP_GUIDE.md        # Full setup guide (EN/ZH)
+└── README.md             # This file
+```
