@@ -34,7 +34,7 @@ echo ""
 # =============================================
 # Check prerequisites
 # =============================================
-echo -e "${BLUE}[1/6]${NC} Checking prerequisites..."
+echo -e "${BLUE}[1/7]${NC} Checking prerequisites..."
 echo ""
 
 # Check git
@@ -68,7 +68,7 @@ echo ""
 # =============================================
 # Clone repo
 # =============================================
-echo -e "${BLUE}[2/6]${NC} Cloning repository..."
+echo -e "${BLUE}[2/7]${NC} Cloning repository..."
 echo ""
 
 REPO_URL="https://github.com/rich520ricky-lab/art-jobs-board.git"
@@ -97,7 +97,7 @@ echo ""
 # =============================================
 # Test Python script
 # =============================================
-echo -e "${BLUE}[3/6]${NC} Testing Python scripts..."
+echo -e "${BLUE}[3/7]${NC} Testing Python scripts..."
 echo ""
 
 # Test update_jobs.py (quick dry run - just test imports)
@@ -120,7 +120,7 @@ echo ""
 # =============================================
 # GitHub CLI + Auth
 # =============================================
-echo -e "${BLUE}[4/6]${NC} GitHub setup..."
+echo -e "${BLUE}[4/7]${NC} GitHub setup..."
 echo ""
 
 # Install gh CLI if not present
@@ -174,9 +174,48 @@ fi
 echo ""
 
 # =============================================
+# Restore Hermes memories + config
+# =============================================
+echo -e "${BLUE}[5/7]${NC} Restoring Hermes memories and config from backup..."
+echo ""
+
+HERMES_DIR="$HOME/.hermes"
+BACKUP_DIR="$INSTALL_DIR/.hermes-backup"
+
+mkdir -p "$HERMES_DIR/memories"
+
+# Restore memories
+if [ -f "$BACKUP_DIR/memory.md" ]; then
+    cp "$BACKUP_DIR/memory.md" "$HERMES_DIR/memories/MEMORY.md"
+    echo -e "  ${GREEN}✓${NC} Restored memory.md ($(wc -c < "$BACKUP_DIR/memory.md") bytes)"
+fi
+if [ -f "$BACKUP_DIR/user.md" ]; then
+    cp "$BACKUP_DIR/user.md" "$HERMES_DIR/memories/USER.md"
+    echo -e "  ${GREEN}✓${NC} Restored user.md ($(wc -c < "$BACKUP_DIR/user.md") bytes)"
+fi
+
+# Note about config
+if [ -f "$BACKUP_DIR/config.yaml" ]; then
+    echo -e "  ${YELLOW}⚠${NC} Config backup found at $BACKUP_DIR/config.yaml"
+    echo -e "  ${YELLOW}  API keys are REDACTED — set them manually:${NC}"
+    echo -e "  ${YELLOW}  hermes config set model.api_key YOUR_KEY${NC}"
+fi
+if [ -f "$BACKUP_DIR/mlx-model-config.yaml" ]; then
+    cp "$BACKUP_DIR/mlx-model-config.yaml" "$HERMES_DIR/mlx-model-config.yaml"
+    echo -e "  ${GREEN}✓${NC} Restored mlx-model-config.yaml"
+fi
+
+# Note about cron jobs
+if [ -f "$BACKUP_DIR/cron-jobs.json" ]; then
+    echo -e "  ${YELLOW}ℹ${NC} Cron job definitions backed up. They will be created in the next step."
+fi
+
+echo ""
+
+# =============================================
 # Hermes cron jobs
 # =============================================
-echo -e "${BLUE}[5/6]${NC} Setting up Hermes cron jobs..."
+echo -e "${BLUE}[6/7]${NC} Setting up Hermes cron jobs..."
 echo ""
 
 if [ "$HERMES_FOUND" = true ]; then
@@ -242,7 +281,7 @@ echo ""
 # =============================================
 # Initial update
 # =============================================
-echo -e "${BLUE}[6/6]${NC} Running initial update (Jobicy + Remotive)..."
+echo -e "${BLUE}[7/7]${NC} Running initial update (Jobicy + Remotive)..."
 echo ""
 
 cd "$INSTALL_DIR"
