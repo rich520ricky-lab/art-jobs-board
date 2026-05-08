@@ -1,111 +1,6 @@
 [
   {
     "en": {
-      "title": "Crowds Artist",
-      "company": "Walt Disney Animation Studios",
-      "desc": "Create crowd simulations and agent-based animations for Disney animated features."
-    },
-    "zh": {
-      "title": "群眾動畫師",
-      "company": "Walt Disney Animation Studios",
-      "desc": "為迪士尼動畫長片製作群眾模擬與角色動畫。"
-    },
-    "location": "Burbank, CA",
-    "type": "On-site",
-    "category": "Animation",
-    "salary": "",
-    "posted": "Feb 05, 2026",
-    "link": "https://www.disneycareers.com/en/job/burbank/crowds-artist/391/91430667568",
-    "featured": true,
-    "new": false,
-    "company_class": "enterprise"
-  },
-  {
-    "en": {
-      "title": "Artist, Creative Development - Disney & Pixar Games",
-      "company": "Disney",
-      "desc": "Provide visual guidance and brand feedback for Disney and Pixar game projects."
-    },
-    "zh": {
-      "title": "創意開發美術師 - Disney & Pixar 遊戲",
-      "company": "Disney",
-      "desc": "為 Disney 和 Pixar 遊戲專案提供視覺指導與品牌反饋。"
-    },
-    "location": "Glendale, CA",
-    "type": "On-site",
-    "category": "Concept Art",
-    "salary": "",
-    "posted": "Apr 23, 2026",
-    "link": "https://www.disneycareers.com/en/job/glendale/artist-creative-development-disney-and-pixar-games/391/94304799488",
-    "featured": true,
-    "new": true,
-    "company_class": "enterprise"
-  },
-  {
-    "en": {
-      "title": "VP-Creative Americas",
-      "company": "Disney Experiences",
-      "desc": "Lead creative vision and strategy for Disney Experiences across the Americas region."
-    },
-    "zh": {
-      "title": "創意副總裁 - 美洲區",
-      "company": "Disney Experiences",
-      "desc": "領導美洲區 Disney Experiences 的創意願景與策略。"
-    },
-    "location": "Glendale, CA",
-    "type": "On-site",
-    "category": "Art Direction",
-    "salary": "",
-    "posted": "May 05, 2026",
-    "link": "https://www.disneycareers.com/en/job/glendale/vp-creative-americas/391/91838125248",
-    "featured": true,
-    "new": true,
-    "company_class": "enterprise"
-  },
-  {
-    "en": {
-      "title": "Stereoscopic Layout Artist",
-      "company": "Walt Disney Animation Studios",
-      "desc": "Create stereoscopic 3D layouts and camera setups for animated feature films."
-    },
-    "zh": {
-      "title": "立體佈局美術師",
-      "company": "Walt Disney Animation Studios",
-      "desc": "為動畫長片製作立體 3D 佈局與鏡頭設置。"
-    },
-    "location": "Burbank, CA",
-    "type": "On-site",
-    "category": "3D Art",
-    "salary": "",
-    "posted": "Mar 02, 2026",
-    "link": "https://www.disneycareers.com/en/job/burbank/stereoscopic-layout-artist/391/92320928464",
-    "featured": false,
-    "new": false,
-    "company_class": "enterprise"
-  },
-  {
-    "en": {
-      "title": "VFX Artist",
-      "company": "Disney Experiences",
-      "desc": "Create visual effects for Disney theme park attractions, shows, and experiences."
-    },
-    "zh": {
-      "title": "視覺特效美術師",
-      "company": "Disney Experiences",
-      "desc": "為迪士尼主題樂園景點、表演和體驗製作視覺特效。"
-    },
-    "location": "Glendale, CA",
-    "type": "On-site",
-    "category": "VFX",
-    "salary": "",
-    "posted": "Apr 29, 2026",
-    "link": "https://www.disneycareers.com/en/job/glendale/vfx-artist/391/94531855328",
-    "featured": true,
-    "new": true,
-    "company_class": "enterprise"
-  },
-  {
-    "en": {
       "title": "Sr. Manager, Lead Concept Artist",
       "company": "Disney Experiences",
       "desc": "Lead concept art team for Disney park and resort creative development."
@@ -186,6 +81,447 @@
     "link": "https://www.disneycareers.com/en/job/burbank/art-director-marvel-games/391/83591725344",
     "featured": true,
     "new": true,
+    "company_class": "enterprise"
+  },
+  {
+    "en": {
+      "title": "Lead Sleep Technologist-Sleep Study Center – 9th Floor-New York Eye and Ear Infirmary of Mount Sinai-Part Time, Remote, 22.5 hours per week, Tues, Wed, Thurs, 9am to 5pm (Scoring)",
+      "company": "Mount Sinai Health System",
+      "desc": "Lead Sleep Technologist-Sleep Study Center – 9th Floor-New York Eye and Ear Infirmary of Mount Sinai-Part Time, Remote, 22.5 hours per week, Tues, Wed, Thurs, 9am to 5pm (Scoring)The Lead..."
+    },
+    "zh": {
+      "title": "Lead Sleep Technologist-Sleep Study Center – 9th Floor-New York Eye and Ear Infirmary of Mount Sinai-Part Time, Remote, 22.5 hours per week, Tues, Wed, Thurs, 9am to 5pm (Scoring)",
+      "company": "Mount Sinai Health System",
+      "desc": ""
+    },
+    "location": "USA",
+    "type": "Remote",
+    "category": "Graphic Design",
+    "salary": "",
+    "posted": "Today",
+    "link": "https://jobicy.com/jobs/143289-lead-sleep-technologist-sleep-study-center-9th-floor-new-york-eye-and-ear-infirmary-of-mount-sinai-part-time-remote-22-5-hours-per-week-tues-wed-thurs-9am-to-5pm-scoring",
+    "featured": true,
+    "new": true,
+    "company_class": "enterprise"
+  },
+  {
+    "en": {
+      "title": "Network Design Engineer V (WAN /Job Package Engineer) ABMS",
+      "company": "Lumen Technologies",
+      "desc": "Lumen is the trusted network for AI. We’re transforming how businesses connect, secure, and scale in an AI-driven world.By connecting people, data, and applications quickly, securely, and effortlessly, we help..."
+    },
+    "zh": {
+      "title": "Network Design Engineer V (WAN /Job Package Engineer) ABMS",
+      "company": "Lumen Technologies",
+      "desc": ""
+    },
+    "location": "USA",
+    "type": "Remote",
+    "category": "Graphic Design",
+    "company_class": "mid-small",
+    "salary": "$132,232-$193,940/yr",
+    "posted": "Today",
+    "link": "https://jobicy.com/jobs/143399-network-design-engineer-v-wan-job-package-engineer-abms",
+    "featured": true,
+    "new": true
+  },
+  {
+    "en": {
+      "title": "Junior UI designer (Marketing team)",
+      "company": "TechMagic",
+      "desc": "We’re looking for a creative junior UI Designer to support TechMagic’s marketing team. You’ll design and continuously improve digital assets and web interfaces, working closely with CMS-based publishing workflows. AI..."
+    },
+    "zh": {
+      "title": "Junior UI designer (Marketing team)",
+      "company": "TechMagic",
+      "desc": ""
+    },
+    "location": "Ukraine",
+    "type": "Remote",
+    "category": "UI/UX",
+    "company_class": "mid-small",
+    "salary": "",
+    "posted": "Today",
+    "link": "https://jobicy.com/jobs/143375-junior-ui-designer-marketing-team",
+    "featured": true,
+    "new": true
+  },
+  {
+    "en": {
+      "title": "Client Partner",
+      "company": "YLD.io",
+      "desc": "Client PartnerLocation: UK – London (expectation of being in London as required by team/ client)Work where you do your best — fully remote or hybrid from one of our offices,..."
+    },
+    "zh": {
+      "title": "Client Partner",
+      "company": "YLD.io",
+      "desc": ""
+    },
+    "location": "UK",
+    "type": "Remote",
+    "category": "Graphic Design",
+    "company_class": "mid-small",
+    "salary": "",
+    "posted": "Today",
+    "link": "https://jobicy.com/jobs/143386-client-partner-4",
+    "featured": true,
+    "new": true
+  },
+  {
+    "en": {
+      "title": "Principal Presales Engineer, Product Specialist – CDP, Martech, AI",
+      "company": "Twilio",
+      "desc": "Who we are At Twilio, we’re shaping the future of communications, all from the comfort of our homes. We deliver innovative solutions to hundreds of thousands of businesses and empower millions of developers..."
+    },
+    "zh": {
+      "title": "Principal Presales Engineer, Product Specialist – CDP, Martech, AI",
+      "company": "Twilio",
+      "desc": ""
+    },
+    "location": "UK",
+    "type": "Remote",
+    "category": "Graphic Design",
+    "company_class": "mid-small",
+    "salary": "",
+    "posted": "Today",
+    "link": "https://jobicy.com/jobs/143378-principal-presales-engineer-product-specialist-cdp-martech-ai",
+    "featured": true,
+    "new": true
+  },
+  {
+    "en": {
+      "title": "Senior Design Technologist, Design Foundation",
+      "company": "TikTok",
+      "desc": "Lead the design technology and design systems foundation for TikTok's product experience."
+    },
+    "zh": {
+      "title": "資深設計技術師 - 設計基礎架構",
+      "company": "TikTok",
+      "desc": "領導 TikTok 產品體驗的設計技術與設計系統基礎架構。"
+    },
+    "location": "San Jose, CA",
+    "type": "On-site",
+    "category": "UI/UX",
+    "salary": "",
+    "posted": "Recently",
+    "link": "https://lifeattiktok.com/search/7631650139656063285",
+    "featured": true,
+    "new": true,
+    "company_class": "enterprise"
+  },
+  {
+    "en": {
+      "title": "Content Designer, Ads",
+      "company": "TikTok",
+      "desc": "Design compelling ad content experiences for TikTok's advertising platform."
+    },
+    "zh": {
+      "title": "內容設計師 - 廣告",
+      "company": "TikTok",
+      "desc": "為 TikTok 廣告平台設計引人入勝的廣告內容體驗。"
+    },
+    "location": "San Jose, CA",
+    "type": "On-site",
+    "category": "Graphic Design",
+    "salary": "",
+    "posted": "Recently",
+    "link": "https://lifeattiktok.com/search/7553329183243143432",
+    "featured": true,
+    "new": true,
+    "company_class": "enterprise"
+  },
+  {
+    "en": {
+      "title": "Senior Content Designer, Ads",
+      "company": "TikTok",
+      "desc": "Lead content design strategy for TikTok's advertising products and campaigns."
+    },
+    "zh": {
+      "title": "資深內容設計師 - 廣告",
+      "company": "TikTok",
+      "desc": "領導 TikTok 廣告產品的內容設計策略。"
+    },
+    "location": "San Jose, CA",
+    "type": "On-site",
+    "category": "Graphic Design",
+    "salary": "",
+    "posted": "Recently",
+    "link": "https://lifeattiktok.com/search/7602793214941366581",
+    "featured": true,
+    "new": true,
+    "company_class": "enterprise"
+  },
+  {
+    "en": {
+      "title": "Product Designer (Creator) - TikTok UX",
+      "company": "TikTok",
+      "desc": "Design creator-facing product experiences for TikTok's global user base."
+    },
+    "zh": {
+      "title": "產品設計師 (創作者) - TikTok UX",
+      "company": "TikTok",
+      "desc": "為 TikTok 全球用戶設計創作者面向的產品體驗。"
+    },
+    "location": "San Jose, CA",
+    "type": "On-site",
+    "category": "UI/UX",
+    "salary": "",
+    "posted": "Recently",
+    "link": "https://lifeattiktok.com/search/7599799873770277125",
+    "featured": true,
+    "new": true,
+    "company_class": "enterprise"
+  },
+  {
+    "en": {
+      "title": "Content Design Intern (TikTok-Design-Live) - 2026 Start",
+      "company": "TikTok",
+      "desc": "Create content design solutions for TikTok Live features as a design intern."
+    },
+    "zh": {
+      "title": "內容設計實習生 (TikTok-Design-Live) - 2026",
+      "company": "TikTok",
+      "desc": "為 TikTok Live 功能製作內容設計解決方案的實習機會。"
+    },
+    "location": "Singapore",
+    "type": "On-site",
+    "category": "UI/UX",
+    "salary": "",
+    "posted": "Recently",
+    "link": "https://lifeattiktok.com/search/7533134925695666440",
+    "featured": true,
+    "new": true,
+    "company_class": "enterprise"
+  },
+  {
+    "en": {
+      "title": "Sr. Graphic Designer",
+      "company": "Disney Experiences",
+      "desc": "The Sr. Graphic Designer is responsible for producing Creative assets via style guides from concept to final artwork. Works under general supervision to create unique and original artwork with a franchise and consumer-centric approach."
+    },
+    "zh": {
+      "title": "資深平面設計師",
+      "company": "Disney Experiences",
+      "desc": "負責從概念到最終作品的創意資產製作，按照風格指南，以特許經營和消費者為中心的方法創作獨特的原創藝術品。"
+    },
+    "location": "Kissimmee, FL / Glendale, CA",
+    "type": "On-site",
+    "category": "Graphic Design",
+    "salary": "$75,700-$106,400/yr",
+    "posted": "May 08, 2026",
+    "link": "https://www.disneycareers.com/en/job/kissimmee/sr-graphic-designer/391/94864283728",
+    "featured": true,
+    "new": true,
+    "company_class": "enterprise"
+  },
+  {
+    "en": {
+      "title": "Manager, Graphic Design",
+      "company": "Disney Experiences",
+      "desc": "Leads a team of designers responsible for producing creative assets from concept to final artwork. Provides creative direction, oversees workload distribution, and ensures high-quality execution aligned with franchise, consumer, and business needs."
+    },
+    "zh": {
+      "title": "平面設計經理",
+      "company": "Disney Experiences",
+      "desc": "領導設計師團隊，負責從概念到最終作品的創意資產製作。提供創意方向，監督工作量分配，確保高品質執行符合特許經營、消費者和業務需求。"
+    },
+    "location": "Kissimmee, FL / Glendale, CA",
+    "type": "On-site",
+    "category": "Graphic Design",
+    "salary": "$91,000-$128,000/yr",
+    "posted": "May 08, 2026",
+    "link": "https://www.disneycareers.com/en/job/kissimmee/manager-graphic-design/391/94864283776",
+    "featured": true,
+    "new": true,
+    "company_class": "enterprise"
+  },
+  {
+    "en": {
+      "title": "VP-Creative Americas",
+      "company": "Disney Experiences",
+      "desc": "Lead creative vision and strategy for Disney Experiences across the Americas region."
+    },
+    "zh": {
+      "title": "創意副總裁 - 美洲區",
+      "company": "Disney Experiences",
+      "desc": "領導美洲區 Disney Experiences 的創意願景與策略。"
+    },
+    "location": "Glendale, CA",
+    "type": "On-site",
+    "category": "Art Direction",
+    "salary": "",
+    "posted": "May 05, 2026",
+    "link": "https://www.disneycareers.com/en/job/glendale/vp-creative-americas/391/91838125248",
+    "featured": true,
+    "new": true,
+    "company_class": "enterprise"
+  },
+  {
+    "en": {
+      "title": "Lead Content Designer",
+      "company": "Disney Experiences (DXT)",
+      "desc": "Drive content design and strategy to define next-generation experiences for Disney Experiences Technology. Collaborate with designers, creatives, and cross-functional partners to deliver simple, reliable, and useful experiences for guests."
+    },
+    "zh": {
+      "title": "首席內容設計師",
+      "company": "Disney Experiences (DXT)",
+      "desc": "推動內容設計和策略，為迪士尼體驗技術定義下一代體驗。與設計師、創意人員和跨職能合作夥伴協作，為賓客提供簡單、可靠且有用的體驗。"
+    },
+    "location": "Orlando, FL / Glendale, CA",
+    "type": "On-site",
+    "category": "UI/UX",
+    "salary": "$135,200-$190,300/yr",
+    "posted": "May 05, 2026",
+    "link": "https://www.disneycareers.com/en/job/orlando/lead-user-experience-designer/391/94747735504",
+    "featured": true,
+    "new": true,
+    "company_class": "enterprise"
+  },
+  {
+    "en": {
+      "title": "Senior Show Lighting Designer - Project Hire",
+      "company": "Walt Disney Imagineering",
+      "desc": "Lead and support the design implementation and lighting installation effort for attractions, retail spaces, restaurant spaces, display areas, landscape, facades, and area development at Disney parks."
+    },
+    "zh": {
+      "title": "高級演出燈光設計師 - 項目聘用",
+      "company": "Walt Disney Imagineering",
+      "desc": "領導和支援迪士尼樂園景點、零售空間、餐廳空間、展示區域、景觀、外牆和區域開發的燈光設計實施和安裝。"
+    },
+    "location": "Anaheim, CA",
+    "type": "On-site",
+    "category": "Lighting Design",
+    "salary": "$111,500-$140,900/yr",
+    "posted": "May 04, 2026",
+    "link": "https://www.disneycareers.com/en/job/anaheim/senior-show-lighting-designer-project-hire-internal-assignment/391/94714706992",
+    "featured": true,
+    "new": true,
+    "company_class": "enterprise"
+  },
+  {
+    "en": {
+      "title": "Show Lighting Designer - Project Hire",
+      "company": "Walt Disney Imagineering",
+      "desc": "Design lighting for all visible areas in Disney parks including attractions, retail spaces, restaurant spaces, display areas, landscape, facades, and area development."
+    },
+    "zh": {
+      "title": "演出燈光設計師 - 項目聘用",
+      "company": "Walt Disney Imagineering",
+      "desc": "為迪士尼樂園所有可見區域設計燈光，包括景點、零售空間、餐廳空間、展示區域、景觀、外牆和區域開發。"
+    },
+    "location": "Anaheim, CA",
+    "type": "On-site",
+    "category": "Lighting Design",
+    "salary": "$95,500-$128,000/yr",
+    "posted": "May 04, 2026",
+    "link": "https://www.disneycareers.com/en/job/anaheim/show-lighting-designer-project-hire-internal-assignment/391/94707587904",
+    "featured": true,
+    "new": true,
+    "company_class": "enterprise"
+  },
+  {
+    "en": {
+      "title": "VFX Artist",
+      "company": "Disney Experiences",
+      "desc": "Create visual effects for Disney theme park attractions, shows, and experiences."
+    },
+    "zh": {
+      "title": "視覺特效美術師",
+      "company": "Disney Experiences",
+      "desc": "為迪士尼主題樂園景點、表演和體驗製作視覺特效。"
+    },
+    "location": "Glendale, CA",
+    "type": "On-site",
+    "category": "VFX",
+    "salary": "",
+    "posted": "Apr 29, 2026",
+    "link": "https://www.disneycareers.com/en/job/glendale/vfx-artist/391/94531855328",
+    "featured": true,
+    "new": true,
+    "company_class": "enterprise"
+  },
+  {
+    "en": {
+      "title": "Theme Lighting Designer Senior - Project Hire",
+      "company": "Walt Disney Imagineering",
+      "desc": "Research and identify readily available items or fixtures, as well as craft uniquely original custom pieces for theme parks, attractions, restaurants, and resorts. Lead the design work of junior designers and develop teams to complete fabrication drawings."
+    },
+    "zh": {
+      "title": "高級主題燈光設計師 - 項目聘用",
+      "company": "Walt Disney Imagineering",
+      "desc": "研究並識別現有燈具，為主題公園、景點、餐廳和度假村打造獨特的原創訂製燈具。領導初級設計師的設計工作。"
+    },
+    "location": "Glendale, CA / Lake Buena Vista, FL",
+    "type": "On-site",
+    "category": "Lighting Design",
+    "salary": "$100,100-$140,900/yr",
+    "posted": "Apr 29, 2026",
+    "link": "https://www.disneycareers.com/en/job/glendale/theme-lighting-designer-senior-project-hire-internal-assignment/391/94309470480",
+    "featured": true,
+    "new": true,
+    "company_class": "enterprise"
+  },
+  {
+    "en": {
+      "title": "Artist, Creative Development - Disney & Pixar Games",
+      "company": "Disney",
+      "desc": "Provide visual guidance and brand feedback for Disney and Pixar game projects."
+    },
+    "zh": {
+      "title": "創意開發美術師 - Disney & Pixar 遊戲",
+      "company": "Disney",
+      "desc": "為 Disney 和 Pixar 遊戲專案提供視覺指導與品牌反饋。"
+    },
+    "location": "Glendale, CA",
+    "type": "On-site",
+    "category": "Concept Art",
+    "salary": "",
+    "posted": "Apr 23, 2026",
+    "link": "https://www.disneycareers.com/en/job/glendale/artist-creative-development-disney-and-pixar-games/391/94304799488",
+    "featured": true,
+    "new": true,
+    "company_class": "enterprise"
+  },
+  {
+    "en": {
+      "title": "Stereoscopic Layout Artist",
+      "company": "Walt Disney Animation Studios",
+      "desc": "Create stereoscopic 3D layouts and camera setups for animated feature films."
+    },
+    "zh": {
+      "title": "立體佈局美術師",
+      "company": "Walt Disney Animation Studios",
+      "desc": "為動畫長片製作立體 3D 佈局與鏡頭設置。"
+    },
+    "location": "Burbank, CA",
+    "type": "On-site",
+    "category": "3D Art",
+    "salary": "",
+    "posted": "Mar 02, 2026",
+    "link": "https://www.disneycareers.com/en/job/burbank/stereoscopic-layout-artist/391/92320928464",
+    "featured": false,
+    "new": false,
+    "company_class": "enterprise"
+  },
+  {
+    "en": {
+      "title": "Crowds Artist",
+      "company": "Walt Disney Animation Studios",
+      "desc": "Create crowd simulations and agent-based animations for Disney animated features."
+    },
+    "zh": {
+      "title": "群眾動畫師",
+      "company": "Walt Disney Animation Studios",
+      "desc": "為迪士尼動畫長片製作群眾模擬與角色動畫。"
+    },
+    "location": "Burbank, CA",
+    "type": "On-site",
+    "category": "Animation",
+    "salary": "",
+    "posted": "Feb 05, 2026",
+    "link": "https://www.disneycareers.com/en/job/burbank/crowds-artist/391/91430667568",
+    "featured": true,
+    "new": false,
     "company_class": "enterprise"
   },
   {
@@ -355,27 +691,6 @@
     "featured": false,
     "new": false,
     "company_class": "mid-small"
-  },
-  {
-    "en": {
-      "title": "Lead Sleep Technologist-Sleep Study Center – 9th Floor-New York Eye and Ear Infirmary of Mount Sinai-Part Time, Remote, 22.5 hours per week, Tues, Wed, Thurs, 9am to 5pm (Scoring)",
-      "company": "Mount Sinai Health System",
-      "desc": "Lead Sleep Technologist-Sleep Study Center – 9th Floor-New York Eye and Ear Infirmary of Mount Sinai-Part Time, Remote, 22.5 hours per week, Tues, Wed, Thurs, 9am to 5pm (Scoring)The Lead..."
-    },
-    "zh": {
-      "title": "Lead Sleep Technologist-Sleep Study Center – 9th Floor-New York Eye and Ear Infirmary of Mount Sinai-Part Time, Remote, 22.5 hours per week, Tues, Wed, Thurs, 9am to 5pm (Scoring)",
-      "company": "Mount Sinai Health System",
-      "desc": ""
-    },
-    "location": "USA",
-    "type": "Remote",
-    "category": "Graphic Design",
-    "salary": "",
-    "posted": "Today",
-    "link": "https://jobicy.com/jobs/143289-lead-sleep-technologist-sleep-study-center-9th-floor-new-york-eye-and-ear-infirmary-of-mount-sinai-part-time-remote-22-5-hours-per-week-tues-wed-thurs-9am-to-5pm-scoring",
-    "featured": true,
-    "new": true,
-    "company_class": "enterprise"
   },
   {
     "en": {
@@ -1257,195 +1572,6 @@
     "link": "https://remotive.com/remote-jobs/all-others/online-data-analyst-united-states-spanish-speakers-2088704",
     "featured": false,
     "new": false,
-    "company_class": "enterprise"
-  },
-  {
-    "en": {
-      "title": "Network Design Engineer V (WAN /Job Package Engineer) ABMS",
-      "company": "Lumen Technologies",
-      "desc": "Lumen is the trusted network for AI. We’re transforming how businesses connect, secure, and scale in an AI-driven world.By connecting people, data, and applications quickly, securely, and effortlessly, we help..."
-    },
-    "zh": {
-      "title": "Network Design Engineer V (WAN /Job Package Engineer) ABMS",
-      "company": "Lumen Technologies",
-      "desc": ""
-    },
-    "location": "USA",
-    "type": "Remote",
-    "category": "Graphic Design",
-    "company_class": "mid-small",
-    "salary": "$132,232-$193,940/yr",
-    "posted": "Today",
-    "link": "https://jobicy.com/jobs/143399-network-design-engineer-v-wan-job-package-engineer-abms",
-    "featured": true,
-    "new": true
-  },
-  {
-    "en": {
-      "title": "Junior UI designer (Marketing team)",
-      "company": "TechMagic",
-      "desc": "We’re looking for a creative junior UI Designer to support TechMagic’s marketing team. You’ll design and continuously improve digital assets and web interfaces, working closely with CMS-based publishing workflows. AI..."
-    },
-    "zh": {
-      "title": "Junior UI designer (Marketing team)",
-      "company": "TechMagic",
-      "desc": ""
-    },
-    "location": "Ukraine",
-    "type": "Remote",
-    "category": "UI/UX",
-    "company_class": "mid-small",
-    "salary": "",
-    "posted": "Today",
-    "link": "https://jobicy.com/jobs/143375-junior-ui-designer-marketing-team",
-    "featured": true,
-    "new": true
-  },
-  {
-    "en": {
-      "title": "Client Partner",
-      "company": "YLD.io",
-      "desc": "Client PartnerLocation: UK – London (expectation of being in London as required by team/ client)Work where you do your best — fully remote or hybrid from one of our offices,..."
-    },
-    "zh": {
-      "title": "Client Partner",
-      "company": "YLD.io",
-      "desc": ""
-    },
-    "location": "UK",
-    "type": "Remote",
-    "category": "Graphic Design",
-    "company_class": "mid-small",
-    "salary": "",
-    "posted": "Today",
-    "link": "https://jobicy.com/jobs/143386-client-partner-4",
-    "featured": true,
-    "new": true
-  },
-  {
-    "en": {
-      "title": "Principal Presales Engineer, Product Specialist – CDP, Martech, AI",
-      "company": "Twilio",
-      "desc": "Who we are At Twilio, we’re shaping the future of communications, all from the comfort of our homes. We deliver innovative solutions to hundreds of thousands of businesses and empower millions of developers..."
-    },
-    "zh": {
-      "title": "Principal Presales Engineer, Product Specialist – CDP, Martech, AI",
-      "company": "Twilio",
-      "desc": ""
-    },
-    "location": "UK",
-    "type": "Remote",
-    "category": "Graphic Design",
-    "company_class": "mid-small",
-    "salary": "",
-    "posted": "Today",
-    "link": "https://jobicy.com/jobs/143378-principal-presales-engineer-product-specialist-cdp-martech-ai",
-    "featured": true,
-    "new": true
-  },
-  {
-    "en": {
-      "title": "Senior Design Technologist, Design Foundation",
-      "company": "TikTok",
-      "desc": "Lead the design technology and design systems foundation for TikTok's product experience."
-    },
-    "zh": {
-      "title": "資深設計技術師 - 設計基礎架構",
-      "company": "TikTok",
-      "desc": "領導 TikTok 產品體驗的設計技術與設計系統基礎架構。"
-    },
-    "location": "San Jose, CA",
-    "type": "On-site",
-    "category": "UI/UX",
-    "salary": "",
-    "posted": "Recently",
-    "link": "https://lifeattiktok.com/search/7631650139656063285",
-    "featured": true,
-    "new": true,
-    "company_class": "enterprise"
-  },
-  {
-    "en": {
-      "title": "Content Designer, Ads",
-      "company": "TikTok",
-      "desc": "Design compelling ad content experiences for TikTok's advertising platform."
-    },
-    "zh": {
-      "title": "內容設計師 - 廣告",
-      "company": "TikTok",
-      "desc": "為 TikTok 廣告平台設計引人入勝的廣告內容體驗。"
-    },
-    "location": "San Jose, CA",
-    "type": "On-site",
-    "category": "Graphic Design",
-    "salary": "",
-    "posted": "Recently",
-    "link": "https://lifeattiktok.com/search/7553329183243143432",
-    "featured": true,
-    "new": true,
-    "company_class": "enterprise"
-  },
-  {
-    "en": {
-      "title": "Senior Content Designer, Ads",
-      "company": "TikTok",
-      "desc": "Lead content design strategy for TikTok's advertising products and campaigns."
-    },
-    "zh": {
-      "title": "資深內容設計師 - 廣告",
-      "company": "TikTok",
-      "desc": "領導 TikTok 廣告產品的內容設計策略。"
-    },
-    "location": "San Jose, CA",
-    "type": "On-site",
-    "category": "Graphic Design",
-    "salary": "",
-    "posted": "Recently",
-    "link": "https://lifeattiktok.com/search/7602793214941366581",
-    "featured": true,
-    "new": true,
-    "company_class": "enterprise"
-  },
-  {
-    "en": {
-      "title": "Product Designer (Creator) - TikTok UX",
-      "company": "TikTok",
-      "desc": "Design creator-facing product experiences for TikTok's global user base."
-    },
-    "zh": {
-      "title": "產品設計師 (創作者) - TikTok UX",
-      "company": "TikTok",
-      "desc": "為 TikTok 全球用戶設計創作者面向的產品體驗。"
-    },
-    "location": "San Jose, CA",
-    "type": "On-site",
-    "category": "UI/UX",
-    "salary": "",
-    "posted": "Recently",
-    "link": "https://lifeattiktok.com/search/7599799873770277125",
-    "featured": true,
-    "new": true,
-    "company_class": "enterprise"
-  },
-  {
-    "en": {
-      "title": "Content Design Intern (TikTok-Design-Live) - 2026 Start",
-      "company": "TikTok",
-      "desc": "Create content design solutions for TikTok Live features as a design intern."
-    },
-    "zh": {
-      "title": "內容設計實習生 (TikTok-Design-Live) - 2026",
-      "company": "TikTok",
-      "desc": "為 TikTok Live 功能製作內容設計解決方案的實習機會。"
-    },
-    "location": "Singapore",
-    "type": "On-site",
-    "category": "UI/UX",
-    "salary": "",
-    "posted": "Recently",
-    "link": "https://lifeattiktok.com/search/7533134925695666440",
-    "featured": true,
-    "new": true,
     "company_class": "enterprise"
   }
 ]
