@@ -1258,5 +1258,89 @@
     "featured": false,
     "new": false,
     "company_class": "enterprise"
+  },
+  {
+    "en": {
+      "title": "Network Design Engineer V (WAN /Job Package Engineer) ABMS",
+      "company": "Lumen Technologies",
+      "desc": "Lumen is the trusted network for AI. We’re transforming how businesses connect, secure, and scale in an AI-driven world.By connecting people, data, and applications quickly, securely, and effortlessly, we help..."
+    },
+    "zh": {
+      "title": "Network Design Engineer V (WAN /Job Package Engineer) ABMS",
+      "company": "Lumen Technologies",
+      "desc": ""
+    },
+    "location": "USA",
+    "type": "Remote",
+    "category": "Graphic Design",
+    "company_class": "mid-small",
+    "salary": "$132,232-$193,940/yr",
+    "posted": "Today",
+    "link": "https://jobicy.com/jobs/143399-network-design-engineer-v-wan-job-package-engineer-abms",
+    "featured": true,
+    "new": true
+  },
+  {
+    "en": {
+      "title": "Junior UI designer (Marketing team)",
+      "company": "TechMagic",
+      "desc": "We’re looking for a creative junior UI Designer to support TechMagic’s marketing team. You’ll design and continuously improve digital assets and web interfaces, working closely with CMS-based publishing workflows. AI..."
+    },
+    "zh": {
+      "title": "Junior UI designer (Marketing team)",
+      "company": "TechMagic",
+      "desc": ""
+    },
+    "location": "Ukraine",
+    "type": "Remote",
+    "category": "UI/UX",
+    "company_class": "mid-small",
+    "salary": "",
+    "posted": "Today",
+    "link": "https://jobicy.com/jobs/143375-junior-ui-designer-marketing-team",
+    "featured": true,
+    "new": true
+  },
+  {
+    "en": {
+      "title": "Client Partner",
+      "company": "YLD.io",
+      "desc": "Client PartnerLocation: UK – London (expectation of being in London as required by team/ client)Work where you do your best — fully remote or hybrid from one of our offices,..."
+    },
+    "zh": {
+      "title": "Client Partner",
+      "company": "YLD.io",
+      "desc": ""
+    },
+    "location": "UK",
+    "type": "Remote",
+    "category": "Graphic Design",
+    "company_class": "mid-small",
+    "salary": "",
+    "posted": "Today",
+    "link": "https://jobicy.com/jobs/143386-client-partner-4",
+    "featured": true,
+    "new": true
+  },
+  {
+    "en": {
+      "title": "Principal Presales Engineer, Product Specialist – CDP, Martech, AI",
+      "company": "Twilio",
+      "desc": "Who we are At Twilio, we’re shaping the future of communications, all from the comfort of our homes. We deliver innovative solutions to hundreds of thousands of businesses and empower millions of developers..."
+    },
+    "zh": {
+      "title": "Principal Presales Engineer, Product Specialist – CDP, Martech, AI",
+      "company": "Twilio",
+      "desc": ""
+    },
+    "location": "UK",
+    "type": "Remote",
+    "category": "Graphic Design",
+    "company_class": "mid-small",
+    "salary": "",
+    "posted": "Today",
+    "link": "https://jobicy.com/jobs/143378-principal-presales-engineer-product-specialist-cdp-martech-ai",
+    "featured": true,
+    "new": true
   }
 ]
