@@ -1342,5 +1342,110 @@
     "link": "https://jobicy.com/jobs/143378-principal-presales-engineer-product-specialist-cdp-martech-ai",
     "featured": true,
     "new": true
+  },
+  {
+    "en": {
+      "title": "Senior Design Technologist, Design Foundation",
+      "company": "TikTok",
+      "desc": "Lead the design technology and design systems foundation for TikTok's product experience."
+    },
+    "zh": {
+      "title": "資深設計技術師 - 設計基礎架構",
+      "company": "TikTok",
+      "desc": "領導 TikTok 產品體驗的設計技術與設計系統基礎架構。"
+    },
+    "location": "San Jose, CA",
+    "type": "On-site",
+    "category": "UI/UX",
+    "salary": "",
+    "posted": "Recently",
+    "link": "https://lifeattiktok.com/search/7631650139656063285",
+    "featured": true,
+    "new": true,
+    "company_class": "enterprise"
+  },
+  {
+    "en": {
+      "title": "Content Designer, Ads",
+      "company": "TikTok",
+      "desc": "Design compelling ad content experiences for TikTok's advertising platform."
+    },
+    "zh": {
+      "title": "內容設計師 - 廣告",
+      "company": "TikTok",
+      "desc": "為 TikTok 廣告平台設計引人入勝的廣告內容體驗。"
+    },
+    "location": "San Jose, CA",
+    "type": "On-site",
+    "category": "Graphic Design",
+    "salary": "",
+    "posted": "Recently",
+    "link": "https://lifeattiktok.com/search/7553329183243143432",
+    "featured": true,
+    "new": true,
+    "company_class": "enterprise"
+  },
+  {
+    "en": {
+      "title": "Senior Content Designer, Ads",
+      "company": "TikTok",
+      "desc": "Lead content design strategy for TikTok's advertising products and campaigns."
+    },
+    "zh": {
+      "title": "資深內容設計師 - 廣告",
+      "company": "TikTok",
+      "desc": "領導 TikTok 廣告產品的內容設計策略。"
+    },
+    "location": "San Jose, CA",
+    "type": "On-site",
+    "category": "Graphic Design",
+    "salary": "",
+    "posted": "Recently",
+    "link": "https://lifeattiktok.com/search/7602793214941366581",
+    "featured": true,
+    "new": true,
+    "company_class": "enterprise"
+  },
+  {
+    "en": {
+      "title": "Product Designer (Creator) - TikTok UX",
+      "company": "TikTok",
+      "desc": "Design creator-facing product experiences for TikTok's global user base."
+    },
+    "zh": {
+      "title": "產品設計師 (創作者) - TikTok UX",
+      "company": "TikTok",
+      "desc": "為 TikTok 全球用戶設計創作者面向的產品體驗。"
+    },
+    "location": "San Jose, CA",
+    "type": "On-site",
+    "category": "UI/UX",
+    "salary": "",
+    "posted": "Recently",
+    "link": "https://lifeattiktok.com/search/7599799873770277125",
+    "featured": true,
+    "new": true,
+    "company_class": "enterprise"
+  },
+  {
+    "en": {
+      "title": "Content Design Intern (TikTok-Design-Live) - 2026 Start",
+      "company": "TikTok",
+      "desc": "Create content design solutions for TikTok Live features as a design intern."
+    },
+    "zh": {
+      "title": "內容設計實習生 (TikTok-Design-Live) - 2026",
+      "company": "TikTok",
+      "desc": "為 TikTok Live 功能製作內容設計解決方案的實習機會。"
+    },
+    "location": "Singapore",
+    "type": "On-site",
+    "category": "UI/UX",
+    "salary": "",
+    "posted": "Recently",
+    "link": "https://lifeattiktok.com/search/7533134925695666440",
+    "featured": true,
+    "new": true,
+    "company_class": "enterprise"
   }
 ]
