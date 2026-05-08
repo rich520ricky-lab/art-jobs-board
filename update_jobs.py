@@ -37,7 +37,7 @@ CATEGORY_KEYWORDS = {
 BIG_COMPANIES = [
     "reddit inc", "reddit", "amazon", "stripe", "figma", "samsara",
     "tripadvisor", "toast", "kraken", "collibra", "marqeta", "deel",
-    "cd projekt", "telus", "veeam",
+    "cd projekt", "telus", "veeam", "disney", "marvel",
     "mount sinai health",
 ]
 
