@@ -1,0 +1,24 @@
+# MLX Model Configuration (Last updated: 2026-05-01)
+# ==============================================
+
+# 基礎設定
+provider: custom
+model.default: "MLX-Qwen3.5-9B-DeepSeek-V4-Flash-6bit"
+model.base_url: "http://127.0.0.1:8000/v1"
+model.api_key: "1111"
+model.provider: "custom"
+
+# 顯示設定
+show_reasoning: "hide"  # 關閉 thinking 顯示
+skin: "light"           # 輕量主題
+bell: "off"
+
+# 效能優化
+agent.max_turns: 90
+compression.threshold: 50
+compression.target_ratio: 0.20
+context_length: 16384   # 調整為適合 local model 的大小
+
+# 其他
+reasoning: "off"        # 禁用推理，更快回覆
+tools_enabled: true

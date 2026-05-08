@@ -1,0 +1,128 @@
+{
+  "jobs": [
+    {
+      "id": "57b0f7947e68",
+      "name": "Daily Art Jobs Update",
+      "prompt": "Run: cd ~/hermes/art-jobs-site && python3 update_jobs.py\n\nThis scrapes real jobs from Jobicy API (tag=design,art,creative) and Remotive API (category=design). Deduplicates by (title, company). Adds company_class field (enterprise/mid-small/school/freelance) for the new classification filter. Git commit + push if there are changes.\n\nAfter running, verify the site at https://rich520ricky-lab.github.io/art-jobs-board/ returns 200. Summarize: total jobs, how many new added, company_class breakdown.",
+      "skills": [],
+      "skill": null,
+      "model": null,
+      "provider": null,
+      "base_url": null,
+      "script": null,
+      "context_from": null,
+      "schedule": {
+        "kind": "cron",
+        "expr": "0 8 * * *",
+        "display": "0 8 * * *"
+      },
+      "schedule_display": "0 8 * * *",
+      "repeat": {
+        "times": null,
+        "completed": 3
+      },
+      "enabled": true,
+      "state": "scheduled",
+      "paused_at": null,
+      "paused_reason": null,
+      "created_at": "2026-05-06T00:28:18.942424-07:00",
+      "next_run_at": "2026-05-09T08:00:00-07:00",
+      "last_run_at": "2026-05-08T08:45:40.724901-07:00",
+      "last_status": "ok",
+      "last_error": null,
+      "last_delivery_error": null,
+      "deliver": "origin",
+      "origin": {
+        "platform": "telegram",
+        "chat_id": "8221910326",
+        "chat_name": "Rich T",
+        "thread_id": null
+      },
+      "enabled_toolsets": null,
+      "workdir": "/Users/test/hermes/art-jobs-site"
+    },
+    {
+      "id": "01bd1f97b3aa",
+      "name": "Art Jobs Board Daily Update",
+      "prompt": "Run: cd ~/hermes/art-jobs-site && python3 update_jobs.py\n\nThis scrapes real jobs from Jobicy API (tag=design,art,creative) and Remotive API (category=design). Deduplicates by (title, company). Adds company_class field (enterprise/mid-small/school/freelance). Git commit + push if changes. Then verify site at https://rich520ricky-lab.github.io/art-jobs-board/ returns 200. Summarize: total jobs, new added, company_class breakdown.",
+      "skills": [],
+      "skill": null,
+      "model": null,
+      "provider": null,
+      "base_url": null,
+      "script": null,
+      "context_from": null,
+      "schedule": {
+        "kind": "cron",
+        "expr": "0 19 * * *",
+        "display": "0 19 * * *"
+      },
+      "schedule_display": "0 19 * * *",
+      "repeat": {
+        "times": null,
+        "completed": 2
+      },
+      "enabled": true,
+      "state": "scheduled",
+      "paused_at": null,
+      "paused_reason": null,
+      "created_at": "2026-05-06T16:55:29.450433-07:00",
+      "next_run_at": "2026-05-08T19:00:00-07:00",
+      "last_run_at": "2026-05-07T19:06:23.217919-07:00",
+      "last_status": "ok",
+      "last_error": null,
+      "last_delivery_error": null,
+      "deliver": "origin",
+      "origin": {
+        "platform": "telegram",
+        "chat_id": "8221910326",
+        "chat_name": "Rich T",
+        "thread_id": null
+      },
+      "enabled_toolsets": null,
+      "workdir": "/Users/test/hermes/art-jobs-site"
+    },
+    {
+      "id": "54528e84c56d",
+      "name": "Disney TikTok Scraper",
+      "prompt": "Run the Disney + TikTok career site scraper using the browser tool. Step 1: Go to Disney careers and extract art/design job links. Step 2: Go to TikTok design team page and extract job listings. Step 3: Add new jobs to jobs.json, git commit and push. Report how many new jobs found.",
+      "skills": [],
+      "skill": null,
+      "model": null,
+      "provider": null,
+      "base_url": null,
+      "script": null,
+      "context_from": null,
+      "schedule": {
+        "kind": "cron",
+        "expr": "0 14 * * *",
+        "display": "0 14 * * *"
+      },
+      "schedule_display": "0 14 * * *",
+      "repeat": {
+        "times": null,
+        "completed": 0
+      },
+      "enabled": true,
+      "state": "scheduled",
+      "paused_at": null,
+      "paused_reason": null,
+      "created_at": "2026-05-08T10:52:24.310164-07:00",
+      "next_run_at": "2026-05-08T14:00:00-07:00",
+      "last_run_at": null,
+      "last_status": null,
+      "last_error": null,
+      "last_delivery_error": null,
+      "deliver": "origin",
+      "origin": {
+        "platform": "telegram",
+        "chat_id": "8221910326",
+        "chat_name": "Rich T",
+        "thread_id": null
+      },
+      "enabled_toolsets": null,
+      "workdir": "/Users/test/hermes/art-jobs-site"
+    }
+  ],
+  "updated_at": "2026-05-08T10:52:24.312613-07:00"
+}
