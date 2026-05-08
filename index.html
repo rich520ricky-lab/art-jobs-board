@@ -76,8 +76,12 @@
         .tag.new { background: #dbeafe; color: #1e40af; }
         .tag.remote { background: #ecfdf5; color: #065f46; }
         .tag.hybrid { background: #f5f3ff; color: #5b21b6; }
-        .tag.onsite { background: #f3f4f6; color: #374151; }
-        .job-desc { font-size: 0.85rem; color: #6b7280; margin-top: 10px; line-height: 1.5; }
+.tag.onsite { background: #f3f4f6; color: #374151; }
+.tag.enterprise { background: #fef2f2; color: #991b1b; }
+.tag.mid-small { background: #f0fdf4; color: #166534; }
+.tag.school { background: #fefce8; color: #854d0e; }
+.tag.freelance { background: #f5f3ff; color: #5b21b6; }
+.job-desc { font-size: 0.85rem; color: #6b7280; margin-top: 10px; line-height: 1.5; }
         .job-meta { display: flex; flex-wrap: wrap; gap: 16px; margin-top: 12px; font-size: 0.82rem; color: #6b7280; }
         .job-meta span { display: flex; align-items: center; gap: 5px; }
         .job-meta .salary { color: #059669; font-weight: 600; }
@@ -226,6 +230,16 @@
                 <option value="all"><span class="en-text">All</span><span class="zh-text">全部</span></option>
             </select>
         </div>
+        <div class="filter-group">
+            <label><span class="en-text">Company Type</span><span class="zh-text">公司分類</span></label>
+            <select id="filterCompanyClass" onchange="filterJobs()">
+                <option value="all"><span class="en-text">All</span><span class="zh-text">全部</span></option>
+                <option value="enterprise"><span class="en-text">Enterprise</span><span class="zh-text">大公司</span></option>
+                <option value="mid-small"><span class="en-text">Mid/Small</span><span class="zh-text">中小公司</span></option>
+                <option value="school"><span class="en-text">School</span><span class="zh-text">學校</span></option>
+                <option value="freelance"><span class="en-text">Freelance</span><span class="zh-text">外包/接案</span></option>
+            </select>
+        </div>
     </aside>
 
     <!-- Job List -->
@@ -298,6 +312,7 @@ function filterJobs() {
     const location = document.getElementById('filterLocation').value;
     const type = document.getElementById('filterType').value;
     const category = document.getElementById('filterCategory').value;
+    const companyClass = document.getElementById('filterCompanyClass').value;
     
     const jobs = jobsData.filter(j => {
         const d = j.en;
@@ -306,6 +321,7 @@ function filterJobs() {
         if (location !== 'all' && j.location !== location) return false;
         if (type !== 'all' && j.type !== type) return false;
         if (category !== 'all' && d.category !== category) return false;
+        if (companyClass !== 'all' && j.company_class !== companyClass) return false;
         return true;
     });
     
@@ -323,9 +339,11 @@ function renderJobs(jobs) {
     list.innerHTML = jobs.map((j, idx) => {
         const d = currentLang === 'zh' ? j.zh : j.en;
         const tags = [];
+        const classLabels = { enterprise: 'Enterprise', 'mid-small': 'Mid/Small', school: 'School', freelance: 'Freelance' };
         if (j.featured) tags.push(`<span class="tag featured">Featured</span>`);
         if (j.new) tags.push(`<span class="tag new">New</span>`);
         tags.push(`<span class="tag ${j.type.toLowerCase()}">${j.type}</span>`);
+        if (j.company_class && classLabels[j.company_class]) tags.push(`<span class="tag ${j.company_class}">${classLabels[j.company_class]}</span>`);
         
         return `<div class="job-card">
             <div class="job-card-top">
@@ -382,6 +400,7 @@ function setLang(lang) {
     const location = document.getElementById('filterLocation').value;
     const type = document.getElementById('filterType').value;
     const category = document.getElementById('filterCategory').value;
+    const companyClass = document.getElementById('filterCompanyClass').value;
     const search = document.getElementById('searchInput').value;
     
     const jobs = jobsData.filter(j => {
@@ -390,6 +409,7 @@ function setLang(lang) {
         if (location !== 'all' && j.location !== location) return false;
         if (type !== 'all' && j.type !== type) return false;
         if (category !== 'all' && j.en.category !== category) return false;
+        if (companyClass !== 'all' && j.company_class !== companyClass) return false;
         return true;
     });
     
