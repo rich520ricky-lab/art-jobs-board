@@ -1,469 +1,9 @@
 [
   {
     "en": {
-      "title": "Senior Technical Artist, Animation",
-      "company": "Riot Games",
-      "desc": "Join our animation team to create cutting-edge visual effects for our games. 5+ years experience required."
-    },
-    "zh": {
-      "title": "資深技術美術師 - 動畫",
-      "company": "Riot Games",
-      "desc": "加入動畫團隊為遊戲打造尖端視覺效果。需 5 年以上經驗。"
-    },
-    "location": "Los Angeles, CA",
-    "type": "On-site",
-    "category": "Game Art",
-    "salary": "$120K-$180K/yr",
-    "posted": "2 days ago",
-    "link": "https://www.riotgames.com/en/work-with-us",
-    "featured": true,
-    "new": true
-  },
-  {
-    "en": {
-      "title": "Artist, Creative Development (Disney & Pixar Games)",
-      "company": "Disney",
-      "desc": "Provide visual guidance and brand feedback for Disney and Pixar game projects."
-    },
-    "zh": {
-      "title": "創意開發美術師 (Disney & Pixar 遊戲)",
-      "company": "Disney",
-      "desc": "為 Disney 和 Pixar 遊戲專案提供視覺指導與品牌反饋。"
-    },
-    "location": "Glendale, CA",
-    "type": "On-site",
-    "category": "Concept Art",
-    "salary": "$90K-$140K/yr",
-    "posted": "2 hours ago",
-    "link": "https://www.disneycareers.com/",
-    "featured": false,
-    "new": true
-  },
-  {
-    "en": {
-      "title": "Animator",
-      "company": "Disney",
-      "desc": "Create compelling character animations for Disney Animation Studios productions."
-    },
-    "zh": {
-      "title": "動畫師",
-      "company": "Disney",
-      "desc": "為 Disney Animation Studios 製作打造引人入勝的角色動畫。"
-    },
-    "location": "Burbank, CA",
-    "type": "On-site",
-    "category": "Animation",
-    "salary": "$85K-$135K/yr",
-    "posted": "5 days ago",
-    "link": "https://www.disneycareers.com/",
-    "featured": false,
-    "new": false
-  },
-  {
-    "en": {
-      "title": "Lead Product Designer, The New Yorker",
-      "company": "The New Yorker",
-      "desc": "Lead design initiatives for The New Yorker digital platform."
-    },
-    "zh": {
-      "title": "首席產品設計師",
-      "company": "The New Yorker",
-      "desc": "領導 The New Yorker 數位平台的設計計劃。"
-    },
-    "location": "London, GB",
-    "type": "Hybrid",
-    "category": "Product Design",
-    "salary": "$130K-$180K/yr",
-    "posted": "6 days ago",
-    "link": "https://www.condenast.com/careers",
-    "featured": false,
-    "new": false
-  },
-  {
-    "en": {
-      "title": "Concept Artist",
-      "company": "DreamWorks",
-      "desc": "Develop visual concepts for DreamWorks Animation feature films."
-    },
-    "zh": {
-      "title": "概念藝術家",
-      "company": "DreamWorks",
-      "desc": "為 DreamWorks 動畫電影開發視覺概念。"
-    },
-    "location": "Glendale, CA",
-    "type": "On-site",
-    "category": "Concept Art",
-    "salary": "$85K-$130K/yr",
-    "posted": "3 days ago",
-    "link": "https://www.dreamworks.com/careers",
-    "featured": false,
-    "new": false
-  },
-  {
-    "en": {
-      "title": "Graphic Designer",
-      "company": "Nike",
-      "desc": "Design marketing materials and brand assets for Nike."
-    },
-    "zh": {
-      "title": "平面設計師",
-      "company": "Nike",
-      "desc": "為 Nike 設計行銷素材與品牌資產。"
-    },
-    "location": "Beaverton, OR",
-    "type": "Hybrid",
-    "category": "Graphic Design",
-    "salary": "$75K-$110K/yr",
-    "posted": "1 day ago",
-    "link": "https://www.nike.com/careers/",
-    "featured": false,
-    "new": false
-  },
-  {
-    "en": {
-      "title": "Motion Graphics Designer",
-      "company": "TikTok",
-      "desc": "Create engaging motion graphics for TikTok content and marketing."
-    },
-    "zh": {
-      "title": "動態圖形設計師",
-      "company": "TikTok",
-      "desc": "為 TikTok 內容與行銷創作吸睛的動態圖形。"
-    },
-    "location": "Los Angeles, CA",
-    "type": "Hybrid",
-    "category": "Motion Design",
-    "salary": "$100K-$150K/yr",
-    "posted": "4 days ago",
-    "link": "https://careers.tiktok.com/",
-    "featured": false,
-    "new": false
-  },
-  {
-    "en": {
-      "title": "Character Artist",
-      "company": "Blur Studio",
-      "desc": "Create high-quality 3D character models for film and game projects. 2-3 years experience preferred."
-    },
-    "zh": {
-      "title": "角色美術師",
-      "company": "Blur Studio",
-      "desc": "為電影與遊戲專案製作高品質 3D 角色模型。優先考慮 2-3 年經驗。"
-    },
-    "location": "Los Angeles, CA",
-    "type": "On-site",
-    "category": "3D Art",
-    "salary": "$80K-$130K/yr",
-    "posted": "1 day ago",
-    "link": "https://blur.com/careers",
-    "featured": false,
-    "new": true
-  },
-  {
-    "en": {
-      "title": "2D Animator",
-      "company": "Cartoon Saloon",
-      "desc": "Create beautiful 2D animations for independent animated films. Entry to mid-level positions available."
-    },
-    "zh": {
-      "title": "2D 動畫師",
-      "company": "Cartoon Saloon",
-      "desc": "為獨立動畫電影創作優美的 2D 動畫。適合初階至中階。"
-    },
-    "location": "Remote",
-    "type": "Remote",
-    "category": "Animation",
-    "salary": "€30K-€55K/yr",
-    "posted": "3 days ago",
-    "link": "https://www.cartoonsaloon.ie/jobs/",
-    "featured": false,
-    "new": false
-  },
-  {
-    "en": {
-      "title": "Visual Effects Artist",
-      "company": "Zoic Studios",
-      "desc": "Work on VFX for TV shows and commercials. Proficiency in Houdini or Maya required."
-    },
-    "zh": {
-      "title": "視覺特效師",
-      "company": "Zoic Studios",
-      "desc": "為電視節目與廣告製作 VFX。需熟悉 Houdini 或 Maya。"
-    },
-    "location": "Los Angeles, CA",
-    "type": "Hybrid",
-    "category": "VFX",
-    "salary": "$70K-$120K/yr",
-    "posted": "2 days ago",
-    "link": "https://www.zoicstudios.com/careers",
-    "featured": false,
-    "new": true
-  },
-  {
-    "en": {
-      "title": "Environment Artist",
-      "company": "Tangent Animation",
-      "desc": "Design and create detailed 3D environments for animated productions. 1-2 years experience welcome."
-    },
-    "zh": {
-      "title": "環境美術師",
-      "company": "Tangent Animation",
-      "desc": "為動畫製作設計與創作細緻的 3D 環境。歡迎 1-2 年經驗。"
-    },
-    "location": "Remote",
-    "type": "Remote",
-    "category": "3D Art",
-    "salary": "$55K-$85K/yr",
-    "posted": "5 days ago",
-    "link": "https://tangentanimation.com/",
-    "featured": false,
-    "new": false
-  },
-  {
-    "en": {
-      "title": "UI/UX Designer",
-      "company": "Riot Games",
-      "desc": "Design game interfaces and user experiences that delight players worldwide."
-    },
-    "zh": {
-      "title": "UI/UX 設計師",
-      "company": "Riot Games",
-      "desc": "設計遊戲界面與用戶體驗，讓全球玩家為之驚喜。"
-    },
-    "location": "Los Angeles, CA",
-    "type": "Hybrid",
-    "category": "UI/UX",
-    "salary": "$95K-$160K/yr",
-    "posted": "1 day ago",
-    "link": "https://www.riotgames.com/en/work-with-us",
-    "featured": false,
-    "new": true
-  },
-  {
-    "en": {
-      "title": "Visual Designer",
-      "company": "TikTok",
-      "desc": "Design TikTok product interfaces, brand visuals, and marketing materials."
-    },
-    "zh": {
-      "title": "視覺設計師",
-      "company": "TikTok",
-      "desc": "設計 TikTok 產品界面、品牌視覺與行銷素材。"
-    },
-    "location": "San Jose, CA",
-    "type": "On-site",
-    "category": "Graphic Design",
-    "salary": "$120K-$180K/yr",
-    "posted": "6 days ago",
-    "link": "https://careers.tiktok.com/",
-    "featured": false,
-    "new": false
-  },
-  {
-    "en": {
-      "title": "Brand Designer",
-      "company": "Nike",
-      "desc": "Design visual identity systems, advertising creative, and digital content for Nike."
-    },
-    "zh": {
-      "title": "品牌設計師",
-      "company": "Nike",
-      "desc": "為 Nike 設計視覺識別系統、廣告創意與數位內容。"
-    },
-    "location": "Beaverton, OR",
-    "type": "On-site",
-    "category": "Graphic Design",
-    "salary": "$85K-$140K/yr",
-    "posted": "4 days ago",
-    "link": "https://www.nike.com/careers/",
-    "featured": false,
-    "new": false
-  },
-  {
-    "en": {
-      "title": "Art Teacher - High School",
-      "company": "LAUSD",
-      "desc": "Full-time visual arts teaching position at Los Angeles Unified high school."
-    },
-    "zh": {
-      "title": "高中美術教師",
-      "company": "LAUSD",
-      "desc": "洛杉磯聯合學區高中全職視覺藝術教學職位。"
-    },
-    "location": "Los Angeles, CA",
-    "type": "On-site",
-    "category": "Education",
-    "salary": "$55k-$85k/yr",
-    "posted": "3 days ago",
-    "link": "https://www.lausd.org/Page/4300",
-    "featured": false,
-    "new": false
-  },
-  {
-    "en": {
-      "title": "Digital Art Instructor",
-      "company": "SVA",
-      "desc": "Teach digital painting and character design. Part-time evening classes. Industry experience valued."
-    },
-    "zh": {
-      "title": "數位藝術講師",
-      "company": "SVA (School of Visual Arts)",
-      "desc": "教授數位繪畫與角色設計。夜間兼職課程。重視業界經驗。"
-    },
-    "location": "Santa Monica, CA",
-    "type": "On-site",
-    "category": "Education",
-    "salary": "$45k-$75k/yr",
-    "posted": "2 days ago",
-    "link": "https://jobs.sva.edu",
-    "featured": false,
-    "new": true
-  },
-  {
-    "en": {
-      "title": "Animation Workshop Instructor",
-      "company": "Skillshare",
-      "desc": "Create pre-recorded animation courses. Royalty-based revenue model."
-    },
-    "zh": {
-      "title": "動畫工作坊講師",
-      "company": "Skillshare",
-      "desc": "製作預錄動畫課程。基於分潤的收入模式。"
-    },
-    "location": "Remote",
-    "type": "Remote",
-    "category": "Education",
-    "salary": "$50-$100/hr",
-    "posted": "4 days ago",
-    "link": "https://www.skillshare.com/teach",
-    "featured": false,
-    "new": false
-  },
-  {
-    "en": {
-      "title": "3D Modeling Instructor",
-      "company": "Coursera",
-      "desc": "Design and deliver a Blender 3D modeling specialization for online learners."
-    },
-    "zh": {
-      "title": "3D 建模講師",
-      "company": "Coursera",
-      "desc": "為線上學習者設計與交付 Blender 3D 建模專業課程。"
-    },
-    "location": "Los Angeles, CA",
-    "type": "On-site",
-    "category": "Education",
-    "salary": "$60k-$90k/yr",
-    "posted": "5 days ago",
-    "link": "https://www.coursera.org/instructor-community",
-    "featured": false,
-    "new": false
-  },
-  {
-    "en": {
-      "title": "Art Director - Non-Profit",
-      "company": "Upwork",
-      "desc": "Lead visual direction for a non-profit organization's rebranding initiative."
-    },
-    "zh": {
-      "title": "藝術總監 - 非營利組織",
-      "company": "Upwork",
-      "desc": "領導非營利組織品牌重塑的視覺方向。"
-    },
-    "location": "Los Angeles, CA",
-    "type": "Hybrid",
-    "category": "Art Direction",
-    "salary": "$50k-$70k/yr",
-    "posted": "6 days ago",
-    "link": "https://www.upwork.com/",
-    "featured": false,
-    "new": false
-  },
-  {
-    "en": {
-      "title": "2D Character Animation Project",
-      "company": "Fiverr",
-      "desc": "Create 2D character animations for indie game. Budget: $3,000-$5,000. 2-4 weeks project."
-    },
-    "zh": {
-      "title": "2D 角色動畫專案",
-      "company": "Fiverr",
-      "desc": "為獨立遊戲製作 2D 角色動畫。預算 $3,000-$5,000。2-4 週專案。"
-    },
-    "location": "Remote",
-    "type": "Remote",
-    "category": "Animation",
-    "salary": "$3K-$5K/project",
-    "posted": "1 day ago",
-    "link": "https://www.fiverr.com/gigs/character-design",
-    "featured": false,
-    "new": true
-  },
-  {
-    "en": {
-      "title": "Brand Identity Designer",
-      "company": "Fiverr Pro",
-      "desc": "Design full brand identity for a tech startup. Logo, palette, typography, and stationery."
-    },
-    "zh": {
-      "title": "品牌識別設計師",
-      "company": "Fiverr Pro",
-      "desc": "為科技新創設計完整品牌識別（Logo、色彩系統、字體、文具）。"
-    },
-    "location": "Remote",
-    "type": "Remote",
-    "category": "Graphic Design",
-    "salary": "$300-$1,500/project",
-    "posted": "3 days ago",
-    "link": "https://www.fiverr.com/start/graphic-design",
-    "featured": false,
-    "new": false
-  },
-  {
-    "en": {
-      "title": "3D Character Artist",
-      "company": "Riot Games",
-      "desc": "Create 3D character models, materials, and textures for League of Legends and VALORANT."
-    },
-    "zh": {
-      "title": "3D 角色美術師",
-      "company": "Riot Games",
-      "desc": "為英雄聯盟與 VALORANT 製作 3D 角色模型、材質與貼圖。"
-    },
-    "location": "Los Angeles, CA",
-    "type": "On-site",
-    "category": "3D Art",
-    "salary": "$85K-$150K/yr",
-    "posted": "5 days ago",
-    "link": "https://www.riotgames.com/en/work-with-us",
-    "featured": false,
-    "new": false
-  },
-  {
-    "en": {
-      "title": "Illustrator",
-      "company": "The New Yorker",
-      "desc": "Create cover illustrations and interior artwork for the iconic magazine."
-    },
-    "zh": {
-      "title": "插畫家",
-      "company": "The New Yorker",
-      "desc": "為標誌性雜誌創作封面插畫與內頁藝術作品。"
-    },
-    "location": "New York, NY",
-    "type": "On-site",
-    "category": "Concept Art",
-    "salary": "Commission based",
-    "posted": "6 days ago",
-    "link": "https://www.condenast.com/careers",
-    "featured": false,
-    "new": false
-  },
-  {
-    "en": {
       "title": "Senior Product Designer, Consumer",
       "company": "Reddit",
-      "desc": "Reddit is a community of communities. It’s built on shared interests, passion, and trust, and is home to the most open and authentic conversations on the internet. Every day, Reddit users submit, vote, and comment on the topics they care most about. With 100,000+ active communities and approximately"
+      "desc": "Reddit is a community of communities. It’s built on shared interests, passion, and trust, and is home to the most open and authentic conversations on the internet. Every day, Reddit..."
     },
     "zh": {
       "title": "Senior Product Designer, Consumer",
@@ -471,19 +11,19 @@
       "desc": ""
     },
     "location": "USA",
-    "type": "On-site",
+    "type": "Remote",
     "category": "UI/UX",
     "salary": "$180,200-$252,300/yr",
-    "posted": "1 day ago",
+    "posted": "2 days ago",
     "link": "https://jobicy.com/jobs/143121-senior-product-designer-consumer",
-    "featured": true,
-    "new": true
+    "featured": false,
+    "new": false
   },
   {
     "en": {
       "title": "Director, Product Design",
       "company": "Samsara",
-      "desc": "Who we are Samsara (NYSE: IOT) is the pioneer of the Connected Operations™ Cloud, which is a platform that enables organizations that depend on physical operations to harness Internet of Things (IoT) data to develop actionable insights and improve their operations. At Samsara, we are helping improve"
+      "desc": "Who we areSamsara (NYSE: IOT) is the pioneer of the Connected Operations™ Cloud, which is a platform that enables organizations that depend on physical operations to harness Internet of Things..."
     },
     "zh": {
       "title": "Director, Product Design",
@@ -491,10 +31,10 @@
       "desc": ""
     },
     "location": "USA",
-    "type": "On-site",
+    "type": "Remote",
     "category": "Graphic Design",
     "salary": "$235,600-$294,500/yr",
-    "posted": "3 days ago",
+    "posted": "4 days ago",
     "link": "https://jobicy.com/jobs/143046-director-product-design",
     "featured": false,
     "new": false
@@ -503,7 +43,7 @@
     "en": {
       "title": "Senior Product Designer – Agentic Team Suite",
       "company": "Toast",
-      "desc": "About Toast Our focus is on building the restaurant platform that helps restaurants adapt, take control, and get back to what they do best: building the businesses they love. And because our technology is purpose-built for restaurants, by restaurant people, restaurants can trust that we’ll deliver o"
+      "desc": "About ToastOur focus is on building the restaurant platform that helps restaurants adapt, take control, and get back to what they do best: building the businesses they love. And because..."
     },
     "zh": {
       "title": "Senior Product Designer – Agentic Team Suite",
@@ -511,10 +51,10 @@
       "desc": ""
     },
     "location": "USA",
-    "type": "On-site",
+    "type": "Remote",
     "category": "UI/UX",
     "salary": "$125,000-$254,000/yr",
-    "posted": "8 days ago",
+    "posted": "9 days ago",
     "link": "https://jobicy.com/jobs/142687-senior-product-designer-agentic-team-suite",
     "featured": false,
     "new": false
@@ -523,7 +63,7 @@
     "en": {
       "title": "Brand Designer, Privy",
       "company": "Stripe",
-      "desc": "Who we are About Privy Our mission is to make privacy and user ownership the default online. We build simple, flexible developer tooling that make it easy to build products that put users first. By leveraging modern cryptography, we shift the status quo around digital ownership and protect the accou"
+      "desc": "Who we are About PrivyOur mission is to make privacy and user ownership the default online. We build simple, flexible developer tooling that make it easy to build products that..."
     },
     "zh": {
       "title": "Brand Designer, Privy",
@@ -531,10 +71,10 @@
       "desc": ""
     },
     "location": "USA",
-    "type": "On-site",
+    "type": "Remote",
     "category": "Graphic Design",
     "salary": "$175,200-$262,800/yr",
-    "posted": "8 days ago",
+    "posted": "9 days ago",
     "link": "https://jobicy.com/jobs/142685-brand-designer-privy",
     "featured": false,
     "new": false
@@ -543,7 +83,7 @@
     "en": {
       "title": "Senior Gameplay Designer (Enemies/NPC)",
       "company": "CD PROJEKT RED",
-      "desc": "Company Description To create revolutionary, story-driven RPGs which go straight to the hearts of gamers — this is our mission. Want to dive deeper into our company’s culture? Explore our social media and check out our YouTube channel and Beyond the Game Blog where we share behind-the-scenes insight"
+      "desc": "Company DescriptionTo create revolutionary, story-driven RPGs which go straight to the hearts of gamers — this is our mission. Want to dive deeper into our company’s culture? Explore our social..."
     },
     "zh": {
       "title": "Senior Gameplay Designer (Enemies/NPC)",
@@ -551,10 +91,10 @@
       "desc": ""
     },
     "location": "Poland",
-    "type": "On-site",
+    "type": "Remote",
     "category": "Game Art",
     "salary": "$241,200-$381,480/yr",
-    "posted": "12 days ago",
+    "posted": "13 days ago",
     "link": "https://jobicy.com/jobs/142479-senior-gameplay-designer-enemies-npc-2",
     "featured": false,
     "new": false
@@ -563,7 +103,7 @@
     "en": {
       "title": "Product Designer",
       "company": "World Wide Technology",
-      "desc": "Work Experience 3–5 years of experience designing digital products, platforms, or complex applications Strong foundation in UX principles, interaction design, and information architecture Proficiency with modern design tools (e.g., Figma) and collaborative workflows Ability to translate ambiguity in"
+      "desc": "Work Experience 3–5 years of experience designing digital products, platforms, or complex applications Strong foundation in UX principles, interaction design, and information architecture Proficiency with modern design tools (e.g., Figma)..."
     },
     "zh": {
       "title": "Product Designer",
@@ -571,10 +111,10 @@
       "desc": ""
     },
     "location": "USA",
-    "type": "On-site",
+    "type": "Remote",
     "category": "UI/UX",
     "salary": "$110,000-$140,000/yr",
-    "posted": "13 days ago",
+    "posted": "14 days ago",
     "link": "https://jobicy.com/jobs/142370-product-designer-4",
     "featured": false,
     "new": false
@@ -583,7 +123,7 @@
     "en": {
       "title": "Staff Product Designer – Pro",
       "company": "Kraken",
-      "desc": "Building the Future of Crypto Our Krakenites are a world-class team with crypto conviction, united by our desire to discover and unlock the potential of crypto and blockchain technology. What makes us different? Kraken is a mission-focused company rooted in crypto values. As a Krakenite, you’ll join"
+      "desc": "Building the Future of Crypto Our Krakenites are a world-class team with crypto conviction, united by our desire to discover and unlock the potential of crypto and blockchain technology.What makes us..."
     },
     "zh": {
       "title": "Staff Product Designer – Pro",
@@ -591,10 +131,10 @@
       "desc": ""
     },
     "location": "Europe",
-    "type": "On-site",
+    "type": "Remote",
     "category": "UI/UX",
     "salary": "",
-    "posted": "16 days ago",
+    "posted": "17 days ago",
     "link": "https://jobicy.com/jobs/142151-staff-product-designer-pro",
     "featured": false,
     "new": false
@@ -614,10 +154,30 @@
     "type": "Remote",
     "category": "Graphic Design",
     "salary": "",
-    "posted": "22 days ago",
+    "posted": "23 days ago",
     "link": "https://jobicy.com/jobs/141921-design-engineer",
     "featured": false,
     "new": false
+  },
+  {
+    "en": {
+      "title": "Lead Sleep Technologist-Sleep Study Center – 9th Floor-New York Eye and Ear Infirmary of Mount Sinai-Part Time, Remote, 22.5 hours per week, Tues, Wed, Thurs, 9am to 5pm (Scoring)",
+      "company": "Mount Sinai Health System",
+      "desc": "Lead Sleep Technologist-Sleep Study Center – 9th Floor-New York Eye and Ear Infirmary of Mount Sinai-Part Time, Remote, 22.5 hours per week, Tues, Wed, Thurs, 9am to 5pm (Scoring)The Lead..."
+    },
+    "zh": {
+      "title": "Lead Sleep Technologist-Sleep Study Center – 9th Floor-New York Eye and Ear Infirmary of Mount Sinai-Part Time, Remote, 22.5 hours per week, Tues, Wed, Thurs, 9am to 5pm (Scoring)",
+      "company": "Mount Sinai Health System",
+      "desc": ""
+    },
+    "location": "USA",
+    "type": "Remote",
+    "category": "Graphic Design",
+    "salary": "",
+    "posted": "Today",
+    "link": "https://jobicy.com/jobs/143289-lead-sleep-technologist-sleep-study-center-9th-floor-new-york-eye-and-ear-infirmary-of-mount-sinai-part-time-remote-22-5-hours-per-week-tues-wed-thurs-9am-to-5pm-scoring",
+    "featured": true,
+    "new": true
   },
   {
     "en": {
@@ -634,10 +194,10 @@
     "type": "Remote",
     "category": "Graphic Design",
     "salary": "",
-    "posted": "1 day ago",
+    "posted": "2 days ago",
     "link": "https://jobicy.com/jobs/143152-strategic-partnerships-lead-f-m-d",
-    "featured": true,
-    "new": true
+    "featured": false,
+    "new": false
   },
   {
     "en": {
@@ -654,7 +214,7 @@
     "type": "Remote",
     "category": "Graphic Design",
     "salary": "",
-    "posted": "3 days ago",
+    "posted": "4 days ago",
     "link": "https://jobicy.com/jobs/143056-rostering-officer-after-hours-service-permanent-part-time-location-flexible",
     "featured": false,
     "new": false
@@ -674,7 +234,7 @@
     "type": "Remote",
     "category": "Graphic Design",
     "salary": "$88,000-$88,000/yr",
-    "posted": "3 days ago",
+    "posted": "4 days ago",
     "link": "https://jobicy.com/jobs/143053-senior-rostering-officer-after-hours-service-permanent-full-time-permanent-part-time-location-flexible",
     "featured": false,
     "new": false
@@ -694,7 +254,7 @@
     "type": "Remote",
     "category": "Graphic Design",
     "salary": "$100,000-$110,000/yr",
-    "posted": "3 days ago",
+    "posted": "4 days ago",
     "link": "https://jobicy.com/jobs/143034-technical-talent-acquisition-partner",
     "featured": false,
     "new": false
@@ -714,7 +274,7 @@
     "type": "Remote",
     "category": "Graphic Design",
     "salary": "$67,200-$84,000/yr",
-    "posted": "5 days ago",
+    "posted": "6 days ago",
     "link": "https://jobicy.com/jobs/142961-partner-incentive-specialist",
     "featured": false,
     "new": false
@@ -734,7 +294,7 @@
     "type": "Remote",
     "category": "Graphic Design",
     "salary": "$162,700-$220,200/yr",
-    "posted": "7 days ago",
+    "posted": "8 days ago",
     "link": "https://jobicy.com/jobs/142755-senior-startup-investor-manager-vc-or-angel-aws-worldwide-startups",
     "featured": false,
     "new": false
@@ -754,7 +314,7 @@
     "type": "Remote",
     "category": "Graphic Design",
     "salary": "$90,000-$144,000/yr",
-    "posted": "7 days ago",
+    "posted": "8 days ago",
     "link": "https://jobicy.com/jobs/142746-technical-account-manager-montgomery-county-police-department-md",
     "featured": false,
     "new": false
@@ -774,7 +334,7 @@
     "type": "Remote",
     "category": "Graphic Design",
     "salary": "",
-    "posted": "8 days ago",
+    "posted": "9 days ago",
     "link": "https://jobicy.com/jobs/142665-senior-partnership-account-manager",
     "featured": false,
     "new": false
@@ -794,7 +354,7 @@
     "type": "Remote",
     "category": "Graphic Design",
     "salary": "$151,900-$223,400/yr",
-    "posted": "9 days ago",
+    "posted": "10 days ago",
     "link": "https://jobicy.com/jobs/142632-senior-manager-bank-partnerships",
     "featured": false,
     "new": false
@@ -814,7 +374,7 @@
     "type": "Remote",
     "category": "Graphic Design",
     "salary": "$150,000-$214,300/yr",
-    "posted": "11 days ago",
+    "posted": "12 days ago",
     "link": "https://jobicy.com/jobs/142568-technical-partner-manager-chicago-area",
     "featured": false,
     "new": false
@@ -834,7 +394,7 @@
     "type": "Remote",
     "category": "Graphic Design",
     "salary": "$150,000-$214,300/yr",
-    "posted": "11 days ago",
+    "posted": "12 days ago",
     "link": "https://jobicy.com/jobs/142567-technical-partner-manager-chicago-nyc-metro-area",
     "featured": false,
     "new": false
@@ -854,7 +414,7 @@
     "type": "Remote",
     "category": "Graphic Design",
     "salary": "$120,000-$140,000/yr",
-    "posted": "11 days ago",
+    "posted": "12 days ago",
     "link": "https://jobicy.com/jobs/142560-human-resources-business-partner",
     "featured": false,
     "new": false
@@ -874,7 +434,7 @@
     "type": "Remote",
     "category": "Graphic Design",
     "salary": "$100,000-$200,000/yr",
-    "posted": "12 days ago",
+    "posted": "13 days ago",
     "link": "https://jobicy.com/jobs/142529-account-executive-aco-partnerships",
     "featured": false,
     "new": false
@@ -894,7 +454,7 @@
     "type": "Remote",
     "category": "Graphic Design",
     "salary": "",
-    "posted": "12 days ago",
+    "posted": "13 days ago",
     "link": "https://jobicy.com/jobs/142503-senior-mulesoft-integrations-developer-full-time-or-part-time",
     "featured": false,
     "new": false
@@ -914,7 +474,7 @@
     "type": "Remote",
     "category": "Graphic Design",
     "salary": "",
-    "posted": "12 days ago",
+    "posted": "13 days ago",
     "link": "https://jobicy.com/jobs/142489-people-partner-japan-apac-singapore",
     "featured": false,
     "new": false
@@ -934,7 +494,7 @@
     "type": "Remote",
     "category": "Graphic Design",
     "salary": "$117,400-$176,000/yr",
-    "posted": "12 days ago",
+    "posted": "13 days ago",
     "link": "https://jobicy.com/jobs/142477-gsi-partner-development-lead-emea-2",
     "featured": false,
     "new": false
@@ -954,7 +514,7 @@
     "type": "Remote",
     "category": "Graphic Design",
     "salary": "",
-    "posted": "12 days ago",
+    "posted": "13 days ago",
     "link": "https://jobicy.com/jobs/142475-office-manager-part-time-30h-w",
     "featured": false,
     "new": false
@@ -974,7 +534,7 @@
     "type": "Remote",
     "category": "Graphic Design",
     "salary": "",
-    "posted": "16 days ago",
+    "posted": "17 days ago",
     "link": "https://jobicy.com/jobs/142150-senior-product-manager-people-list-org-chart",
     "featured": false,
     "new": false
@@ -994,28 +554,8 @@
     "type": "Remote",
     "category": "Graphic Design",
     "salary": "",
-    "posted": "16 days ago",
+    "posted": "17 days ago",
     "link": "https://jobicy.com/jobs/142143-talent-partner-2",
-    "featured": false,
-    "new": false
-  },
-  {
-    "en": {
-      "title": "Senior Partner Development Manager, EMEA",
-      "company": "Hack The Box",
-      "desc": "Ready to embark on the quest to join Hack The Box?At the end of this journey, you’ll become a proud member of Hack The Box, with the ultimate mission to..."
-    },
-    "zh": {
-      "title": "Senior Partner Development Manager, EMEA",
-      "company": "Hack The Box",
-      "desc": ""
-    },
-    "location": "UK",
-    "type": "Remote",
-    "category": "Graphic Design",
-    "salary": "",
-    "posted": "19 days ago",
-    "link": "https://jobicy.com/jobs/142108-senior-partner-development-manager-emea",
     "featured": false,
     "new": false
   },
@@ -1034,7 +574,7 @@
     "type": "Remote",
     "category": "Graphic Design",
     "salary": "$50-$75 /hour",
-    "posted": "2 days ago",
+    "posted": "3 days ago",
     "link": "https://remotive.com/remote-jobs/writing/freelance-writer-1185979",
     "featured": false,
     "new": false
@@ -1054,7 +594,7 @@
     "type": "Remote",
     "category": "Graphic Design",
     "salary": "",
-    "posted": "2 days ago",
+    "posted": "3 days ago",
     "link": "https://remotive.com/remote-jobs/customer-service/customer-support-manager-2090874",
     "featured": false,
     "new": false
@@ -1094,7 +634,7 @@
     "type": "Remote",
     "category": "Graphic Design",
     "salary": "",
-    "posted": "6 days ago",
+    "posted": "7 days ago",
     "link": "https://remotive.com/remote-jobs/devops/senior-devops-engineer-2090002",
     "featured": false,
     "new": false
@@ -1114,7 +654,7 @@
     "type": "Remote",
     "category": "Graphic Design",
     "salary": "$12k - $19k (35 hrs/week, freelance)",
-    "posted": "8 days ago",
+    "posted": "9 days ago",
     "link": "https://remotive.com/remote-jobs/operations/operations-software-assistant-2090000",
     "featured": false,
     "new": false
@@ -1134,7 +674,7 @@
     "type": "Remote",
     "category": "Graphic Design",
     "salary": "",
-    "posted": "12 days ago",
+    "posted": "13 days ago",
     "link": "https://remotive.com/remote-jobs/software-development/head-of-engineering-2089995",
     "featured": false,
     "new": false
@@ -1154,7 +694,7 @@
     "type": "Remote",
     "category": "Graphic Design",
     "salary": "-",
-    "posted": "12 days ago",
+    "posted": "13 days ago",
     "link": "https://remotive.com/remote-jobs/marketing/mid-senior-ai-video-artist-2089994",
     "featured": false,
     "new": false
@@ -1174,7 +714,7 @@
     "type": "Remote",
     "category": "Graphic Design",
     "salary": "$14/hour",
-    "posted": "15 days ago",
+    "posted": "16 days ago",
     "link": "https://remotive.com/remote-jobs/all-others/content-reviewer-us-2089990",
     "featured": false,
     "new": false
@@ -1194,7 +734,7 @@
     "type": "Remote",
     "category": "Graphic Design",
     "salary": "$40- $60k",
-    "posted": "15 days ago",
+    "posted": "16 days ago",
     "link": "https://remotive.com/remote-jobs/artificial-intelligence/ai-engineer-2089958",
     "featured": false,
     "new": false
@@ -1254,7 +794,7 @@
     "type": "Remote",
     "category": "Graphic Design",
     "salary": "$120 - $170 /hour",
-    "posted": "20 days ago",
+    "posted": "21 days ago",
     "link": "https://remotive.com/remote-jobs/software-development/senior-independent-ai-engineer-architect-1919266",
     "featured": false,
     "new": false
@@ -1274,7 +814,7 @@
     "type": "Remote",
     "category": "Graphic Design",
     "salary": "$90 - $150 /hour",
-    "posted": "20 days ago",
+    "posted": "21 days ago",
     "link": "https://remotive.com/remote-jobs/software-development/senior-independent-software-developer-1919265",
     "featured": false,
     "new": false
@@ -1294,7 +834,7 @@
     "type": "Remote",
     "category": "Graphic Design",
     "salary": "",
-    "posted": "21 days ago",
+    "posted": "22 days ago",
     "link": "https://remotive.com/remote-jobs/software-development/senior-full-stack-react-developer-2088711",
     "featured": false,
     "new": false
@@ -1334,7 +874,7 @@
     "type": "Remote",
     "category": "Graphic Design",
     "salary": "",
-    "posted": "22 days ago",
+    "posted": "23 days ago",
     "link": "https://remotive.com/remote-jobs/all-others/online-data-analyst-united-states-2088710",
     "featured": false,
     "new": false
@@ -1354,7 +894,7 @@
     "type": "Remote",
     "category": "Graphic Design",
     "salary": "OTE $25k - $35k",
-    "posted": "23 days ago",
+    "posted": "24 days ago",
     "link": "https://remotive.com/remote-jobs/sales/inside-sales-contractor-2086540",
     "featured": false,
     "new": false
@@ -1394,7 +934,7 @@
     "type": "Remote",
     "category": "Graphic Design",
     "salary": "",
-    "posted": "26 days ago",
+    "posted": "27 days ago",
     "link": "https://remotive.com/remote-jobs/software-development/senior-staff-software-engineer-php-ts-rust-kotlin-m-w-d-2088708",
     "featured": false,
     "new": false
@@ -1434,7 +974,7 @@
     "type": "Remote",
     "category": "Graphic Design",
     "salary": "$80k - $120k",
-    "posted": "28 days ago",
+    "posted": "29 days ago",
     "link": "https://remotive.com/remote-jobs/software-development/senior-frontend-developer-2088707",
     "featured": false,
     "new": false
@@ -1454,7 +994,7 @@
     "type": "Remote",
     "category": "Graphic Design",
     "salary": "",
-    "posted": "28 days ago",
+    "posted": "29 days ago",
     "link": "https://remotive.com/remote-jobs/software-development/fullstack-developer-us-et-2088706",
     "featured": false,
     "new": false
@@ -1474,29 +1014,9 @@
     "type": "Remote",
     "category": "Graphic Design",
     "salary": "",
-    "posted": "29 days ago",
+    "posted": "30 days ago",
     "link": "https://remotive.com/remote-jobs/all-others/online-data-analyst-united-states-spanish-speakers-2088704",
     "featured": false,
     "new": false
-  },
-  {
-    "en": {
-      "title": "Lead Sleep Technologist-Sleep Study Center – 9th Floor-New York Eye and Ear Infirmary of Mount Sinai-Part Time, Remote, 22.5 hours per week, Tues, Wed, Thurs, 9am to 5pm (Scoring)",
-      "company": "Mount Sinai Health System",
-      "desc": "Lead Sleep Technologist-Sleep Study Center – 9th Floor-New York Eye and Ear Infirmary of Mount Sinai-Part Time, Remote, 22.5 hours per week, Tues, Wed, Thurs, 9am to 5pm (Scoring)The Lead..."
-    },
-    "zh": {
-      "title": "Lead Sleep Technologist-Sleep Study Center – 9th Floor-New York Eye and Ear Infirmary of Mount Sinai-Part Time, Remote, 22.5 hours per week, Tues, Wed, Thurs, 9am to 5pm (Scoring)",
-      "company": "Mount Sinai Health System",
-      "desc": ""
-    },
-    "location": "USA",
-    "type": "Remote",
-    "category": "Graphic Design",
-    "salary": "",
-    "posted": "Today",
-    "link": "https://jobicy.com/jobs/143289-lead-sleep-technologist-sleep-study-center-9th-floor-new-york-eye-and-ear-infirmary-of-mount-sinai-part-time-remote-22-5-hours-per-week-tues-wed-thurs-9am-to-5pm-scoring",
-    "featured": true,
-    "new": true
   }
 ]
