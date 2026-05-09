@@ -1573,5 +1573,89 @@
     "featured": false,
     "new": false,
     "company_class": "enterprise"
+  },
+  {
+    "en": {
+      "title": "Associate Product Designer",
+      "company": "World Wide Technology",
+      "desc": "Work Experience Recently graduated or 1–2 years’ experience in a creative field (agency, marketing, or production company) Experience working with web and native applications a plus Background in Digital Design..."
+    },
+    "zh": {
+      "title": "Associate Product Designer",
+      "company": "World Wide Technology",
+      "desc": ""
+    },
+    "location": "USA",
+    "type": "Remote",
+    "category": "UI/UX",
+    "company_class": "mid-small",
+    "salary": "$69,000-$85,000/yr",
+    "posted": "Today",
+    "link": "https://jobicy.com/jobs/143456-associate-product-designer",
+    "featured": true,
+    "new": true
+  },
+  {
+    "en": {
+      "title": "Senior Mechanical Designer, Data Centers – Remote (U.S.)",
+      "company": "AECOM",
+      "desc": "Company DescriptionWork with Us. Change the World.At AECOM, we’re delivering a better world. Whether improving your commute, keeping the lights on, providing access to clean water, or transforming skylines, our..."
+    },
+    "zh": {
+      "title": "Senior Mechanical Designer, Data Centers – Remote (U.S.)",
+      "company": "AECOM",
+      "desc": ""
+    },
+    "location": "USA",
+    "type": "Remote",
+    "category": "Graphic Design",
+    "company_class": "mid-small",
+    "salary": "",
+    "posted": "Today",
+    "link": "https://jobicy.com/jobs/143454-senior-mechanical-designer-data-centers-remote-u-s-2",
+    "featured": true,
+    "new": true
+  },
+  {
+    "en": {
+      "title": "Overhead Line (OHL) Design engineer",
+      "company": "WSP",
+      "desc": "Power Networks provides high quality consultancy services within distribution network (cable and overhead lines) and transmission (cable). We support our clients throughout every stage of the process — from early..."
+    },
+    "zh": {
+      "title": "Overhead Line (OHL) Design engineer",
+      "company": "WSP",
+      "desc": ""
+    },
+    "location": "Sweden",
+    "type": "Remote",
+    "category": "Graphic Design",
+    "company_class": "mid-small",
+    "salary": "",
+    "posted": "Today",
+    "link": "https://jobicy.com/jobs/143438-overhead-line-ohl-design-engineer",
+    "featured": true,
+    "new": true
+  },
+  {
+    "en": {
+      "title": "Conversation Design Intern (Customer Success)",
+      "company": "Cresta",
+      "desc": "Cresta is on a mission to turn every customer conversation into a competitive advantage by unlocking the true potential of the contact center. Our platform combines the best of AI..."
+    },
+    "zh": {
+      "title": "Conversation Design Intern (Customer Success)",
+      "company": "Cresta",
+      "desc": ""
+    },
+    "location": "USA",
+    "type": "Remote",
+    "category": "Graphic Design",
+    "company_class": "mid-small",
+    "salary": "",
+    "posted": "Today",
+    "link": "https://jobicy.com/jobs/143428-conversation-design-intern-customer-success",
+    "featured": true,
+    "new": true
   }
 ]
