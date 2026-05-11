@@ -1678,5 +1678,26 @@
     "featured": true,
     "new": true,
     "company_class": "enterprise"
+  },
+  {
+    "en": {
+      "title": "Director of Revenue Systems and AI Automation (Offshore) ",
+      "company": "Caul Group",
+      "desc": "This search is open exclusively to candidates based in Latin America. Preference for Uruguay, Costa Rica, or Colombia. BACKGROUND CONTEXT Every department at Caul Group is generating AI and automation ideas faster than they can be built. This role tu"
+    },
+    "zh": {
+      "title": "Director of Revenue Systems and AI Automation (Offshore) ",
+      "company": "Caul Group",
+      "desc": ""
+    },
+    "location": "LATAM",
+    "type": "Remote",
+    "category": "Graphic Design",
+    "company_class": "mid-small",
+    "salary": "$60k–$72k",
+    "posted": "2 days ago",
+    "link": "https://remotive.com/remote-jobs/software-development/director-of-revenue-systems-and-ai-automation-offshore-2090878",
+    "featured": false,
+    "new": false
   }
 ]
