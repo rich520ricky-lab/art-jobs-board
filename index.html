@@ -118,15 +118,80 @@
         /* Footer */
         footer { text-align: center; padding: 30px 24px; color: #9ca3af; font-size: 0.78rem; border-top: 1px solid #eef0f6; max-width: 1200px; margin: 0 auto; }
         
+        /* Mobile Filter Toggle */
+        .filter-toggle { display: none; background: #667eea; color: #fff; border: none; padding: 10px 16px; border-radius: 10px; font-size: 0.85rem; font-weight: 600; cursor: pointer; font-family: inherit; width: 100%; margin-bottom: 12px; align-items: center; justify-content: center; gap: 6px; }
+        .filter-toggle:hover { background: #5a6fd6; }
+        .filter-toggle .arrow { transition: transform 0.3s; display: inline-block; }
+        .filter-toggle.open .arrow { transform: rotate(180deg); }
+
         /* Responsive */
         @media (max-width: 768px) {
-            .main-content { grid-template-columns: 1fr; }
-            .hero h2 { font-size: 1.6rem; }
-            .stats-grid { gap: 16px; }
+            .main-content { grid-template-columns: 1fr; padding: 20px 16px 40px; }
+            .hero { padding: 28px 16px 24px; }
+            .hero h2 { font-size: 1.4rem; }
+            .hero p { font-size: 0.9rem; }
+            .header-inner { padding: 12px 16px; }
+            .header-left h1 { font-size: 1rem; }
+            .header-logo { width: 30px; height: 30px; font-size: 1rem; }
+            .lang-btns button { padding: 5px 10px; font-size: 0.75rem; }
+            .stats-bar { padding: 0 16px; margin-top: -16px; }
+            .stats-grid { padding: 14px 16px; gap: 12px; border-radius: 12px; }
+            .stat-item { gap: 8px; }
+            .stat-icon { width: 32px; height: 32px; font-size: 0.9rem; border-radius: 10px; }
+            .stat-num { font-size: 1.15rem; }
+            .stat-label { font-size: 0.7rem; }
             .stat-divider { display: none; }
-            .stat-last { margin-left: 0; width: 100%; }
+            .stat-last { margin-left: 0; width: 100%; font-size: 0.72rem; }
+            
+            /* Filters - collapsible on mobile */
+            .filter-toggle { display: flex; }
+            .filters { padding: 14px; border-radius: 12px; }
+            .filters-content { max-height: 0; overflow: hidden; transition: max-height 0.35s ease, opacity 0.25s ease, margin 0.25s ease; opacity: 0; }
+            .filters-content.open { max-height: 900px; opacity: 1; }
+            
+            .job-card { padding: 14px; border-radius: 12px; }
+            .job-card:hover { transform: none; box-shadow: 0 1px 3px rgba(0,0,0,0.02); }
             .job-card-top { flex-direction: column; }
+            .job-card h3 { font-size: 0.92rem; }
+            .job-company { font-size: 0.8rem; }
+            .job-desc { font-size: 0.8rem; }
+            .job-meta { font-size: 0.75rem; gap: 10px; }
             .job-actions { flex-wrap: wrap; }
+            .btn-details, .btn-apply { flex: 1; justify-content: center; font-size: 0.78rem; padding: 8px 12px; min-height: 36px; }
+            .jobs-header h3 { font-size: 0.95rem; }
+            .jobs-section { padding: 0; }
+            .container { padding: 0 16px; }
+            footer { padding: 20px 16px; font-size: 0.72rem; }
+            
+            /* Modal on mobile */
+            .modal { width: calc(100% - 24px); max-height: 90vh; border-radius: 14px; }
+            .modal-header { padding: 20px 20px 16px; }
+            .modal-header h2 { font-size: 1.05rem; }
+            .modal-body { padding: 16px 20px 20px; }
+            .modal-body .detail-row { font-size: 0.82rem; flex-direction: column; gap: 2px; margin-bottom: 12px; }
+            .modal-body .detail-row .label { min-width: auto; }
+            .modal-footer { padding: 12px 20px 20px; flex-direction: column; }
+            .modal-footer .btn-apply { width: 100%; justify-content: center; }
+            .modal-close { top: 12px; right: 12px; width: 28px; height: 28px; font-size: 0.95rem; }
+        }
+
+        /* Very small phones */
+        @media (max-width: 400px) {
+            .hero h2 { font-size: 1.2rem; }
+            .stats-grid { gap: 8px; }
+            .stat-item { flex: 0 0 calc(50% - 8px); }
+            .stat-num { font-size: 1rem; }
+            .job-tags .tag { font-size: 0.65rem; padding: 1px 8px; }
+        }
+
+        /* Landscape mobile */
+        @media (max-width: 768px) and (orientation: landscape) {
+            .hero { padding: 16px 16px 18px; }
+            .hero h2 { font-size: 1.2rem; }
+            .stats-grid { padding: 10px 16px; }
+            .stat-icon { width: 26px; height: 26px; font-size: 0.8rem; }
+            .stat-num { font-size: 1rem; }
+            .main-content { padding: 12px 16px 24px; }
         }
         
         /* EN/ZH toggle visibility */
@@ -195,6 +260,11 @@
 <div class="main-content">
     <!-- Filters -->
     <aside class="filters">
+        <button class="filter-toggle" onclick="toggleFilters()" id="filterToggle">
+            🔍 <span class="en-text">Filters</span><span class="zh-text">篩選</span>
+            <span class="arrow">▼</span>
+        </button>
+        <div class="filters-content open" id="filtersContent">
         <h3>🔍 <span class="en-text">Filters</span><span class="zh-text">篩選</span></h3>
         <div class="filter-group">
             <label><span class="en-text">Search jobs...</span><span class="zh-text">搜尋職缺...</span></label>
@@ -238,8 +308,7 @@
                 <option value="mid-small"><span class="en-text">Mid/Small</span><span class="zh-text">中小公司</span></option>
                 <option value="school"><span class="en-text">School</span><span class="zh-text">學校</span></option>
                 <option value="freelance"><span class="en-text">Freelance</span><span class="zh-text">外包/接案</span></option>
-            </select>
-        </div>
+            </select>\n        </div>  <!-- /filterCompanyClass -->\n    </div>  <!-- /filtersContent -->
     </aside>
 
     <!-- Job List -->
@@ -436,7 +505,16 @@ async function loadJobs() {
         document.getElementById('jobList').innerHTML = '<p style="text-align:center;padding:40px;color:#6b7280;">Unable to load job listings. Please try again later.</p>';
     }
 }
+
 document.addEventListener('DOMContentLoaded', loadJobs);
+
+// Mobile filter toggle
+function toggleFilters() {
+    const content = document.getElementById('filtersContent');
+    const toggle = document.getElementById('filterToggle');
+    content.classList.toggle('open');
+    toggle.classList.toggle('open');
+}
 </script>
 </body>
 </html>
