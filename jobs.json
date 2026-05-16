@@ -2056,5 +2056,68 @@
     "link": "https://jobicy.com/jobs/143732-senior-partner-solutions-engineer-2",
     "featured": true,
     "new": true
+  },
+  {
+    "en": {
+      "title": "Freelance Brand Designer",
+      "company": "Mindrift",
+      "desc": "Please submit your resume in English and indicate your level of English.Mindrift is looking for a highly skilled Brand Designer to join the Tendem project (https://tendem.ai/) and drive specialized data..."
+    },
+    "zh": {
+      "title": "Freelance Brand Designer",
+      "company": "Mindrift",
+      "desc": ""
+    },
+    "location": "Romania",
+    "type": "Remote",
+    "category": "Graphic Design",
+    "company_class": "mid-small",
+    "salary": "",
+    "posted": "1 day ago",
+    "link": "https://jobicy.com/jobs/143975-freelance-brand-designer",
+    "featured": true,
+    "new": true
+  },
+  {
+    "en": {
+      "title": "Marketing Manager, Content & AI Enablement",
+      "company": "Expion Health",
+      "desc": "Title: Marketing Manager, Content & AI EnablementLocation: Fully RemoteReports To: VP, Marketing & Communications Pharmacy benefit management is a $500B+ industry most people have never heard of — but it has a major impact on how prescription drugs a"
+    },
+    "zh": {
+      "title": "Marketing Manager, Content & AI Enablement",
+      "company": "Expion Health",
+      "desc": ""
+    },
+    "location": "USA",
+    "type": "Remote",
+    "category": "Graphic Design",
+    "company_class": "mid-small",
+    "salary": "$75k - $95k",
+    "posted": "1 day ago",
+    "link": "https://remotive.com/remote-jobs/marketing/marketing-manager-content-ai-enablement-2090883",
+    "featured": true,
+    "new": true
+  },
+  {
+    "en": {
+      "title": "Business Transformation Lead",
+      "company": "Expion Health",
+      "desc": "Title: Business Transformation Lead Location: Fully Remote Reports To: President, Service & Growth Expion Health is building the future of pharmacy economics. As architects of prescription economics, we design how pharmacy value is created, aligning "
+    },
+    "zh": {
+      "title": "Business Transformation Lead",
+      "company": "Expion Health",
+      "desc": ""
+    },
+    "location": "USA",
+    "type": "Remote",
+    "category": "Graphic Design",
+    "company_class": "mid-small",
+    "salary": "$175k - $225k",
+    "posted": "3 days ago",
+    "link": "https://remotive.com/remote-jobs/artificial-intelligence/business-transformation-lead-2090881",
+    "featured": false,
+    "new": false
   }
 ]
