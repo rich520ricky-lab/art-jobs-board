@@ -16,8 +16,8 @@
     "salary": "",
     "posted": "Recently",
     "link": "https://www.disneycareers.com/en/job/glendale/sr-manager-lead-concept-artist/391/94344222272",
-    "featured": true,
-    "new": true,
+    "featured": false,
+    "new": false,
     "company_class": "enterprise"
   },
   {
@@ -37,8 +37,8 @@
     "salary": "",
     "posted": "Recently",
     "link": "https://www.disneycareers.com/en/job/glendale/kabc-freelance-graphic-artist/391/93397165632",
-    "featured": true,
-    "new": true,
+    "featured": false,
+    "new": false,
     "company_class": "enterprise"
   },
   {
@@ -58,8 +58,8 @@
     "salary": "",
     "posted": "Recently",
     "link": "https://www.disneycareers.com/en/job/glendale/manager-product-design-apparel/391/94000927568",
-    "featured": true,
-    "new": true,
+    "featured": false,
+    "new": false,
     "company_class": "enterprise"
   },
   {
@@ -79,51 +79,9 @@
     "salary": "",
     "posted": "Recently",
     "link": "https://www.disneycareers.com/en/job/burbank/art-director-marvel-games/391/83591725344",
-    "featured": true,
-    "new": true,
+    "featured": false,
+    "new": false,
     "company_class": "enterprise"
-  },
-  {
-    "en": {
-      "title": "Lead Sleep Technologist-Sleep Study Center – 9th Floor-New York Eye and Ear Infirmary of Mount Sinai-Part Time, Remote, 22.5 hours per week, Tues, Wed, Thurs, 9am to 5pm (Scoring)",
-      "company": "Mount Sinai Health System",
-      "desc": "Lead Sleep Technologist-Sleep Study Center – 9th Floor-New York Eye and Ear Infirmary of Mount Sinai-Part Time, Remote, 22.5 hours per week, Tues, Wed, Thurs, 9am to 5pm (Scoring)The Lead..."
-    },
-    "zh": {
-      "title": "Lead Sleep Technologist-Sleep Study Center – 9th Floor-New York Eye and Ear Infirmary of Mount Sinai-Part Time, Remote, 22.5 hours per week, Tues, Wed, Thurs, 9am to 5pm (Scoring)",
-      "company": "Mount Sinai Health System",
-      "desc": ""
-    },
-    "location": "USA",
-    "type": "Remote",
-    "category": "Graphic Design",
-    "salary": "",
-    "posted": "Today",
-    "link": "https://jobicy.com/jobs/143289-lead-sleep-technologist-sleep-study-center-9th-floor-new-york-eye-and-ear-infirmary-of-mount-sinai-part-time-remote-22-5-hours-per-week-tues-wed-thurs-9am-to-5pm-scoring",
-    "featured": true,
-    "new": true,
-    "company_class": "enterprise"
-  },
-  {
-    "en": {
-      "title": "Network Design Engineer V (WAN /Job Package Engineer) ABMS",
-      "company": "Lumen Technologies",
-      "desc": "Lumen is the trusted network for AI. We’re transforming how businesses connect, secure, and scale in an AI-driven world.By connecting people, data, and applications quickly, securely, and effortlessly, we help..."
-    },
-    "zh": {
-      "title": "Network Design Engineer V (WAN /Job Package Engineer) ABMS",
-      "company": "Lumen Technologies",
-      "desc": ""
-    },
-    "location": "USA",
-    "type": "Remote",
-    "category": "Graphic Design",
-    "company_class": "mid-small",
-    "salary": "$132,232-$193,940/yr",
-    "posted": "Today",
-    "link": "https://jobicy.com/jobs/143399-network-design-engineer-v-wan-job-package-engineer-abms",
-    "featured": true,
-    "new": true
   },
   {
     "en": {
@@ -143,50 +101,8 @@
     "salary": "",
     "posted": "Today",
     "link": "https://jobicy.com/jobs/143375-junior-ui-designer-marketing-team",
-    "featured": true,
-    "new": true
-  },
-  {
-    "en": {
-      "title": "Client Partner",
-      "company": "YLD.io",
-      "desc": "Client PartnerLocation: UK – London (expectation of being in London as required by team/ client)Work where you do your best — fully remote or hybrid from one of our offices,..."
-    },
-    "zh": {
-      "title": "Client Partner",
-      "company": "YLD.io",
-      "desc": ""
-    },
-    "location": "UK",
-    "type": "Remote",
-    "category": "Graphic Design",
-    "company_class": "mid-small",
-    "salary": "",
-    "posted": "Today",
-    "link": "https://jobicy.com/jobs/143386-client-partner-4",
-    "featured": true,
-    "new": true
-  },
-  {
-    "en": {
-      "title": "Principal Presales Engineer, Product Specialist – CDP, Martech, AI",
-      "company": "Twilio",
-      "desc": "Who we are At Twilio, we’re shaping the future of communications, all from the comfort of our homes. We deliver innovative solutions to hundreds of thousands of businesses and empower millions of developers..."
-    },
-    "zh": {
-      "title": "Principal Presales Engineer, Product Specialist – CDP, Martech, AI",
-      "company": "Twilio",
-      "desc": ""
-    },
-    "location": "UK",
-    "type": "Remote",
-    "category": "Graphic Design",
-    "company_class": "mid-small",
-    "salary": "",
-    "posted": "Today",
-    "link": "https://jobicy.com/jobs/143378-principal-presales-engineer-product-specialist-cdp-martech-ai",
-    "featured": true,
-    "new": true
+    "featured": false,
+    "new": false
   },
   {
     "en": {
@@ -205,8 +121,8 @@
     "salary": "",
     "posted": "Recently",
     "link": "https://lifeattiktok.com/search/7631650139656063285",
-    "featured": true,
-    "new": true,
+    "featured": false,
+    "new": false,
     "company_class": "enterprise"
   },
   {
@@ -226,8 +142,8 @@
     "salary": "",
     "posted": "Recently",
     "link": "https://lifeattiktok.com/search/7553329183243143432",
-    "featured": true,
-    "new": true,
+    "featured": false,
+    "new": false,
     "company_class": "enterprise"
   },
   {
@@ -247,8 +163,8 @@
     "salary": "",
     "posted": "Recently",
     "link": "https://lifeattiktok.com/search/7602793214941366581",
-    "featured": true,
-    "new": true,
+    "featured": false,
+    "new": false,
     "company_class": "enterprise"
   },
   {
@@ -268,8 +184,8 @@
     "salary": "",
     "posted": "Recently",
     "link": "https://lifeattiktok.com/search/7599799873770277125",
-    "featured": true,
-    "new": true,
+    "featured": false,
+    "new": false,
     "company_class": "enterprise"
   },
   {
@@ -289,8 +205,8 @@
     "salary": "",
     "posted": "Recently",
     "link": "https://lifeattiktok.com/search/7533134925695666440",
-    "featured": true,
-    "new": true,
+    "featured": false,
+    "new": false,
     "company_class": "enterprise"
   },
   {
@@ -310,8 +226,8 @@
     "salary": "$75,700-$106,400/yr",
     "posted": "May 08, 2026",
     "link": "https://www.disneycareers.com/en/job/kissimmee/sr-graphic-designer/391/94864283728",
-    "featured": true,
-    "new": true,
+    "featured": false,
+    "new": false,
     "company_class": "enterprise"
   },
   {
@@ -331,8 +247,8 @@
     "salary": "$91,000-$128,000/yr",
     "posted": "May 08, 2026",
     "link": "https://www.disneycareers.com/en/job/kissimmee/manager-graphic-design/391/94864283776",
-    "featured": true,
-    "new": true,
+    "featured": false,
+    "new": false,
     "company_class": "enterprise"
   },
   {
@@ -352,8 +268,8 @@
     "salary": "",
     "posted": "May 05, 2026",
     "link": "https://www.disneycareers.com/en/job/glendale/vp-creative-americas/391/91838125248",
-    "featured": true,
-    "new": true,
+    "featured": false,
+    "new": false,
     "company_class": "enterprise"
   },
   {
@@ -373,8 +289,8 @@
     "salary": "$135,200-$190,300/yr",
     "posted": "May 05, 2026",
     "link": "https://www.disneycareers.com/en/job/orlando/lead-user-experience-designer/391/94747735504",
-    "featured": true,
-    "new": true,
+    "featured": false,
+    "new": false,
     "company_class": "enterprise"
   },
   {
@@ -394,8 +310,8 @@
     "salary": "$111,500-$140,900/yr",
     "posted": "May 04, 2026",
     "link": "https://www.disneycareers.com/en/job/anaheim/senior-show-lighting-designer-project-hire-internal-assignment/391/94714706992",
-    "featured": true,
-    "new": true,
+    "featured": false,
+    "new": false,
     "company_class": "enterprise"
   },
   {
@@ -415,8 +331,8 @@
     "salary": "$95,500-$128,000/yr",
     "posted": "May 04, 2026",
     "link": "https://www.disneycareers.com/en/job/anaheim/show-lighting-designer-project-hire-internal-assignment/391/94707587904",
-    "featured": true,
-    "new": true,
+    "featured": false,
+    "new": false,
     "company_class": "enterprise"
   },
   {
@@ -436,8 +352,8 @@
     "salary": "",
     "posted": "Apr 29, 2026",
     "link": "https://www.disneycareers.com/en/job/glendale/vfx-artist/391/94531855328",
-    "featured": true,
-    "new": true,
+    "featured": false,
+    "new": false,
     "company_class": "enterprise"
   },
   {
@@ -457,8 +373,8 @@
     "salary": "$100,100-$140,900/yr",
     "posted": "Apr 29, 2026",
     "link": "https://www.disneycareers.com/en/job/glendale/theme-lighting-designer-senior-project-hire-internal-assignment/391/94309470480",
-    "featured": true,
-    "new": true,
+    "featured": false,
+    "new": false,
     "company_class": "enterprise"
   },
   {
@@ -478,8 +394,8 @@
     "salary": "",
     "posted": "Apr 23, 2026",
     "link": "https://www.disneycareers.com/en/job/glendale/artist-creative-development-disney-and-pixar-games/391/94304799488",
-    "featured": true,
-    "new": true,
+    "featured": false,
+    "new": false,
     "company_class": "enterprise"
   },
   {
@@ -520,7 +436,7 @@
     "salary": "",
     "posted": "Feb 05, 2026",
     "link": "https://www.disneycareers.com/en/job/burbank/crowds-artist/391/91430667568",
-    "featured": true,
+    "featured": false,
     "new": false,
     "company_class": "enterprise"
   },
@@ -694,531 +610,6 @@
   },
   {
     "en": {
-      "title": "Strategic Partnerships Lead (f/m/d)",
-      "company": "Apaleo",
-      "desc": "Join Apaleo and Shape the Future of Hospitality Tech!Apaleo is the world’s most open, API-first property management platform powering the next generation of hospitality operations. Its modular, AI-powered infrastructure enables..."
-    },
-    "zh": {
-      "title": "Strategic Partnerships Lead (f/m/d)",
-      "company": "Apaleo",
-      "desc": ""
-    },
-    "location": "Germany",
-    "type": "Remote",
-    "category": "Graphic Design",
-    "salary": "",
-    "posted": "2 days ago",
-    "link": "https://jobicy.com/jobs/143152-strategic-partnerships-lead-f-m-d",
-    "featured": false,
-    "new": false,
-    "company_class": "mid-small"
-  },
-  {
-    "en": {
-      "title": "Rostering Officer (After Hours Service). Permanent Part Time – Location Flexible",
-      "company": "Life Without Barriers",
-      "desc": "Life Without Barriers is a leading social purpose, not for profit organisation of 8,000 employees working in more than 500 communities across Australia. We support children, young people and families,..."
-    },
-    "zh": {
-      "title": "Rostering Officer (After Hours Service). Permanent Part Time – Location Flexible",
-      "company": "Life Without Barriers",
-      "desc": ""
-    },
-    "location": "Australia",
-    "type": "Remote",
-    "category": "Graphic Design",
-    "salary": "",
-    "posted": "4 days ago",
-    "link": "https://jobicy.com/jobs/143056-rostering-officer-after-hours-service-permanent-part-time-location-flexible",
-    "featured": false,
-    "new": false,
-    "company_class": "mid-small"
-  },
-  {
-    "en": {
-      "title": "Senior Rostering Officer (After Hours Service). Permanent Full Time & Permanent Part Time – Location Flexible",
-      "company": "Life Without Barriers",
-      "desc": "About the Organisation At Life Without Barriers, we’re all about creating safe, supportive environments where children and young people can thrive. Every day, we work closely with families, carers, and communities to..."
-    },
-    "zh": {
-      "title": "Senior Rostering Officer (After Hours Service). Permanent Full Time & Permanent Part Time – Location Flexible",
-      "company": "Life Without Barriers",
-      "desc": ""
-    },
-    "location": "Australia",
-    "type": "Remote",
-    "category": "Graphic Design",
-    "salary": "$88,000-$88,000/yr",
-    "posted": "4 days ago",
-    "link": "https://jobicy.com/jobs/143053-senior-rostering-officer-after-hours-service-permanent-full-time-permanent-part-time-location-flexible",
-    "featured": false,
-    "new": false,
-    "company_class": "mid-small"
-  },
-  {
-    "en": {
-      "title": "Technical Talent Acquisition Partner",
-      "company": "Claritev",
-      "desc": "Claritev is building AI-first technology to take on one of healthcare’s biggest challenges: the administrative complexity that quietly consumes 15–25% of every healthcare dollar. By combining data, automation, and applied..."
-    },
-    "zh": {
-      "title": "Technical Talent Acquisition Partner",
-      "company": "Claritev",
-      "desc": ""
-    },
-    "location": "USA",
-    "type": "Remote",
-    "category": "Graphic Design",
-    "salary": "$100,000-$110,000/yr",
-    "posted": "4 days ago",
-    "link": "https://jobicy.com/jobs/143034-technical-talent-acquisition-partner",
-    "featured": false,
-    "new": false,
-    "company_class": "mid-small"
-  },
-  {
-    "en": {
-      "title": "Partner Incentive Specialist",
-      "company": "World Wide Technology",
-      "desc": "Qualifications: Associate’s Degree required, Bachelors Degree preferred A minimum of 2 years’ progressive experience in a related field Moderate computing skills an familiarity with SFDC, Tableau, Excel Strong Research and..."
-    },
-    "zh": {
-      "title": "Partner Incentive Specialist",
-      "company": "World Wide Technology",
-      "desc": ""
-    },
-    "location": "USA",
-    "type": "Remote",
-    "category": "Graphic Design",
-    "salary": "$67,200-$84,000/yr",
-    "posted": "6 days ago",
-    "link": "https://jobicy.com/jobs/142961-partner-incentive-specialist",
-    "featured": false,
-    "new": false,
-    "company_class": "mid-small"
-  },
-  {
-    "en": {
-      "title": "Senior Startup Investor Manager, VC (or Angel) , AWS Worldwide Startups",
-      "company": "Amazon.com",
-      "desc": "Would you like to shape the future of cloud computing by identifying and working with the most promising early-stage startups and venture capital firms? Do you have the technical depth,..."
-    },
-    "zh": {
-      "title": "Senior Startup Investor Manager, VC (or Angel) , AWS Worldwide Startups",
-      "company": "Amazon.com",
-      "desc": ""
-    },
-    "location": "USA",
-    "type": "Remote",
-    "category": "Graphic Design",
-    "salary": "$162,700-$220,200/yr",
-    "posted": "8 days ago",
-    "link": "https://jobicy.com/jobs/142755-senior-startup-investor-manager-vc-or-angel-aws-worldwide-startups",
-    "featured": false,
-    "new": false,
-    "company_class": "enterprise"
-  },
-  {
-    "en": {
-      "title": "Technical Account Manager – Montgomery County Police Department, MD",
-      "company": "Axon",
-      "desc": "Join Axon and be a Force for Good.At Axon, we’re on a mission to Protect Life. We’re explorers, pursuing society’s most critical safety and justice issues with our ecosystem of..."
-    },
-    "zh": {
-      "title": "Technical Account Manager – Montgomery County Police Department, MD",
-      "company": "Axon",
-      "desc": ""
-    },
-    "location": "USA",
-    "type": "Remote",
-    "category": "Graphic Design",
-    "salary": "$90,000-$144,000/yr",
-    "posted": "8 days ago",
-    "link": "https://jobicy.com/jobs/142746-technical-account-manager-montgomery-county-police-department-md",
-    "featured": false,
-    "new": false,
-    "company_class": "mid-small"
-  },
-  {
-    "en": {
-      "title": "Senior Partnership Account Manager",
-      "company": "Collibra",
-      "desc": "Senior Partnership Account Manager Collibra is looking for a Senior Partner Account Manager to lead and grow our partner-driven business. You will identify key growth areas and ensure seamless execution by..."
-    },
-    "zh": {
-      "title": "Senior Partnership Account Manager",
-      "company": "Collibra",
-      "desc": ""
-    },
-    "location": "Germany",
-    "type": "Remote",
-    "category": "Graphic Design",
-    "salary": "",
-    "posted": "9 days ago",
-    "link": "https://jobicy.com/jobs/142665-senior-partnership-account-manager",
-    "featured": false,
-    "new": false,
-    "company_class": "enterprise"
-  },
-  {
-    "en": {
-      "title": "Senior Manager Bank Partnerships",
-      "company": "Marqeta",
-      "desc": "As Marqeta’s Senior Manager, Bank Partnerships, you will manage and enhance relationships with existing issuing bank partners and develop new relationships.The Partner Operations team is a key division within Marqeta’s..."
-    },
-    "zh": {
-      "title": "Senior Manager Bank Partnerships",
-      "company": "Marqeta",
-      "desc": ""
-    },
-    "location": "USA",
-    "type": "Remote",
-    "category": "Graphic Design",
-    "salary": "$151,900-$223,400/yr",
-    "posted": "10 days ago",
-    "link": "https://jobicy.com/jobs/142632-senior-manager-bank-partnerships",
-    "featured": false,
-    "new": false,
-    "company_class": "enterprise"
-  },
-  {
-    "en": {
-      "title": "Technical Partner Manager – Chicago Area",
-      "company": "Veeam Software",
-      "desc": "Veeam is the Data and AI Trust Company, specializing in helping organizations ensure their data and AI are fully understood, secured, and resilient to enable the acceleration of safe AI..."
-    },
-    "zh": {
-      "title": "Technical Partner Manager – Chicago Area",
-      "company": "Veeam Software",
-      "desc": ""
-    },
-    "location": "USA",
-    "type": "Remote",
-    "category": "Graphic Design",
-    "salary": "$150,000-$214,300/yr",
-    "posted": "12 days ago",
-    "link": "https://jobicy.com/jobs/142568-technical-partner-manager-chicago-area",
-    "featured": false,
-    "new": false,
-    "company_class": "enterprise"
-  },
-  {
-    "en": {
-      "title": "Technical Partner Manager – Chicago/NYC Metro Area",
-      "company": "Veeam Software",
-      "desc": "Veeam is the Data and AI Trust Company, specializing in helping organizations ensure their data and AI are fully understood, secured, and resilient to enable the acceleration of safe AI..."
-    },
-    "zh": {
-      "title": "Technical Partner Manager – Chicago/NYC Metro Area",
-      "company": "Veeam Software",
-      "desc": ""
-    },
-    "location": "USA",
-    "type": "Remote",
-    "category": "Graphic Design",
-    "salary": "$150,000-$214,300/yr",
-    "posted": "12 days ago",
-    "link": "https://jobicy.com/jobs/142567-technical-partner-manager-chicago-nyc-metro-area",
-    "featured": false,
-    "new": false,
-    "company_class": "enterprise"
-  },
-  {
-    "en": {
-      "title": "Human Resources Business Partner",
-      "company": "ECS",
-      "desc": "ECS is seeking a Human Resources Business Partner to work remotely.The Human Resources Business Partner will function as a consultant to project managers and Business Unit executives on workforce planning, compensation analysis, bids..."
-    },
-    "zh": {
-      "title": "Human Resources Business Partner",
-      "company": "ECS",
-      "desc": ""
-    },
-    "location": "USA",
-    "type": "Remote",
-    "category": "Graphic Design",
-    "salary": "$120,000-$140,000/yr",
-    "posted": "12 days ago",
-    "link": "https://jobicy.com/jobs/142560-human-resources-business-partner",
-    "featured": false,
-    "new": false,
-    "company_class": "mid-small"
-  },
-  {
-    "en": {
-      "title": "Account Executive, ACO Partnerships",
-      "company": "Pair Team",
-      "desc": "About Pair TeamAt Pair Team, we’re an innovative, mission-driven company reimagining how Medicaid and Medicare serves the most underserved populations. As a tech-enabled medical group, we deliver whole-person care –..."
-    },
-    "zh": {
-      "title": "Account Executive, ACO Partnerships",
-      "company": "Pair Team",
-      "desc": ""
-    },
-    "location": "USA",
-    "type": "Remote",
-    "category": "Graphic Design",
-    "salary": "$100,000-$200,000/yr",
-    "posted": "13 days ago",
-    "link": "https://jobicy.com/jobs/142529-account-executive-aco-partnerships",
-    "featured": false,
-    "new": false,
-    "company_class": "mid-small"
-  },
-  {
-    "en": {
-      "title": "Senior MuleSoft Integrations Developer (Full time or Part time)",
-      "company": "Spectrum One",
-      "desc": "About the Role We’re looking for a Senior MuleSoft Integration Developer to build and own the full integration layer for a government 311 Citizen Relationship Management platform, a Salesforce implementation and..."
-    },
-    "zh": {
-      "title": "Senior MuleSoft Integrations Developer (Full time or Part time)",
-      "company": "Spectrum One",
-      "desc": ""
-    },
-    "location": "Philippines",
-    "type": "Remote",
-    "category": "Graphic Design",
-    "salary": "",
-    "posted": "13 days ago",
-    "link": "https://jobicy.com/jobs/142503-senior-mulesoft-integrations-developer-full-time-or-part-time",
-    "featured": false,
-    "new": false,
-    "company_class": "mid-small"
-  },
-  {
-    "en": {
-      "title": "People Partner, Japan & APAC (Singapore)",
-      "company": "Figma",
-      "desc": "Figma is growing our team of passionate creatives and builders on a mission to make design accessible to all. Figma’s platform helps teams bring ideas to life—whether you’re brainstorming, creating..."
-    },
-    "zh": {
-      "title": "People Partner, Japan & APAC (Singapore)",
-      "company": "Figma",
-      "desc": ""
-    },
-    "location": "Singapore",
-    "type": "Remote",
-    "category": "Graphic Design",
-    "salary": "",
-    "posted": "13 days ago",
-    "link": "https://jobicy.com/jobs/142489-people-partner-japan-apac-singapore",
-    "featured": false,
-    "new": false,
-    "company_class": "enterprise"
-  },
-  {
-    "en": {
-      "title": "GSI Partner Development Lead- EMEA",
-      "company": "Stripe",
-      "desc": "Who we areAbout StripeStripe is a financial infrastructure platform for businesses. Millions of companies—from the world’s largest enterprises to the most ambitious startups—use Stripe to accept payments, grow their revenue,..."
-    },
-    "zh": {
-      "title": "GSI Partner Development Lead- EMEA",
-      "company": "Stripe",
-      "desc": ""
-    },
-    "location": "UK",
-    "type": "Remote",
-    "category": "Graphic Design",
-    "salary": "$117,400-$176,000/yr",
-    "posted": "13 days ago",
-    "link": "https://jobicy.com/jobs/142477-gsi-partner-development-lead-emea-2",
-    "featured": false,
-    "new": false,
-    "company_class": "enterprise"
-  },
-  {
-    "en": {
-      "title": "Office Manager – Part Time (30h/w)",
-      "company": "Tripadvisor",
-      "desc": "This is a part-time position (30 hours per week)Join our Movement and Champion Restaurant Culture! At TheFork we believe that the best things in life happen around the table. As..."
-    },
-    "zh": {
-      "title": "Office Manager – Part Time (30h/w)",
-      "company": "Tripadvisor",
-      "desc": ""
-    },
-    "location": "Spain",
-    "type": "Remote",
-    "category": "Graphic Design",
-    "salary": "",
-    "posted": "13 days ago",
-    "link": "https://jobicy.com/jobs/142475-office-manager-part-time-30h-w",
-    "featured": false,
-    "new": false,
-    "company_class": "enterprise"
-  },
-  {
-    "en": {
-      "title": "Senior Product Manager – People List & Org Chart",
-      "company": "Deel",
-      "desc": "Who we are is what we do.Deel is the all-in-one payroll and HR platform for global teams. Our vision is to unlock global opportunity for every person, team, and business...."
-    },
-    "zh": {
-      "title": "Senior Product Manager – People List & Org Chart",
-      "company": "Deel",
-      "desc": ""
-    },
-    "location": "EMEA",
-    "type": "Remote",
-    "category": "Graphic Design",
-    "salary": "",
-    "posted": "17 days ago",
-    "link": "https://jobicy.com/jobs/142150-senior-product-manager-people-list-org-chart",
-    "featured": false,
-    "new": false,
-    "company_class": "enterprise"
-  },
-  {
-    "en": {
-      "title": "Talent Partner",
-      "company": "Revecore",
-      "desc": "Start your next chapter at Revecore! For over 25 years, we’ve been at the forefront of specialized claims management, helping healthcare providers recover meaningful revenue to enhance quality patient care in their..."
-    },
-    "zh": {
-      "title": "Talent Partner",
-      "company": "Revecore",
-      "desc": ""
-    },
-    "location": "USA",
-    "type": "Remote",
-    "category": "Graphic Design",
-    "salary": "",
-    "posted": "17 days ago",
-    "link": "https://jobicy.com/jobs/142143-talent-partner-2",
-    "featured": false,
-    "new": false,
-    "company_class": "mid-small"
-  },
-  {
-    "en": {
-      "title": "Freelance Writer",
-      "company": "IAPWE",
-      "desc": "Our organization is seeking content writers to create articles and blog posts on a variety of topics. The rate of pay is $20 per 100 words (this comes out to approximately $100 per article or $50 per hour). Some topics you may be asked to write about"
-    },
-    "zh": {
-      "title": "Freelance Writer",
-      "company": "IAPWE",
-      "desc": ""
-    },
-    "location": "Remote",
-    "type": "Remote",
-    "category": "Graphic Design",
-    "salary": "$50-$75 /hour",
-    "posted": "3 days ago",
-    "link": "https://remotive.com/remote-jobs/writing/freelance-writer-1185979",
-    "featured": false,
-    "new": false,
-    "company_class": "freelance"
-  },
-  {
-    "en": {
-      "title": "🇩🇪Customer Support Manager",
-      "company": "Parkosecure GmbH",
-      "desc": "🇩🇪 This job ad is written in German. 🇩🇪 Die Parkosecure GmbH ist ein innovatives Unternehmen im Bereich Parkraummanagement in der Schweiz. Für die Betreuung unserer Kunden in der französischen Schweiz suchen wir eine zuverlässige und selbständig arbe"
-    },
-    "zh": {
-      "title": "🇩🇪Customer Support Manager",
-      "company": "Parkosecure GmbH",
-      "desc": ""
-    },
-    "location": "Switzerland",
-    "type": "Remote",
-    "category": "Graphic Design",
-    "salary": "",
-    "posted": "3 days ago",
-    "link": "https://remotive.com/remote-jobs/customer-service/customer-support-manager-2090874",
-    "featured": false,
-    "new": false,
-    "company_class": "mid-small"
-  },
-  {
-    "en": {
-      "title": "Copywriter",
-      "company": "Coalition Technologies ",
-      "desc": "WHO WE'RE LOOKING FOR The ideal copywriter has excellent English writing skills and is excited to write high-quality, SEO-driven content that aligns with detailed, client-specific guidelines. Projects most commonly include writing web pages for eComm"
-    },
-    "zh": {
-      "title": "Copywriter",
-      "company": "Coalition Technologies ",
-      "desc": ""
-    },
-    "location": "Remote",
-    "type": "Remote",
-    "category": "Graphic Design",
-    "salary": "$20k -$35k",
-    "posted": "4 days ago",
-    "link": "https://remotive.com/remote-jobs/writing/copywriter-1749306",
-    "featured": false,
-    "new": false,
-    "company_class": "freelance"
-  },
-  {
-    "en": {
-      "title": "Senior DevOps Engineer",
-      "company": "Lemon.io",
-      "desc": "Are you a talented Senior DevOps looking for a remote job that lets you show your skills and get decent compensation? Look no further than Lemon.io — the marketplace that connects you with hand-picked startups in the US and Europe. What we offer: The"
-    },
-    "zh": {
-      "title": "Senior DevOps Engineer",
-      "company": "Lemon.io",
-      "desc": ""
-    },
-    "location": "Americas, Europe, Asia, Oceania",
-    "type": "Remote",
-    "category": "Graphic Design",
-    "salary": "",
-    "posted": "7 days ago",
-    "link": "https://remotive.com/remote-jobs/devops/senior-devops-engineer-2090002",
-    "featured": false,
-    "new": false,
-    "company_class": "freelance"
-  },
-  {
-    "en": {
-      "title": "Operations software assistant",
-      "company": "Bulldog Digital Media",
-      "desc": "Operations software assistant Bulldog is a UK agency helping marketing and SEO teams increase their visibility on Google and AI through link building and digital PR. We're a team of 12, with expertise in SEO, content, link building, and PR, based in "
-    },
-    "zh": {
-      "title": "Operations software assistant",
-      "company": "Bulldog Digital Media",
-      "desc": ""
-    },
-    "location": "Europe, European timezones",
-    "type": "Remote",
-    "category": "Graphic Design",
-    "salary": "$12k - $19k (35 hrs/week, freelance)",
-    "posted": "9 days ago",
-    "link": "https://remotive.com/remote-jobs/operations/operations-software-assistant-2090000",
-    "featured": false,
-    "new": false,
-    "company_class": "freelance"
-  },
-  {
-    "en": {
-      "title": "Head of Engineering",
-      "company": "Lemon.io",
-      "desc": "About Lemon.ioLemon.io is a profitable, growing talent marketplace that connects vetted senior engineers with companies that need them. We’ve been in business for 10 years, have 60 people across Ukraine, Europe, Canada, and the US, and process over $"
-    },
-    "zh": {
-      "title": "Head of Engineering",
-      "company": "Lemon.io",
-      "desc": ""
-    },
-    "location": "USA timezones, European timezones",
-    "type": "Remote",
-    "category": "Graphic Design",
-    "salary": "",
-    "posted": "13 days ago",
-    "link": "https://remotive.com/remote-jobs/software-development/head-of-engineering-2089995",
-    "featured": false,
-    "new": false,
-    "company_class": "freelance"
-  },
-  {
-    "en": {
       "title": "Mid/Senior AI Video Artist",
       "company": "EverAI",
       "desc": "Our Vision & Products🚀 EverAI — Building the Future of AI CompanionshipOne of the Top 15 Largest & Fastest-Growing AI Companies in the World50 Million Users in 2 years — Help Us Reach 100M first, 500M nextAt EverAI, we’re shaping what it means to con"
@@ -1240,342 +631,6 @@
   },
   {
     "en": {
-      "title": "Content Reviewer - US",
-      "company": "TELUS Digital",
-      "desc": "Looking for a freelance opportunity where you can make an impact on technology from the comfort of your home? If you are dynamic, tech-savvy, and always online to learn more, this part-time flexible project is the perfect fit for you! A Day in the Li"
-    },
-    "zh": {
-      "title": "Content Reviewer - US",
-      "company": "TELUS Digital",
-      "desc": ""
-    },
-    "location": "USA",
-    "type": "Remote",
-    "category": "Graphic Design",
-    "salary": "$14/hour",
-    "posted": "16 days ago",
-    "link": "https://remotive.com/remote-jobs/all-others/content-reviewer-us-2089990",
-    "featured": false,
-    "new": false,
-    "company_class": "enterprise"
-  },
-  {
-    "en": {
-      "title": "AI Engineer",
-      "company": "Dry Ground AI",
-      "desc": "We are seeking a versatile and highly skilled AI Engineer to join our fast-growing Full-Stack AI Solutions company. This role blends the expertise of building cutting-edge AI/ML models with the practical know-how of automation and agentic system inte"
-    },
-    "zh": {
-      "title": "AI Engineer",
-      "company": "Dry Ground AI",
-      "desc": ""
-    },
-    "location": "Brazil, Colombia, Philippines",
-    "type": "Remote",
-    "category": "Graphic Design",
-    "salary": "$40- $60k",
-    "posted": "16 days ago",
-    "link": "https://remotive.com/remote-jobs/artificial-intelligence/ai-engineer-2089958",
-    "featured": false,
-    "new": false,
-    "company_class": "mid-small"
-  },
-  {
-    "en": {
-      "title": "Customer Retention Manager",
-      "company": "AutoHDR",
-      "desc": "Role: Customer Success Representative AutoHDR is the fastest growing AI startup in real estate media. We train custom image editing models for real estate, and are currently editing 25% of all US real estate listings! Join our team and work with an e"
-    },
-    "zh": {
-      "title": "Customer Retention Manager",
-      "company": "AutoHDR",
-      "desc": ""
-    },
-    "location": "USA",
-    "type": "Remote",
-    "category": "Graphic Design",
-    "salary": "",
-    "posted": "20 days ago",
-    "link": "https://remotive.com/remote-jobs/customer-service/customer-retention-manager-2088656",
-    "featured": false,
-    "new": false,
-    "company_class": "mid-small"
-  },
-  {
-    "en": {
-      "title": "Customer Support Representative",
-      "company": "AutoHDR",
-      "desc": "Company Description AutoHDR is an AI real estate photo editing platform. We launched less than a year ago and already edit 25% of U.S. real estate listings. We’re building a category-defining product and looking for people who want to help us scale i"
-    },
-    "zh": {
-      "title": "Customer Support Representative",
-      "company": "AutoHDR",
-      "desc": ""
-    },
-    "location": "USA",
-    "type": "Remote",
-    "category": "Graphic Design",
-    "salary": "",
-    "posted": "20 days ago",
-    "link": "https://remotive.com/remote-jobs/customer-service/customer-support-representative-2088655",
-    "featured": false,
-    "new": false,
-    "company_class": "mid-small"
-  },
-  {
-    "en": {
-      "title": "Senior Independent AI Engineer / Architect",
-      "company": "A.Team",
-      "desc": "Location: Americas, Europe, or Israel The Opportunity Join A.Team’s invite-only network of senior builders and access exclusive missions with Fortune 500s and top startups. This isn’t client work or employment—it’s a vetted collective where you’re ma"
-    },
-    "zh": {
-      "title": "Senior Independent AI Engineer / Architect",
-      "company": "A.Team",
-      "desc": ""
-    },
-    "location": "Americas, Europe, Israel",
-    "type": "Remote",
-    "category": "Graphic Design",
-    "salary": "$120 - $170 /hour",
-    "posted": "21 days ago",
-    "link": "https://remotive.com/remote-jobs/software-development/senior-independent-ai-engineer-architect-1919266",
-    "featured": false,
-    "new": false,
-    "company_class": "freelance"
-  },
-  {
-    "en": {
-      "title": "Senior Independent Software Developer",
-      "company": "A.Team",
-      "desc": "You must be located in the Americas, Europe, or Israel to apply.A·Team is a VC-backed, stealth, application-only home on the internet for senior independent software builders to team up with hand-picked, high-growth companies on their next big thing."
-    },
-    "zh": {
-      "title": "Senior Independent Software Developer",
-      "company": "A.Team",
-      "desc": ""
-    },
-    "location": "Americas, Europe, Israel",
-    "type": "Remote",
-    "category": "Graphic Design",
-    "salary": "$90 - $150 /hour",
-    "posted": "21 days ago",
-    "link": "https://remotive.com/remote-jobs/software-development/senior-independent-software-developer-1919265",
-    "featured": false,
-    "new": false,
-    "company_class": "freelance"
-  },
-  {
-    "en": {
-      "title": "Senior Full-stack React Developer",
-      "company": "Lemon.io",
-      "desc": "Are you a talented Senior Developer looking for a remote job that lets you show your skills and get decent compensation? Look no further than Lemon.io — the marketplace that connects you with hand-picked startups in the US and Europe. What we offer: "
-    },
-    "zh": {
-      "title": "Senior Full-stack React Developer",
-      "company": "Lemon.io",
-      "desc": ""
-    },
-    "location": "Americas, Europe, Asia, Oceania",
-    "type": "Remote",
-    "category": "Graphic Design",
-    "salary": "",
-    "posted": "22 days ago",
-    "link": "https://remotive.com/remote-jobs/software-development/senior-full-stack-react-developer-2088711",
-    "featured": false,
-    "new": false,
-    "company_class": "freelance"
-  },
-  {
-    "en": {
-      "title": "Tech Lead Full-Stack Rails Engineer",
-      "company": "Mitre Media",
-      "desc": "About Mitre Media Mitre Media is redefining FinTech with AI-driven tools that empower millions of investors. Our portfolio, including Dividend.com and MutualFunds.com, leverages LLMs to deliver novel data insights and visually rich user experiences. "
-    },
-    "zh": {
-      "title": "Tech Lead Full-Stack Rails Engineer",
-      "company": "Mitre Media",
-      "desc": ""
-    },
-    "location": "USA, Canada, USA timezones",
-    "type": "Remote",
-    "category": "Graphic Design",
-    "salary": "$170k - $200k",
-    "posted": "22 days ago",
-    "link": "https://remotive.com/remote-jobs/software-development/tech-lead-full-stack-rails-engineer-2069746",
-    "featured": false,
-    "new": false,
-    "company_class": "freelance"
-  },
-  {
-    "en": {
-      "title": "Online Data Analyst United States",
-      "company": "TELUS Digital",
-      "desc": "Are you a detail-oriented individual with a passion for research and a good understanding of national and local geography? This freelance opportunity allows you to work at your own pace and from the comfort of your own home.A Day in the Life of an On"
-    },
-    "zh": {
-      "title": "Online Data Analyst United States",
-      "company": "TELUS Digital",
-      "desc": ""
-    },
-    "location": "USA",
-    "type": "Remote",
-    "category": "Graphic Design",
-    "salary": "",
-    "posted": "23 days ago",
-    "link": "https://remotive.com/remote-jobs/all-others/online-data-analyst-united-states-2088710",
-    "featured": false,
-    "new": false,
-    "company_class": "enterprise"
-  },
-  {
-    "en": {
-      "title": "Inside Sales Contractor",
-      "company": "Credit Wellness, LLC",
-      "desc": "About Us We are a financial services start up focusing on helping to improve consumer credit profiles. We are currently seeking KPI driven sales representatives looking to earn up to 45K in their first year while working remotely. We offer comprehens"
-    },
-    "zh": {
-      "title": "Inside Sales Contractor",
-      "company": "Credit Wellness, LLC",
-      "desc": ""
-    },
-    "location": "Remote",
-    "type": "Remote",
-    "category": "Graphic Design",
-    "salary": "OTE $25k - $35k",
-    "posted": "24 days ago",
-    "link": "https://remotive.com/remote-jobs/sales/inside-sales-contractor-2086540",
-    "featured": false,
-    "new": false,
-    "company_class": "mid-small"
-  },
-  {
-    "en": {
-      "title": "Office Assistant",
-      "company": "Coalition Technologies ",
-      "desc": "WHY YOU SHOULD APPLY: Coalition Technologies is devoted to delivering clients the highest quality work while providing our team a fun, thriving, and innovative environment. Along with the opportunity for tremendous career growth and rapid advancement"
-    },
-    "zh": {
-      "title": "Office Assistant",
-      "company": "Coalition Technologies ",
-      "desc": ""
-    },
-    "location": "Remote",
-    "type": "Remote",
-    "category": "Graphic Design",
-    "salary": "$31,2k- $52k",
-    "posted": "25 days ago",
-    "link": "https://remotive.com/remote-jobs/marketing/office-assistant-1680495",
-    "featured": false,
-    "new": false,
-    "company_class": "freelance"
-  },
-  {
-    "en": {
-      "title": "🇩🇪 Senior/Staff Software Engineer PHP, TS, Rust, Kotlin (m/w/d)",
-      "company": "easybill GmbH",
-      "desc": "🇩🇪 This job ad is written in German. 🇩🇪 easybill ist eine cloudbasierte Rechnungssoftware, die sich durch einfache Anwendung, umfassende Funktionalität und vielfältige Anbindungen über Schnittstellen schon seit mehr als 18 Jahren am Markt behauptet. "
-    },
-    "zh": {
-      "title": "🇩🇪 Senior/Staff Software Engineer PHP, TS, Rust, Kotlin (m/w/d)",
-      "company": "easybill GmbH",
-      "desc": ""
-    },
-    "location": "Germany",
-    "type": "Remote",
-    "category": "Graphic Design",
-    "salary": "",
-    "posted": "27 days ago",
-    "link": "https://remotive.com/remote-jobs/software-development/senior-staff-software-engineer-php-ts-rust-kotlin-m-w-d-2088708",
-    "featured": false,
-    "new": false,
-    "company_class": "mid-small"
-  },
-  {
-    "en": {
-      "title": "iOS Developer",
-      "company": "nooro",
-      "desc": "WHO ARE WE? At nooro, we're revolutionizing pain management for seniors. Our platform is transforming how older adults engage with pain management at home. We're on a mission to make wellness more accessible and effective through technology. Check ou"
-    },
-    "zh": {
-      "title": "iOS Developer",
-      "company": "nooro",
-      "desc": ""
-    },
-    "location": "USA",
-    "type": "Remote",
-    "category": "Graphic Design",
-    "salary": "$60k-$130k (depending on experience)",
-    "posted": "27 days ago",
-    "link": "https://remotive.com/remote-jobs/software-development/ios-developer-1956455",
-    "featured": false,
-    "new": false,
-    "company_class": "mid-small"
-  },
-  {
-    "en": {
-      "title": "Senior Frontend Developer",
-      "company": "Sanctuary Computer",
-      "desc": "We are hiring a contract-based Senior Frontend Developer for the garden3d creative collective with a focus on LATAM & Asia candidates. This job posting here in Remotive is for sharing purposes only and does not serve as the direct application for the"
-    },
-    "zh": {
-      "title": "Senior Frontend Developer",
-      "company": "Sanctuary Computer",
-      "desc": ""
-    },
-    "location": "LATAM, Asia",
-    "type": "Remote",
-    "category": "Graphic Design",
-    "salary": "$80k - $120k",
-    "posted": "29 days ago",
-    "link": "https://remotive.com/remote-jobs/software-development/senior-frontend-developer-2088707",
-    "featured": false,
-    "new": false,
-    "company_class": "freelance"
-  },
-  {
-    "en": {
-      "title": "Fullstack Developer (US - ET)",
-      "company": "Chooose",
-      "desc": "Chooose builds software to enable the lower carbon fuel value chain. Companies like Delta Air Lines, Cathay Pacific, British Airways, and Microsoft use the Chooose platform to build, operate, and scale their lower carbon fuel programs (typically refe"
-    },
-    "zh": {
-      "title": "Fullstack Developer (US - ET)",
-      "company": "Chooose",
-      "desc": ""
-    },
-    "location": "USA",
-    "type": "Remote",
-    "category": "Graphic Design",
-    "salary": "",
-    "posted": "29 days ago",
-    "link": "https://remotive.com/remote-jobs/software-development/fullstack-developer-us-et-2088706",
-    "featured": false,
-    "new": false,
-    "company_class": "mid-small"
-  },
-  {
-    "en": {
-      "title": "Online Data Analyst (United States/Spanish speakers)",
-      "company": "TELUS Digital",
-      "desc": "Are you a detail-oriented individual with a passion for research and a good understanding of national and local geography? This freelance opportunity allows you to work at your own pace and from the comfort of your own home. A Day in the Life of an O"
-    },
-    "zh": {
-      "title": "Online Data Analyst (United States/Spanish speakers)",
-      "company": "TELUS Digital",
-      "desc": ""
-    },
-    "location": "USA",
-    "type": "Remote",
-    "category": "Graphic Design",
-    "salary": "",
-    "posted": "30 days ago",
-    "link": "https://remotive.com/remote-jobs/all-others/online-data-analyst-united-states-spanish-speakers-2088704",
-    "featured": false,
-    "new": false,
-    "company_class": "enterprise"
-  },
-  {
-    "en": {
       "title": "Associate Product Designer",
       "company": "World Wide Technology",
       "desc": "Work Experience Recently graduated or 1–2 years’ experience in a creative field (agency, marketing, or production company) Experience working with web and native applications a plus Background in Digital Design..."
@@ -1592,50 +647,8 @@
     "salary": "$69,000-$85,000/yr",
     "posted": "Today",
     "link": "https://jobicy.com/jobs/143456-associate-product-designer",
-    "featured": true,
-    "new": true
-  },
-  {
-    "en": {
-      "title": "Senior Mechanical Designer, Data Centers – Remote (U.S.)",
-      "company": "AECOM",
-      "desc": "Company DescriptionWork with Us. Change the World.At AECOM, we’re delivering a better world. Whether improving your commute, keeping the lights on, providing access to clean water, or transforming skylines, our..."
-    },
-    "zh": {
-      "title": "Senior Mechanical Designer, Data Centers – Remote (U.S.)",
-      "company": "AECOM",
-      "desc": ""
-    },
-    "location": "USA",
-    "type": "Remote",
-    "category": "Graphic Design",
-    "company_class": "mid-small",
-    "salary": "",
-    "posted": "Today",
-    "link": "https://jobicy.com/jobs/143454-senior-mechanical-designer-data-centers-remote-u-s-2",
-    "featured": true,
-    "new": true
-  },
-  {
-    "en": {
-      "title": "Overhead Line (OHL) Design engineer",
-      "company": "WSP",
-      "desc": "Power Networks provides high quality consultancy services within distribution network (cable and overhead lines) and transmission (cable). We support our clients throughout every stage of the process — from early..."
-    },
-    "zh": {
-      "title": "Overhead Line (OHL) Design engineer",
-      "company": "WSP",
-      "desc": ""
-    },
-    "location": "Sweden",
-    "type": "Remote",
-    "category": "Graphic Design",
-    "company_class": "mid-small",
-    "salary": "",
-    "posted": "Today",
-    "link": "https://jobicy.com/jobs/143438-overhead-line-ohl-design-engineer",
-    "featured": true,
-    "new": true
+    "featured": false,
+    "new": false
   },
   {
     "en": {
@@ -1655,8 +668,8 @@
     "salary": "",
     "posted": "Today",
     "link": "https://jobicy.com/jobs/143428-conversation-design-intern-customer-success",
-    "featured": true,
-    "new": true
+    "featured": false,
+    "new": false
   },
   {
     "en": {
@@ -1675,30 +688,9 @@
     "salary": "",
     "posted": "Apr 28, 2026",
     "link": "https://www.disneycareers.com/en/job/glendale/senior-audio-video-designer-project-hire-internal-assignment/391/94269054048",
-    "featured": true,
-    "new": true,
-    "company_class": "enterprise"
-  },
-  {
-    "en": {
-      "title": "Director of Revenue Systems and AI Automation (Offshore) ",
-      "company": "Caul Group",
-      "desc": "This search is open exclusively to candidates based in Latin America. Preference for Uruguay, Costa Rica, or Colombia. BACKGROUND CONTEXT Every department at Caul Group is generating AI and automation ideas faster than they can be built. This role tu"
-    },
-    "zh": {
-      "title": "Director of Revenue Systems and AI Automation (Offshore) ",
-      "company": "Caul Group",
-      "desc": ""
-    },
-    "location": "LATAM",
-    "type": "Remote",
-    "category": "Graphic Design",
-    "company_class": "mid-small",
-    "salary": "$60k–$72k",
-    "posted": "2 days ago",
-    "link": "https://remotive.com/remote-jobs/software-development/director-of-revenue-systems-and-ai-automation-offshore-2090878",
     "featured": false,
-    "new": false
+    "new": false,
+    "company_class": "enterprise"
   },
   {
     "en": {
@@ -1718,8 +710,8 @@
     "salary": "$150,900-$268,500/yr",
     "posted": "Today",
     "link": "https://jobicy.com/jobs/143624-ui-ux-designer",
-    "featured": true,
-    "new": true
+    "featured": false,
+    "new": false
   },
   {
     "en": {
@@ -1739,8 +731,8 @@
     "salary": "$74,000-$92,500/yr",
     "posted": "Today",
     "link": "https://jobicy.com/jobs/143623-instructional-designer",
-    "featured": true,
-    "new": true
+    "featured": false,
+    "new": false
   },
   {
     "en": {
@@ -1760,8 +752,8 @@
     "salary": "$146,000-$218,000/yr",
     "posted": "Today",
     "link": "https://jobicy.com/jobs/143622-staff-motion-designer-metamask",
-    "featured": true,
-    "new": true
+    "featured": false,
+    "new": false
   },
   {
     "en": {
@@ -1781,8 +773,8 @@
     "salary": "$169,000-$211,000/yr",
     "posted": "Today",
     "link": "https://jobicy.com/jobs/143621-staff-product-designer-2",
-    "featured": true,
-    "new": true
+    "featured": false,
+    "new": false
   },
   {
     "en": {
@@ -1802,92 +794,8 @@
     "salary": "$195,640-$245,220/yr",
     "posted": "Today",
     "link": "https://jobicy.com/jobs/143620-senior-product-designer-4",
-    "featured": true,
-    "new": true
-  },
-  {
-    "en": {
-      "title": "Sr Director Analyst Organizational Design (REMOTE US)",
-      "company": "Gartner",
-      "desc": "About the role:Gartner Analysts are industry thought leaders who create must-have insights, market predictions and best practices for a broad range of world-leading organizations. A Senior Director serves as a..."
-    },
-    "zh": {
-      "title": "Sr Director Analyst Organizational Design (REMOTE US)",
-      "company": "Gartner",
-      "desc": ""
-    },
-    "location": "USA",
-    "type": "Remote",
-    "category": "Graphic Design",
-    "company_class": "mid-small",
-    "salary": "$172,000-$202,500/yr",
-    "posted": "Today",
-    "link": "https://jobicy.com/jobs/143619-sr-director-analyst-organizational-design-remote-us",
-    "featured": true,
-    "new": true
-  },
-  {
-    "en": {
-      "title": "961 – Senior Product Designer (Fintech / Mobile / AI) · Remote · LATAM",
-      "company": "Darwoft",
-      "desc": "Disclaimer – Must read: Commitment & FocusThis role requires full-time dedication, with clear priority given to Darwoft projects during the established working hours. It is not compatible with other full-time..."
-    },
-    "zh": {
-      "title": "961 – Senior Product Designer (Fintech / Mobile / AI) · Remote · LATAM",
-      "company": "Darwoft",
-      "desc": ""
-    },
-    "location": "Argentina",
-    "type": "Remote",
-    "category": "UI/UX",
-    "company_class": "mid-small",
-    "salary": "",
-    "posted": "Today",
-    "link": "https://jobicy.com/jobs/143618-961-senior-product-designer-fintech-mobile-ai-%c2%b7-remote-%c2%b7-latam",
-    "featured": true,
-    "new": true
-  },
-  {
-    "en": {
-      "title": "962 – Product Designer (Conversational Experiences) · Senior · Remoto · LATAM",
-      "company": "Darwoft",
-      "desc": "Disclaimer – Must read: Commitment & Focus This role requires full-time dedication, with clear priority given to Darwoft projects during the established working hours. It is not compatible with other..."
-    },
-    "zh": {
-      "title": "962 – Product Designer (Conversational Experiences) · Senior · Remoto · LATAM",
-      "company": "Darwoft",
-      "desc": ""
-    },
-    "location": "Argentina",
-    "type": "Remote",
-    "category": "UI/UX",
-    "company_class": "mid-small",
-    "salary": "",
-    "posted": "Today",
-    "link": "https://jobicy.com/jobs/143617-962-product-designer-conversational-experiences-%c2%b7-senior-%c2%b7-remoto-%c2%b7-latam",
-    "featured": true,
-    "new": true
-  },
-  {
-    "en": {
-      "title": "Staff Design Quality Assurance Engineer",
-      "company": "Otis Elevator Co.",
-      "desc": "Date Posted:2026-04-24Country: ChinaLocation: LOC3344: 7-8/F, Building N1, Fusion New Bund, No. 8, Lane 131, New Bund Avenue, Pudong, Shanghai, China说明/指引： 替换各节标题下的所有斜体文本 请勿在 “职位描述 “框中填写公司介绍或 “平等机会雇主声明”，因为这两部分都会自动嵌入在招聘广告中发布在招聘网站上。 职位名称 职位名称应易于识别、简单明了"
-    },
-    "zh": {
-      "title": "Staff Design Quality Assurance Engineer",
-      "company": "Otis Elevator Co.",
-      "desc": ""
-    },
-    "location": "China",
-    "type": "Remote",
-    "category": "Graphic Design",
-    "company_class": "mid-small",
-    "salary": "",
-    "posted": "Today",
-    "link": "https://jobicy.com/jobs/143616-staff-design-quality-assurance-engineer",
-    "featured": true,
-    "new": true
+    "featured": false,
+    "new": false
   },
   {
     "en": {
@@ -1907,8 +815,8 @@
     "salary": "",
     "posted": "Today",
     "link": "https://jobicy.com/jobs/143615-designer-ii",
-    "featured": true,
-    "new": true
+    "featured": false,
+    "new": false
   },
   {
     "en": {
@@ -1928,50 +836,8 @@
     "salary": "$157,000-$281,930/yr",
     "posted": "Today",
     "link": "https://jobicy.com/jobs/143579-senior-manager-experience-design",
-    "featured": true,
-    "new": true
-  },
-  {
-    "en": {
-      "title": "Professional Application Designer",
-      "company": "Gainwell Technologies",
-      "desc": "Be part of a team that unleashes the power of leading-edge technologies to help improve the health and well-being of those most vulnerable in our country and communities. Working at..."
-    },
-    "zh": {
-      "title": "Professional Application Designer",
-      "company": "Gainwell Technologies",
-      "desc": ""
-    },
-    "location": "USA",
-    "type": "Remote",
-    "category": "Graphic Design",
-    "company_class": "mid-small",
-    "salary": "$60,000-$80,000/yr",
-    "posted": "Today",
-    "link": "https://jobicy.com/jobs/143683-professional-application-designer",
-    "featured": true,
-    "new": true
-  },
-  {
-    "en": {
-      "title": "Area Schedule Lead – Data Center Design, Engineering and Construction",
-      "company": "Meta",
-      "desc": "We are seeking a candidate for a key leadership role in scheduling for a portfolio of Data Center projects of strategic importance to Meta. The Schedule lead will act as..."
-    },
-    "zh": {
-      "title": "Area Schedule Lead – Data Center Design, Engineering and Construction",
-      "company": "Meta",
-      "desc": ""
-    },
-    "location": "USA",
-    "type": "Remote",
-    "category": "Graphic Design",
-    "company_class": "mid-small",
-    "salary": "",
-    "posted": "Today",
-    "link": "https://jobicy.com/jobs/143808-area-schedule-lead-data-center-design-engineering-and-construction-3",
-    "featured": true,
-    "new": true
+    "featured": false,
+    "new": false
   },
   {
     "en": {
@@ -1991,8 +857,8 @@
     "salary": "",
     "posted": "Today",
     "link": "https://jobicy.com/jobs/143763-conversational-designer",
-    "featured": true,
-    "new": true
+    "featured": false,
+    "new": false
   },
   {
     "en": {
@@ -2012,50 +878,8 @@
     "salary": "",
     "posted": "Today",
     "link": "https://jobicy.com/jobs/143727-senior-ui-ux-designer-3-years-gaming-exp",
-    "featured": true,
-    "new": true
-  },
-  {
-    "en": {
-      "title": "Director Partner Marketing",
-      "company": "Dayforce",
-      "desc": "Dayforce is a global human capital management (HCM) company headquartered in Toronto, Ontario, and Minneapolis, Minnesota, with operations across North America, Europe, Middle East, Africa (EMEA), and the Asia Pacific..."
-    },
-    "zh": {
-      "title": "Director Partner Marketing",
-      "company": "Dayforce",
-      "desc": ""
-    },
-    "location": "Canada",
-    "type": "Remote",
-    "category": "Graphic Design",
-    "company_class": "mid-small",
-    "salary": "$136,500-$243,800/yr",
-    "posted": "Today",
-    "link": "https://jobicy.com/jobs/143809-director-partner-marketing",
-    "featured": true,
-    "new": true
-  },
-  {
-    "en": {
-      "title": "Senior Partner Solutions Engineer",
-      "company": "Akamai Technologies",
-      "desc": "Do you relish the opportunity to work with global brands?How would you evangelize our cutting edge products to partners?Join our Partner Enablement team!Partner Solutions Engineers (PSE) are part of Akamai’s..."
-    },
-    "zh": {
-      "title": "Senior Partner Solutions Engineer",
-      "company": "Akamai Technologies",
-      "desc": ""
-    },
-    "location": "Sweden",
-    "type": "Remote",
-    "category": "Graphic Design",
-    "company_class": "mid-small",
-    "salary": "",
-    "posted": "Today",
-    "link": "https://jobicy.com/jobs/143732-senior-partner-solutions-engineer-2",
-    "featured": true,
-    "new": true
+    "featured": false,
+    "new": false
   },
   {
     "en": {
@@ -2075,48 +899,6 @@
     "salary": "",
     "posted": "1 day ago",
     "link": "https://jobicy.com/jobs/143975-freelance-brand-designer",
-    "featured": true,
-    "new": true
-  },
-  {
-    "en": {
-      "title": "Marketing Manager, Content & AI Enablement",
-      "company": "Expion Health",
-      "desc": "Title: Marketing Manager, Content & AI EnablementLocation: Fully RemoteReports To: VP, Marketing & Communications Pharmacy benefit management is a $500B+ industry most people have never heard of — but it has a major impact on how prescription drugs a"
-    },
-    "zh": {
-      "title": "Marketing Manager, Content & AI Enablement",
-      "company": "Expion Health",
-      "desc": ""
-    },
-    "location": "USA",
-    "type": "Remote",
-    "category": "Graphic Design",
-    "company_class": "mid-small",
-    "salary": "$75k - $95k",
-    "posted": "1 day ago",
-    "link": "https://remotive.com/remote-jobs/marketing/marketing-manager-content-ai-enablement-2090883",
-    "featured": true,
-    "new": true
-  },
-  {
-    "en": {
-      "title": "Business Transformation Lead",
-      "company": "Expion Health",
-      "desc": "Title: Business Transformation Lead Location: Fully Remote Reports To: President, Service & Growth Expion Health is building the future of pharmacy economics. As architects of prescription economics, we design how pharmacy value is created, aligning "
-    },
-    "zh": {
-      "title": "Business Transformation Lead",
-      "company": "Expion Health",
-      "desc": ""
-    },
-    "location": "USA",
-    "type": "Remote",
-    "category": "Graphic Design",
-    "company_class": "mid-small",
-    "salary": "$175k - $225k",
-    "posted": "3 days ago",
-    "link": "https://remotive.com/remote-jobs/artificial-intelligence/business-transformation-lead-2090881",
     "featured": false,
     "new": false
   }

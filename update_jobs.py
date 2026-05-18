@@ -108,6 +108,66 @@ def merge(existing, new_jobs):
     return existing, added
 
 # =============================================
+# STRICT ART & DESIGN FILTER
+# Only keeps jobs with art/design-related titles
+# =============================================
+DESIGN_TITLE_KEYWORDS = [
+    'artist', 'art director', 'creative director', 'art direction',
+    'concept artist', 'concept art', 'visual development',
+    'illustrat', 'storyboard', 'animator', 'animation',
+    'vfx', 'visual effects', 'visual effect',
+    'lighting designer', 'lighting design', 'show lighting',
+    'theme lighting', 'audio/video designer', 'audio designer',
+    'motion designer', 'motion design', 'mograph',
+    'graphic artist', 'graphic designer', 'graphic design',
+    'ui designer', 'ui/ux', 'ux designer', 'product designer',
+    'brand designer', 'brand design',
+    'staff product designer', 'senior product designer',
+    'associate product designer',
+    'content designer', 'content design',
+    'conversation design', 'conversational designer',
+    'instructional designer',
+    'design engineer',
+    'experience design',
+    'game designer', 'gameplay designer', 'technical artist',
+    'crowds artist', 'layout artist', 'stereoscopic',
+    'freelance brand designer',
+    'design technologist',
+    'design intern',
+    'mid/senior ai video artist',
+    'manager, product design',
+    'vp-creative',
+    'director, product design',
+]
+
+def is_design_job(j):
+    """Return True if the job title is genuinely art/design related."""
+    title = j["en"]["title"].lower()
+    
+    # Reject known non-design titles that slipped through keyword matching
+    reject = ['mechanical designer', 'ohl design', 'overhead line',
+              'application designer', 'quality assurance',
+              'organizational design', 'schedule']
+    for r in reject:
+        if r in title:
+            return False
+    
+    # Match against design keywords
+    for kw in DESIGN_TITLE_KEYWORDS:
+        if kw in title:
+            return True
+    
+    # Catch-all: if title contains 'designer' but not rejected above, keep it
+    if 'designer' in title:
+        return True
+    
+    return False
+
+def filter_design_jobs(jobs):
+    """Filter list to only include art/design jobs."""
+    return [j for j in jobs if is_design_job(j)]
+
+# =============================================
 # SOURCE 1: Jobicy API
 # =============================================
 def fetch_jobicy():
@@ -286,12 +346,18 @@ def main():
     print("3. Indeed RSS...")
     all_new.extend(fetch_linkedin_rss())
     
-    print(f"\n📊 Total fetched: {len(all_new)} raw jobs")
+    print(f"📊 Total fetched: {len(all_new)} raw jobs")
     
     before = len(existing)
     merged, added = merge(existing, all_new)
     
+    # Strict filter: only keep art & design jobs
+    before_filter = len(merged)
+    merged = filter_design_jobs(merged)
+    filtered_out = before_filter - len(merged)
+    
     print(f"➕ New unique jobs added: {added}")
+    print(f"🗑️  Non-design jobs filtered out: {filtered_out}")
     print(f"📊 Total jobs: {len(merged)}")
     
     with open(JOBS_FILE, "w") as f:
