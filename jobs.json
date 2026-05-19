@@ -901,5 +901,68 @@
     "link": "https://jobicy.com/jobs/143975-freelance-brand-designer",
     "featured": false,
     "new": false
+  },
+  {
+    "en": {
+      "title": "Staff Product Designer",
+      "company": "Customer.io",
+      "desc": "About Customer.ioOver 8,000 companies — from scrappy startups to global brands — use our platform to send billions of emails, push notifications, in-app messages, and SMS every day. Customer.io powers..."
+    },
+    "zh": {
+      "title": "Staff Product Designer",
+      "company": "Customer.io",
+      "desc": ""
+    },
+    "location": "LATAM,  Canada,  USA",
+    "type": "Remote",
+    "category": "UI/UX",
+    "company_class": "mid-small",
+    "salary": "$205,000-$228,000/yr",
+    "posted": "Today",
+    "link": "https://jobicy.com/jobs/144155-staff-product-designer-3",
+    "featured": true,
+    "new": true
+  },
+  {
+    "en": {
+      "title": "Freelance Presentation Designer",
+      "company": "Mindrift",
+      "desc": "Please submit your resume in English and indicate your level of English.Mindrift is looking for a highly skilled Presentation Designer to join the Tendem project (**https://tendem.ai/**) and drive specialized storytelling..."
+    },
+    "zh": {
+      "title": "Freelance Presentation Designer",
+      "company": "Mindrift",
+      "desc": ""
+    },
+    "location": "Spain",
+    "type": "Remote",
+    "category": "Graphic Design",
+    "company_class": "mid-small",
+    "salary": "",
+    "posted": "Today",
+    "link": "https://jobicy.com/jobs/144151-freelance-presentation-designer",
+    "featured": true,
+    "new": true
+  },
+  {
+    "en": {
+      "title": "Freelance Graphic Designer",
+      "company": "Mindrift",
+      "desc": "Mindrift is looking for a versatile, highly skilled Graphic Designer to join the Tendem project (https://tendem.ai/) and drive specialized data scraping workflows within our hybrid AI + human system.In this..."
+    },
+    "zh": {
+      "title": "Freelance Graphic Designer",
+      "company": "Mindrift",
+      "desc": ""
+    },
+    "location": "UK",
+    "type": "Remote",
+    "category": "Graphic Design",
+    "company_class": "mid-small",
+    "salary": "",
+    "posted": "Today",
+    "link": "https://jobicy.com/jobs/144150-freelance-graphic-designer",
+    "featured": true,
+    "new": true
   }
 ]
