@@ -964,5 +964,26 @@
     "link": "https://jobicy.com/jobs/144150-freelance-graphic-designer",
     "featured": true,
     "new": true
+  },
+  {
+    "en": {
+      "title": "Founding Designer (Americas)",
+      "company": "infisical",
+      "desc": "Skills: Marketing designInfisical is looking to hire exceptional talent to join our teams in building the open source security infrastructure stack for the AI era.We’re building a generational company with..."
+    },
+    "zh": {
+      "title": "Founding Designer (Americas)",
+      "company": "infisical",
+      "desc": ""
+    },
+    "location": "LATAM,  Canada,  USA",
+    "type": "Remote",
+    "category": "Graphic Design",
+    "company_class": "mid-small",
+    "salary": "$100,000-$180,000/yr",
+    "posted": "Today",
+    "link": "https://jobicy.com/jobs/144244-founding-designer-americas",
+    "featured": true,
+    "new": true
   }
 ]
