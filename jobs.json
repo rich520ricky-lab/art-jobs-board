@@ -943,5 +943,47 @@
     "link": "https://jobicy.com/jobs/144244-founding-designer-americas",
     "featured": true,
     "new": true
+  },
+  {
+    "en": {
+      "title": "Motion Designer (Contractor)",
+      "company": "Fortis Games",
+      "desc": "Who we are At Fortis Games we aspire to make great games that bring people together while redefining how game companies work. We believe in building a sense of belonging..."
+    },
+    "zh": {
+      "title": "Motion Designer (Contractor)",
+      "company": "Fortis Games",
+      "desc": ""
+    },
+    "location": "Portugal",
+    "type": "Remote",
+    "category": "Motion Design",
+    "company_class": "mid-small",
+    "salary": "",
+    "posted": "Today",
+    "link": "https://jobicy.com/jobs/144330-motion-designer-contractor",
+    "featured": true,
+    "new": true
+  },
+  {
+    "en": {
+      "title": "Senior Product Designer",
+      "company": "Cint",
+      "desc": "Job DescriptionThe OpportunityCint seeks an experienced, SaaS product-savvy Senior Product Designer to join our growing team. We seek a strong cross-functional candidate with creativity and strategic vision to help shape..."
+    },
+    "zh": {
+      "title": "Senior Product Designer",
+      "company": "Cint",
+      "desc": ""
+    },
+    "location": "UK",
+    "type": "Remote",
+    "category": "UI/UX",
+    "company_class": "mid-small",
+    "salary": "",
+    "posted": "Today",
+    "link": "https://jobicy.com/jobs/144328-senior-product-designer-5",
+    "featured": true,
+    "new": true
   }
 ]
