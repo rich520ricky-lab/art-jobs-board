@@ -72,10 +72,31 @@ def classify_company(company_name):
     return "mid-small"
 
 
+def sanitize_field(text, max_len=500):
+    """Sanitize any text field from external APIs to prevent injection."""
+    if not isinstance(text, str):
+        return ""
+    text = re.sub(r'<[^>]+>', '', text)
+    text = html.unescape(text)
+    text = re.sub(r'[<>"\'`]', '', text)
+    text = re.sub(r'javascript:', '', text, flags=re.IGNORECASE)
+    text = re.sub(r'on\w+\s*=', '', text, flags=re.IGNORECASE)
+    return text.strip()[:max_len]
+
+def sanitize_url(url):
+    """Only allow http/https URLs."""
+    if not isinstance(url, str):
+        return ""
+    url = url.strip()
+    if url and not url.startswith(('http://', 'https://')):
+        return ""
+    return url[:2000]
+
 def clean_html(text):
     text = re.sub(r'<[^>]+>', '', text)
     text = html.unescape(text)
     text = re.sub(r'\s+', ' ', text).strip()
+    text = text.replace('<', '').replace('>', '').replace('"', '').replace("'", '')
     return text[:250]
 
 def classify(text):
@@ -181,14 +202,14 @@ def fetch_jobicy():
             with urlopen(req, timeout=15) as r:
                 data = json.loads(r.read())
             for item in data.get("jobs", []):
-                title = item.get("jobTitle", "")
-                company = item.get("companyName", "")
+                title = sanitize_field(item.get("jobTitle", ""), 200)
+                company = sanitize_field(item.get("companyName", ""), 200)
                 key = (title.lower(), company.lower())
                 if key in seen:
                     continue
                 seen.add(key)
                 desc = clean_html(item.get("jobExcerpt", "") or item.get("jobDescription", "") or "")
-                geo = item.get("jobGeo", "")
+                geo = sanitize_field(item.get("jobGeo", ""), 100)
                 date_raw = item.get("pubDate", "")
                 posted = days_ago(datetime.strptime(date_raw[:19], "%Y-%m-%dT%H:%M:%S")) if date_raw else "Recently"
                 loc = "Remote"
@@ -200,8 +221,11 @@ def fetch_jobicy():
                 sal = ""
                 smin, smax = item.get("salaryMin"), item.get("salaryMax")
                 if smin and smax:
-                    sal = f"${int(smin):,}-${int(smax):,}/yr"
-                url_link = item.get("url", "")
+                    try:
+                        sal = f"${int(smin):,}-${int(smax):,}/yr"
+                    except (ValueError, TypeError):
+                        sal = ""
+                url_link = sanitize_url(item.get("url", ""))
                 cat = classify(title + " " + desc)
                 cc = classify_company(company)
                 jobs.append({
@@ -228,14 +252,14 @@ def fetch_remotive():
         with urlopen(req, timeout=15) as r:
             data = json.loads(r.read())
         for item in data.get("jobs", []):
-            title = item.get("title", "")
-            company = item.get("company_name", "")
+            title = sanitize_field(item.get("title", ""), 200)
+            company = sanitize_field(item.get("company_name", ""), 200)
             desc = clean_html(item.get("description", "") or "")
-            loc = item.get("candidate_required_location", "Worldwide")
+            loc = sanitize_field(item.get("candidate_required_location", "Worldwide"), 100)
             if "worldwide" in loc.lower():
                 loc = "Remote"
-            sal = item.get("salary", "") or ""
-            url_link = item.get("url", "")
+            sal = sanitize_field(item.get("salary", "") or "", 50)
+            url_link = sanitize_url(item.get("url", ""))
             date_raw = item.get("publication_date", "")
             posted = days_ago(datetime.strptime(date_raw[:19], "%Y-%m-%dT%H:%M:%S")) if date_raw else "Recently"
             cat = classify(title + " " + desc)
@@ -314,9 +338,9 @@ def fetch_linkedin_rss():
                             "salary": "", "posted": "Today",
                             "link": link, "featured": True, "new": True
                         })
-                except:
+                except (URLError, OSError, ValueError):
                     pass
-        except:
+        except (URLError, OSError, ValueError):
             pass
     
     print(f"  Indeed RSS: {len(jobs)} jobs")

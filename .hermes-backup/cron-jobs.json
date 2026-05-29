@@ -34,12 +34,12 @@
       "deliver": "origin",
       "origin": {
         "platform": "telegram",
-        "chat_id": "8221910326",
-        "chat_name": "Rich T",
+        "chat_id": "REDACTED",
+        "chat_name": "REDACTED",
         "thread_id": null
       },
       "enabled_toolsets": null,
-      "workdir": "/Users/test/hermes/art-jobs-site"
+      "workdir": "/path/to/art-jobs-site"
     },
     {
       "id": "54528e84c56d",
@@ -75,12 +75,12 @@
       "deliver": "origin",
       "origin": {
         "platform": "telegram",
-        "chat_id": "8221910326",
-        "chat_name": "Rich T",
+        "chat_id": "REDACTED",
+        "chat_name": "REDACTED",
         "thread_id": null
       },
       "enabled_toolsets": null,
-      "workdir": "/Users/test/hermes/art-jobs-site"
+      "workdir": "/path/to/art-jobs-site"
     }
   ],
   "updated_at": "2026-05-09T19:13:36.500268-07:00"
