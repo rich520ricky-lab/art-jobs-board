@@ -1048,5 +1048,26 @@
     "link": "https://jobicy.com/jobs/144854-senior-architectural-designer-data-centers-remote-u-s-2",
     "featured": true,
     "new": true
+  },
+  {
+    "en": {
+      "title": "Principal Product Designer",
+      "company": "Headspace",
+      "desc": "About the Principal Product Designer at Headspace:Headspace’s mission is to create a world where mental health is never an obstacle. We combine evidence-based content, clinical care, and innovative technology to help..."
+    },
+    "zh": {
+      "title": "Principal Product Designer",
+      "company": "Headspace",
+      "desc": ""
+    },
+    "location": "USA",
+    "type": "Remote",
+    "category": "UI/UX",
+    "company_class": "mid-small",
+    "salary": "$180,000-$230,000/yr",
+    "posted": "Today",
+    "link": "https://jobicy.com/jobs/145007-principal-product-designer",
+    "featured": true,
+    "new": true
   }
 ]
