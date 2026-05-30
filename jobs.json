@@ -1006,5 +1006,26 @@
     "link": "https://jobicy.com/jobs/145007-principal-product-designer",
     "featured": true,
     "new": true
+  },
+  {
+    "en": {
+      "title": "Principal Product Designer",
+      "company": "Headspace",
+      "desc": "About the Principal Product Designer at Headspace:Headspace’s mission is to create a world where mental health is never an obstacle. We combine evidence-based content, clinical care, and innovative technology to help..."
+    },
+    "zh": {
+      "title": "Principal Product Designer",
+      "company": "Headspace",
+      "desc": ""
+    },
+    "location": "USA",
+    "type": "Remote",
+    "category": "UI/UX",
+    "company_class": "mid-small",
+    "salary": "$180,000-$230,000/yr",
+    "posted": "1 day ago",
+    "link": "https://jobicy.com/jobs/145007-principal-product-designer",
+    "featured": true,
+    "new": true
   }
 ]
