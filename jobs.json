@@ -985,5 +985,26 @@
     "link": "https://jobicy.com/jobs/145007-principal-product-designer",
     "featured": true,
     "new": true
+  },
+  {
+    "en": {
+      "title": "Staff Product Designer",
+      "company": "Monzo",
+      "desc": "We’re on a mission to make money work for everyone. We’re waving goodbye to the complicated and confusing ways of traditional banking. After starting as a prepaid card, our..."
+    },
+    "zh": {
+      "title": "Staff Product Designer",
+      "company": "Monzo",
+      "desc": ""
+    },
+    "location": "UK",
+    "type": "Remote",
+    "category": "UI/UX",
+    "company_class": "mid-small",
+    "salary": "$110,000-$125,000/yr",
+    "posted": "1 day ago",
+    "link": "https://jobicy.com/jobs/145298-staff-product-designer-4",
+    "featured": true,
+    "new": true
   }
 ]
