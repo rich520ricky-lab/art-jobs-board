@@ -964,5 +964,26 @@
     "link": "https://jobicy.com/jobs/145298-staff-product-designer-4",
     "featured": true,
     "new": true
+  },
+  {
+    "en": {
+      "title": "Designer, Web Presence & Platform",
+      "company": "Stripe",
+      "desc": "Who we are About StripeStripe is a financial infrastructure platform for businesses. Millions of companies—from the world’s largest enterprises to the most ambitious startups—use Stripe to accept payments, grow their..."
+    },
+    "zh": {
+      "title": "Designer, Web Presence & Platform",
+      "company": "Stripe",
+      "desc": ""
+    },
+    "location": "USA",
+    "type": "Remote",
+    "category": "Graphic Design",
+    "company_class": "enterprise",
+    "salary": "$159,300-$238,900/yr",
+    "posted": "Today",
+    "link": "https://jobicy.com/jobs/145546-designer-web-presence-platform",
+    "featured": true,
+    "new": true
   }
 ]
