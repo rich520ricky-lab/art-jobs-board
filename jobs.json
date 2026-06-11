@@ -943,5 +943,89 @@
     "link": "https://jobicy.com/jobs/145546-designer-web-presence-platform",
     "featured": true,
     "new": true
+  },
+  {
+    "en": {
+      "title": "Naval Ship Design Engineer",
+      "company": "ManTech",
+      "desc": "General information Requisition # R68387 Locations USA-Remote Work Posting Date 06/09/2026 Security Clearance Required Secret Remote Type Fully Remote Time Type Part time Description & Requirements Shape the future of..."
+    },
+    "zh": {
+      "title": "Naval Ship Design Engineer",
+      "company": "ManTech",
+      "desc": ""
+    },
+    "location": "USA",
+    "type": "Remote",
+    "category": "Graphic Design",
+    "company_class": "mid-small",
+    "salary": "$70,200-$117,000/yr",
+    "posted": "Today",
+    "link": "https://jobicy.com/jobs/146125-naval-ship-design-engineer",
+    "featured": true,
+    "new": true
+  },
+  {
+    "en": {
+      "title": "Senior User Experience Designer – AEC Platform Data",
+      "company": "Autodesk",
+      "desc": "Job Requisition ID #26WD98401Position OverviewAt Autodesk, our Architecture, Engineering, and Construction (AEC) Data Model team is focused on shaping the future of how customers access, manage, and unlock value from..."
+    },
+    "zh": {
+      "title": "Senior User Experience Designer – AEC Platform Data",
+      "company": "Autodesk",
+      "desc": ""
+    },
+    "location": "EMEA,  UK",
+    "type": "Remote",
+    "category": "Graphic Design",
+    "company_class": "mid-small",
+    "salary": "",
+    "posted": "Today",
+    "link": "https://jobicy.com/jobs/146034-senior-user-experience-designer-aec-platform-data",
+    "featured": true,
+    "new": true
+  },
+  {
+    "en": {
+      "title": "Senior Product Designer",
+      "company": "Remote",
+      "desc": "About Remote Remote is solving modern organizations’ biggest challenge – navigating global employment compliantly with ease. We make it possible for businesses of all sizes to recruit, pay, and manage..."
+    },
+    "zh": {
+      "title": "Senior Product Designer",
+      "company": "Remote",
+      "desc": ""
+    },
+    "location": "EMEA",
+    "type": "Remote",
+    "category": "UI/UX",
+    "company_class": "mid-small",
+    "salary": "$149,750-$168,500/yr",
+    "posted": "Today",
+    "link": "https://jobicy.com/jobs/146024-senior-product-designer-6",
+    "featured": true,
+    "new": true
+  },
+  {
+    "en": {
+      "title": "Creative Director, Brand Marketing",
+      "company": "Chime",
+      "desc": "About the roleChime is seeking an experienced Creative Director to develop brand-defining campaigns. This role will be responsible for shaping the creative vision, crafting captivating narratives, and executing innovative marketing..."
+    },
+    "zh": {
+      "title": "Creative Director, Brand Marketing",
+      "company": "Chime",
+      "desc": ""
+    },
+    "location": "USA",
+    "type": "Remote",
+    "category": "Art Direction",
+    "company_class": "mid-small",
+    "salary": "$201,000-$279,000/yr",
+    "posted": "1 day ago",
+    "link": "https://jobicy.com/jobs/145926-creative-director-brand-marketing",
+    "featured": true,
+    "new": true
   }
 ]
