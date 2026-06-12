@@ -1027,5 +1027,26 @@
     "link": "https://jobicy.com/jobs/145926-creative-director-brand-marketing",
     "featured": true,
     "new": true
+  },
+  {
+    "en": {
+      "title": "Autodesk Civil 3D Designer",
+      "company": "EquipmentShare",
+      "desc": "Build the Future with Us — EquipmentShare is Hiring a Autodesk Civil 3D DesignerAt EquipmentShare, we’re not just filling a role — we’re assembling the best team on the planet to..."
+    },
+    "zh": {
+      "title": "Autodesk Civil 3D Designer",
+      "company": "EquipmentShare",
+      "desc": ""
+    },
+    "location": "USA",
+    "type": "Remote",
+    "category": "Graphic Design",
+    "company_class": "mid-small",
+    "salary": "",
+    "posted": "Today",
+    "link": "https://jobicy.com/jobs/146211-autodesk-civil-3d-designer",
+    "featured": true,
+    "new": true
   }
 ]
