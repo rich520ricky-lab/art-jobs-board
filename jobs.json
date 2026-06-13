@@ -1048,5 +1048,26 @@
     "link": "https://jobicy.com/jobs/146211-autodesk-civil-3d-designer",
     "featured": true,
     "new": true
+  },
+  {
+    "en": {
+      "title": "AI Creative (Illustrator)",
+      "company": "Superside",
+      "desc": "Superside is looking for an Illustrator with a strong command of Generative AI to create exceptional work for some of the world’s leading brands. You’ll combine deep illustrative craft with..."
+    },
+    "zh": {
+      "title": "AI Creative (Illustrator)",
+      "company": "Superside",
+      "desc": ""
+    },
+    "location": "LATAM",
+    "type": "Remote",
+    "category": "Illustration",
+    "company_class": "mid-small",
+    "salary": "",
+    "posted": "Today",
+    "link": "https://jobicy.com/jobs/146261-ai-creative-illustrator",
+    "featured": true,
+    "new": true
   }
 ]
