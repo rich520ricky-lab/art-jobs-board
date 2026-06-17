@@ -1069,5 +1069,89 @@
     "link": "https://jobicy.com/jobs/146261-ai-creative-illustrator",
     "featured": true,
     "new": true
+  },
+  {
+    "en": {
+      "title": "Surfacing Designer",
+      "company": "Meta",
+      "desc": "You want work within a small tight-knit team of Surfacing Designers so you can learn as much as possible about tangent/curvature/acceleration continuity, what makes NURBS be NURBS, challenge yourself to..."
+    },
+    "zh": {
+      "title": "Surfacing Designer",
+      "company": "Meta",
+      "desc": ""
+    },
+    "location": "USA",
+    "type": "Remote",
+    "category": "Graphic Design",
+    "company_class": "mid-small",
+    "salary": "",
+    "posted": "Today",
+    "link": "https://jobicy.com/jobs/146920-surfacing-designer",
+    "featured": true,
+    "new": true
+  },
+  {
+    "en": {
+      "title": "Senior Product Designer (UX Specialist) – Media Company",
+      "company": "Truelogic",
+      "desc": "About TruelogicAt Truelogic we are a leading provider of nearshore staff augmentation services headquartered in New York. For over two decades, we’ve been delivering top-tier technology solutions to companies of..."
+    },
+    "zh": {
+      "title": "Senior Product Designer (UX Specialist) – Media Company",
+      "company": "Truelogic",
+      "desc": ""
+    },
+    "location": "LATAM",
+    "type": "Remote",
+    "category": "UI/UX",
+    "company_class": "mid-small",
+    "salary": "",
+    "posted": "Today",
+    "link": "https://jobicy.com/jobs/146873-senior-product-designer-ux-specialist-media-company",
+    "featured": true,
+    "new": true
+  },
+  {
+    "en": {
+      "title": "Senior Product Designer",
+      "company": "CodePath",
+      "desc": "CodePath is an AI-native organization building pathways into tech for the next generation of engineers, CTOs, and founders. We deliver industry-vetted technical courses and programs to learners across the country...."
+    },
+    "zh": {
+      "title": "Senior Product Designer",
+      "company": "CodePath",
+      "desc": ""
+    },
+    "location": "LATAM,  Canada,  Europe,  USA",
+    "type": "Remote",
+    "category": "UI/UX",
+    "company_class": "mid-small",
+    "salary": "$148,000-$190,000/yr",
+    "posted": "Today",
+    "link": "https://jobicy.com/jobs/146799-senior-product-designer-7",
+    "featured": true,
+    "new": true
+  },
+  {
+    "en": {
+      "title": "Product Designer",
+      "company": "Pogo",
+      "desc": "About your role As the second Product Designer at Pogo, you’ll help lead the product design and creative direction for our new consumer insights product, which allows brands/retailers to connect..."
+    },
+    "zh": {
+      "title": "Product Designer",
+      "company": "Pogo",
+      "desc": ""
+    },
+    "location": "USA",
+    "type": "Remote",
+    "category": "UI/UX",
+    "company_class": "mid-small",
+    "salary": "",
+    "posted": "Today",
+    "link": "https://jobicy.com/jobs/146718-product-designer-5",
+    "featured": true,
+    "new": true
   }
 ]
