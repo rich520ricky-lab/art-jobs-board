@@ -1153,5 +1153,47 @@
     "link": "https://jobicy.com/jobs/146718-product-designer-5",
     "featured": true,
     "new": true
+  },
+  {
+    "en": {
+      "title": "Staff Design Engineer",
+      "company": "Miro",
+      "desc": "About the TeamThe Canvas, Multiplayer & AI team sits at the heart of what Miro is: an infinite, multiplayer surface where millions of people think together, run workshops, map systems,..."
+    },
+    "zh": {
+      "title": "Staff Design Engineer",
+      "company": "Miro",
+      "desc": ""
+    },
+    "location": "Denmark,  Europe,  UK",
+    "type": "Remote",
+    "category": "Graphic Design",
+    "company_class": "mid-small",
+    "salary": "",
+    "posted": "Today",
+    "link": "https://jobicy.com/jobs/147065-staff-design-engineer",
+    "featured": true,
+    "new": true
+  },
+  {
+    "en": {
+      "title": "Electrical Designer",
+      "company": "ManTech",
+      "desc": "General information Requisition # R68706 Locations USA-Remote Work Posting Date 06/16/2026 Security Clearance Required Secret Remote Type Fully Remote Time Type Full time Description & Requirements Shape the future of..."
+    },
+    "zh": {
+      "title": "Electrical Designer",
+      "company": "ManTech",
+      "desc": ""
+    },
+    "location": "USA",
+    "type": "Remote",
+    "category": "Graphic Design",
+    "company_class": "mid-small",
+    "salary": "$89,100-$148,200/yr",
+    "posted": "Today",
+    "link": "https://jobicy.com/jobs/147053-electrical-designer",
+    "featured": true,
+    "new": true
   }
 ]
