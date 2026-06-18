@@ -352,6 +352,11 @@ let jobsData = [];
 let lastUpdated = null;
 let currentLang = 'en';
 
+function escapeHtml(str) {
+    if (!str) return '';
+    return String(str).replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;').replace(/"/g,'&quot;').replace(/'/g,'&#39;');
+}
+
 function getText(d, lang) { return lang === 'zh' && d.zh ? d.zh : d.en; }
 
 function buildFilters() {
@@ -411,29 +416,34 @@ function renderJobs(jobs) {
         const classLabels = { enterprise: 'Enterprise', 'mid-small': 'Mid/Small', school: 'School', freelance: 'Freelance' };
         if (j.featured) tags.push(`<span class="tag featured">Featured</span>`);
         if (j.new) tags.push(`<span class="tag new">New</span>`);
-        tags.push(`<span class="tag ${j.type.toLowerCase()}">${j.type}</span>`);
-        if (j.company_class && classLabels[j.company_class]) tags.push(`<span class="tag ${j.company_class}">${classLabels[j.company_class]}</span>`);
+        const safeType = escapeHtml(j.type);
+        tags.push(`<span class="tag ${safeType.toLowerCase()}">${safeType}</span>`);
+        if (j.company_class && classLabels[j.company_class]) tags.push(`<span class="tag ${escapeHtml(j.company_class)}">${escapeHtml(classLabels[j.company_class])}</span>`);
         
         return `<div class="job-card">
             <div class="job-card-top">
                 <div>
-                    <h3>${d.title}</h3>
-                    <div class="job-company">${j.en.company}</div>
+                    <h3>${escapeHtml(d.title)}</h3>
+                    <div class="job-company">${escapeHtml(j.en.company)}</div>
                     <div class="job-tags">${tags.join('')}</div>
                 </div>
             </div>
-            <div class="job-desc">${d.desc}</div>
+            <div class="job-desc">${escapeHtml(d.desc)}</div>
             <div class="job-meta">
-                <span>📍 ${j.location}</span>
-                <span>📅 Posted: ${j.posted}</span>
-                ${j.salary ? `<span class="salary">💰 ${j.salary}</span>` : ''}
+                <span>📍 ${escapeHtml(j.location)}</span>
+                <span>📅 Posted: ${escapeHtml(j.posted)}</span>
+                ${j.salary ? `<span class="salary">💰 ${escapeHtml(j.salary)}</span>` : ''}
             </div>
             <div class="job-actions">
-                <button class="btn-details" onclick='openModal(${JSON.stringify(j).replace(/'/g,"&#39;")})'>📋 Details</button>
-                <button class="btn-apply" onclick='openModal(${JSON.stringify(j).replace(/'/g,"&#39;")})'>Apply →</button>
+                <button class="btn-details" data-job-index="${idx}">📋 Details</button>
+                <button class="btn-apply" data-job-index="${idx}">Apply →</button>
             </div>
         </div>`;
     }).join('');
+    // Bind click handlers safely instead of inline onclick with JSON
+    list.querySelectorAll('.btn-details, .btn-apply').forEach(btn => {
+        btn.addEventListener('click', function() { openModal(jobs[parseInt(this.dataset.jobIndex)]); });
+    });
 }
 
 function openModal(j) {
