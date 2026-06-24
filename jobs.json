@@ -1,258 +1,6 @@
 [
   {
     "en": {
-      "title": "Senior AI Video Artist",
-      "company": "EverAI",
-      "desc": "Our Vision & Products🚀 EverAI — Building the Future of AI CompanionshipOne of the Top 15 Largest & Fastest-Growing AI Companies in the World50 Million Users in 2 years — Help Us Reach 100M first, 500M nextAt EverAI, we’re shaping what it means to con"
-    },
-    "zh": {
-      "title": "Senior AI Video Artist",
-      "company": "EverAI",
-      "desc": ""
-    },
-    "location": "Remote",
-    "type": "Remote",
-    "category": "Graphic Design",
-    "company_class": "mid-small",
-    "salary": "-",
-    "posted": "26 days ago",
-    "link": "https://remotive.com/remote-jobs/marketing/senior-ai-video-artist-2089994",
-    "featured": false,
-    "new": false
-  },
-  {
-    "en": {
-      "title": "Design Engineer",
-      "company": "RemoteStar",
-      "desc": "RemoteStar is looking to hire a Design Engineer on behalf of our client in the Scotland.About Role – We are looking to hire a Design Engineer who has experience in..."
-    },
-    "zh": {
-      "title": "Design Engineer",
-      "company": "RemoteStar",
-      "desc": ""
-    },
-    "location": "UK",
-    "type": "Remote",
-    "category": "Graphic Design",
-    "salary": "",
-    "posted": "23 days ago",
-    "link": "https://jobicy.com/jobs/141921-design-engineer",
-    "featured": false,
-    "new": false,
-    "company_class": "mid-small"
-  },
-  {
-    "en": {
-      "title": "Staff Product Designer – Pro",
-      "company": "Kraken",
-      "desc": "Building the Future of Crypto Our Krakenites are a world-class team with crypto conviction, united by our desire to discover and unlock the potential of crypto and blockchain technology.What makes us..."
-    },
-    "zh": {
-      "title": "Staff Product Designer – Pro",
-      "company": "Kraken",
-      "desc": ""
-    },
-    "location": "Europe",
-    "type": "Remote",
-    "category": "UI/UX",
-    "salary": "",
-    "posted": "17 days ago",
-    "link": "https://jobicy.com/jobs/142151-staff-product-designer-pro",
-    "featured": false,
-    "new": false,
-    "company_class": "enterprise"
-  },
-  {
-    "en": {
-      "title": "Product Designer",
-      "company": "World Wide Technology",
-      "desc": "Work Experience 3–5 years of experience designing digital products, platforms, or complex applications Strong foundation in UX principles, interaction design, and information architecture Proficiency with modern design tools (e.g., Figma)..."
-    },
-    "zh": {
-      "title": "Product Designer",
-      "company": "World Wide Technology",
-      "desc": ""
-    },
-    "location": "USA",
-    "type": "Remote",
-    "category": "UI/UX",
-    "salary": "$110,000-$140,000/yr",
-    "posted": "14 days ago",
-    "link": "https://jobicy.com/jobs/142370-product-designer-4",
-    "featured": false,
-    "new": false,
-    "company_class": "mid-small"
-  },
-  {
-    "en": {
-      "title": "Senior Gameplay Designer (Enemies/NPC)",
-      "company": "CD PROJEKT RED",
-      "desc": "Company DescriptionTo create revolutionary, story-driven RPGs which go straight to the hearts of gamers — this is our mission. Want to dive deeper into our company’s culture? Explore our social..."
-    },
-    "zh": {
-      "title": "Senior Gameplay Designer (Enemies/NPC)",
-      "company": "CD PROJEKT RED",
-      "desc": ""
-    },
-    "location": "Poland",
-    "type": "Remote",
-    "category": "Game Art",
-    "salary": "$241,200-$381,480/yr",
-    "posted": "13 days ago",
-    "link": "https://jobicy.com/jobs/142479-senior-gameplay-designer-enemies-npc-2",
-    "featured": false,
-    "new": false,
-    "company_class": "enterprise"
-  },
-  {
-    "en": {
-      "title": "Mid/Senior AI Video Artist",
-      "company": "EverAI",
-      "desc": "Our Vision & Products🚀 EverAI — Building the Future of AI CompanionshipOne of the Top 15 Largest & Fastest-Growing AI Companies in the World50 Million Users in 2 years — Help Us Reach 100M first, 500M nextAt EverAI, we’re shaping what it means to con"
-    },
-    "zh": {
-      "title": "Mid/Senior AI Video Artist",
-      "company": "EverAI",
-      "desc": ""
-    },
-    "location": "Remote",
-    "type": "Remote",
-    "category": "Graphic Design",
-    "salary": "-",
-    "posted": "13 days ago",
-    "link": "https://remotive.com/remote-jobs/marketing/mid-senior-ai-video-artist-2089994",
-    "featured": false,
-    "new": false,
-    "company_class": "mid-small"
-  },
-  {
-    "en": {
-      "title": "Senior Product Designer – Agentic Team Suite",
-      "company": "Toast",
-      "desc": "About ToastOur focus is on building the restaurant platform that helps restaurants adapt, take control, and get back to what they do best: building the businesses they love. And because..."
-    },
-    "zh": {
-      "title": "Senior Product Designer – Agentic Team Suite",
-      "company": "Toast",
-      "desc": ""
-    },
-    "location": "USA",
-    "type": "Remote",
-    "category": "UI/UX",
-    "salary": "$125,000-$254,000/yr",
-    "posted": "9 days ago",
-    "link": "https://jobicy.com/jobs/142687-senior-product-designer-agentic-team-suite",
-    "featured": false,
-    "new": false,
-    "company_class": "enterprise"
-  },
-  {
-    "en": {
-      "title": "Brand Designer, Privy",
-      "company": "Stripe",
-      "desc": "Who we are About PrivyOur mission is to make privacy and user ownership the default online. We build simple, flexible developer tooling that make it easy to build products that..."
-    },
-    "zh": {
-      "title": "Brand Designer, Privy",
-      "company": "Stripe",
-      "desc": ""
-    },
-    "location": "USA",
-    "type": "Remote",
-    "category": "Graphic Design",
-    "salary": "$175,200-$262,800/yr",
-    "posted": "9 days ago",
-    "link": "https://jobicy.com/jobs/142685-brand-designer-privy",
-    "featured": false,
-    "new": false,
-    "company_class": "enterprise"
-  },
-  {
-    "en": {
-      "title": "Director, Product Design",
-      "company": "Samsara",
-      "desc": "Who we areSamsara (NYSE: IOT) is the pioneer of the Connected Operations™ Cloud, which is a platform that enables organizations that depend on physical operations to harness Internet of Things..."
-    },
-    "zh": {
-      "title": "Director, Product Design",
-      "company": "Samsara",
-      "desc": ""
-    },
-    "location": "USA",
-    "type": "Remote",
-    "category": "Graphic Design",
-    "salary": "$235,600-$294,500/yr",
-    "posted": "4 days ago",
-    "link": "https://jobicy.com/jobs/143046-director-product-design",
-    "featured": false,
-    "new": false,
-    "company_class": "enterprise"
-  },
-  {
-    "en": {
-      "title": "Senior Product Designer, Consumer",
-      "company": "Reddit",
-      "desc": "Reddit is a community of communities. It’s built on shared interests, passion, and trust, and is home to the most open and authentic conversations on the internet. Every day, Reddit..."
-    },
-    "zh": {
-      "title": "Senior Product Designer, Consumer",
-      "company": "Reddit",
-      "desc": ""
-    },
-    "location": "USA",
-    "type": "Remote",
-    "category": "UI/UX",
-    "salary": "$180,200-$252,300/yr",
-    "posted": "2 days ago",
-    "link": "https://jobicy.com/jobs/143121-senior-product-designer-consumer",
-    "featured": false,
-    "new": false,
-    "company_class": "enterprise"
-  },
-  {
-    "en": {
-      "title": "Freelance Brand Designer",
-      "company": "Mindrift",
-      "desc": "Please submit your resume in English and indicate your level of English.Mindrift is looking for a highly skilled Brand Designer to join the Tendem project (https://tendem.ai/) and drive specialized data..."
-    },
-    "zh": {
-      "title": "Freelance Brand Designer",
-      "company": "Mindrift",
-      "desc": ""
-    },
-    "location": "Romania",
-    "type": "Remote",
-    "category": "Graphic Design",
-    "company_class": "mid-small",
-    "salary": "",
-    "posted": "1 day ago",
-    "link": "https://jobicy.com/jobs/143975-freelance-brand-designer",
-    "featured": false,
-    "new": false
-  },
-  {
-    "en": {
-      "title": "Senior Architectural Designer, Data Centers – Remote (U.S.)",
-      "company": "AECOM",
-      "desc": "Company DescriptionWork with Us. Change the World.At AECOM, we’re delivering a better world. Whether improving your commute, keeping the lights on, providing access to clean water, or transforming skylines, our..."
-    },
-    "zh": {
-      "title": "Senior Architectural Designer, Data Centers – Remote (U.S.)",
-      "company": "AECOM",
-      "desc": ""
-    },
-    "location": "USA",
-    "type": "Remote",
-    "category": "Graphic Design",
-    "company_class": "mid-small",
-    "salary": "",
-    "posted": "1 day ago",
-    "link": "https://jobicy.com/jobs/144854-senior-architectural-designer-data-centers-remote-u-s-2",
-    "featured": true,
-    "new": true
-  },
-  {
-    "en": {
       "title": "Sr. Manager, Lead Concept Artist",
       "company": "Disney Experiences",
       "desc": "Lead concept art team for Disney park and resort creative development."
@@ -883,48 +631,6 @@
   },
   {
     "en": {
-      "title": "Principal Product Designer",
-      "company": "Headspace",
-      "desc": "About the Principal Product Designer at Headspace:Headspace’s mission is to create a world where mental health is never an obstacle. We combine evidence-based content, clinical care, and innovative technology to help..."
-    },
-    "zh": {
-      "title": "Principal Product Designer",
-      "company": "Headspace",
-      "desc": ""
-    },
-    "location": "USA",
-    "type": "Remote",
-    "category": "UI/UX",
-    "company_class": "mid-small",
-    "salary": "$180,000-$230,000/yr",
-    "posted": "1 day ago",
-    "link": "https://jobicy.com/jobs/145007-principal-product-designer",
-    "featured": true,
-    "new": true
-  },
-  {
-    "en": {
-      "title": "Staff Product Designer",
-      "company": "Monzo",
-      "desc": "We’re on a mission to make money work for everyone. We’re waving goodbye to the complicated and confusing ways of traditional banking. After starting as a prepaid card, our..."
-    },
-    "zh": {
-      "title": "Staff Product Designer",
-      "company": "Monzo",
-      "desc": ""
-    },
-    "location": "UK",
-    "type": "Remote",
-    "category": "UI/UX",
-    "company_class": "mid-small",
-    "salary": "$110,000-$125,000/yr",
-    "posted": "1 day ago",
-    "link": "https://jobicy.com/jobs/145298-staff-product-designer-4",
-    "featured": true,
-    "new": true
-  },
-  {
-    "en": {
       "title": "Designer, Web Presence & Platform",
       "company": "Stripe",
       "desc": "Who we are About StripeStripe is a financial infrastructure platform for businesses. Millions of companies—from the world’s largest enterprises to the most ambitious startups—use Stripe to accept payments, grow their..."
@@ -1004,27 +710,6 @@
     "salary": "$149,750-$168,500/yr",
     "posted": "Today",
     "link": "https://jobicy.com/jobs/146024-senior-product-designer-6",
-    "featured": true,
-    "new": true
-  },
-  {
-    "en": {
-      "title": "Creative Director, Brand Marketing",
-      "company": "Chime",
-      "desc": "About the roleChime is seeking an experienced Creative Director to develop brand-defining campaigns. This role will be responsible for shaping the creative vision, crafting captivating narratives, and executing innovative marketing..."
-    },
-    "zh": {
-      "title": "Creative Director, Brand Marketing",
-      "company": "Chime",
-      "desc": ""
-    },
-    "location": "USA",
-    "type": "Remote",
-    "category": "Art Direction",
-    "company_class": "mid-small",
-    "salary": "$201,000-$279,000/yr",
-    "posted": "1 day ago",
-    "link": "https://jobicy.com/jobs/145926-creative-director-brand-marketing",
     "featured": true,
     "new": true
   },
@@ -1214,6 +899,384 @@
     "salary": "",
     "posted": "Today",
     "link": "https://jobicy.com/jobs/147118-senior-ai-creative-designer",
+    "featured": true,
+    "new": true
+  },
+  {
+    "en": {
+      "title": "Freelance Brand Designer",
+      "company": "Mindrift",
+      "desc": "Please submit your resume in English and indicate your level of English.Mindrift is looking for a highly skilled Brand Designer to join the Tendem project (https://tendem.ai/) and drive specialized data..."
+    },
+    "zh": {
+      "title": "Freelance Brand Designer",
+      "company": "Mindrift",
+      "desc": ""
+    },
+    "location": "Romania",
+    "type": "Remote",
+    "category": "Graphic Design",
+    "company_class": "mid-small",
+    "salary": "",
+    "posted": "1 day ago",
+    "link": "https://jobicy.com/jobs/143975-freelance-brand-designer",
+    "featured": false,
+    "new": false
+  },
+  {
+    "en": {
+      "title": "Senior Architectural Designer, Data Centers – Remote (U.S.)",
+      "company": "AECOM",
+      "desc": "Company DescriptionWork with Us. Change the World.At AECOM, we’re delivering a better world. Whether improving your commute, keeping the lights on, providing access to clean water, or transforming skylines, our..."
+    },
+    "zh": {
+      "title": "Senior Architectural Designer, Data Centers – Remote (U.S.)",
+      "company": "AECOM",
+      "desc": ""
+    },
+    "location": "USA",
+    "type": "Remote",
+    "category": "Graphic Design",
+    "company_class": "mid-small",
+    "salary": "",
+    "posted": "1 day ago",
+    "link": "https://jobicy.com/jobs/144854-senior-architectural-designer-data-centers-remote-u-s-2",
+    "featured": true,
+    "new": true
+  },
+  {
+    "en": {
+      "title": "Principal Product Designer",
+      "company": "Headspace",
+      "desc": "About the Principal Product Designer at Headspace:Headspace’s mission is to create a world where mental health is never an obstacle. We combine evidence-based content, clinical care, and innovative technology to help..."
+    },
+    "zh": {
+      "title": "Principal Product Designer",
+      "company": "Headspace",
+      "desc": ""
+    },
+    "location": "USA",
+    "type": "Remote",
+    "category": "UI/UX",
+    "company_class": "mid-small",
+    "salary": "$180,000-$230,000/yr",
+    "posted": "1 day ago",
+    "link": "https://jobicy.com/jobs/145007-principal-product-designer",
+    "featured": true,
+    "new": true
+  },
+  {
+    "en": {
+      "title": "Staff Product Designer",
+      "company": "Monzo",
+      "desc": "We’re on a mission to make money work for everyone. We’re waving goodbye to the complicated and confusing ways of traditional banking. After starting as a prepaid card, our..."
+    },
+    "zh": {
+      "title": "Staff Product Designer",
+      "company": "Monzo",
+      "desc": ""
+    },
+    "location": "UK",
+    "type": "Remote",
+    "category": "UI/UX",
+    "company_class": "mid-small",
+    "salary": "$110,000-$125,000/yr",
+    "posted": "1 day ago",
+    "link": "https://jobicy.com/jobs/145298-staff-product-designer-4",
+    "featured": true,
+    "new": true
+  },
+  {
+    "en": {
+      "title": "Creative Director, Brand Marketing",
+      "company": "Chime",
+      "desc": "About the roleChime is seeking an experienced Creative Director to develop brand-defining campaigns. This role will be responsible for shaping the creative vision, crafting captivating narratives, and executing innovative marketing..."
+    },
+    "zh": {
+      "title": "Creative Director, Brand Marketing",
+      "company": "Chime",
+      "desc": ""
+    },
+    "location": "USA",
+    "type": "Remote",
+    "category": "Art Direction",
+    "company_class": "mid-small",
+    "salary": "$201,000-$279,000/yr",
+    "posted": "1 day ago",
+    "link": "https://jobicy.com/jobs/145926-creative-director-brand-marketing",
+    "featured": true,
+    "new": true
+  },
+  {
+    "en": {
+      "title": "Senior Product Designer, Consumer",
+      "company": "Reddit",
+      "desc": "Reddit is a community of communities. It’s built on shared interests, passion, and trust, and is home to the most open and authentic conversations on the internet. Every day, Reddit..."
+    },
+    "zh": {
+      "title": "Senior Product Designer, Consumer",
+      "company": "Reddit",
+      "desc": ""
+    },
+    "location": "USA",
+    "type": "Remote",
+    "category": "UI/UX",
+    "salary": "$180,200-$252,300/yr",
+    "posted": "2 days ago",
+    "link": "https://jobicy.com/jobs/143121-senior-product-designer-consumer",
+    "featured": false,
+    "new": false,
+    "company_class": "enterprise"
+  },
+  {
+    "en": {
+      "title": "Director, Product Design",
+      "company": "Samsara",
+      "desc": "Who we areSamsara (NYSE: IOT) is the pioneer of the Connected Operations™ Cloud, which is a platform that enables organizations that depend on physical operations to harness Internet of Things..."
+    },
+    "zh": {
+      "title": "Director, Product Design",
+      "company": "Samsara",
+      "desc": ""
+    },
+    "location": "USA",
+    "type": "Remote",
+    "category": "Graphic Design",
+    "salary": "$235,600-$294,500/yr",
+    "posted": "4 days ago",
+    "link": "https://jobicy.com/jobs/143046-director-product-design",
+    "featured": false,
+    "new": false,
+    "company_class": "enterprise"
+  },
+  {
+    "en": {
+      "title": "Senior Product Designer – Agentic Team Suite",
+      "company": "Toast",
+      "desc": "About ToastOur focus is on building the restaurant platform that helps restaurants adapt, take control, and get back to what they do best: building the businesses they love. And because..."
+    },
+    "zh": {
+      "title": "Senior Product Designer – Agentic Team Suite",
+      "company": "Toast",
+      "desc": ""
+    },
+    "location": "USA",
+    "type": "Remote",
+    "category": "UI/UX",
+    "salary": "$125,000-$254,000/yr",
+    "posted": "9 days ago",
+    "link": "https://jobicy.com/jobs/142687-senior-product-designer-agentic-team-suite",
+    "featured": false,
+    "new": false,
+    "company_class": "enterprise"
+  },
+  {
+    "en": {
+      "title": "Brand Designer, Privy",
+      "company": "Stripe",
+      "desc": "Who we are About PrivyOur mission is to make privacy and user ownership the default online. We build simple, flexible developer tooling that make it easy to build products that..."
+    },
+    "zh": {
+      "title": "Brand Designer, Privy",
+      "company": "Stripe",
+      "desc": ""
+    },
+    "location": "USA",
+    "type": "Remote",
+    "category": "Graphic Design",
+    "salary": "$175,200-$262,800/yr",
+    "posted": "9 days ago",
+    "link": "https://jobicy.com/jobs/142685-brand-designer-privy",
+    "featured": false,
+    "new": false,
+    "company_class": "enterprise"
+  },
+  {
+    "en": {
+      "title": "Senior Gameplay Designer (Enemies/NPC)",
+      "company": "CD PROJEKT RED",
+      "desc": "Company DescriptionTo create revolutionary, story-driven RPGs which go straight to the hearts of gamers — this is our mission. Want to dive deeper into our company’s culture? Explore our social..."
+    },
+    "zh": {
+      "title": "Senior Gameplay Designer (Enemies/NPC)",
+      "company": "CD PROJEKT RED",
+      "desc": ""
+    },
+    "location": "Poland",
+    "type": "Remote",
+    "category": "Game Art",
+    "salary": "$241,200-$381,480/yr",
+    "posted": "13 days ago",
+    "link": "https://jobicy.com/jobs/142479-senior-gameplay-designer-enemies-npc-2",
+    "featured": false,
+    "new": false,
+    "company_class": "enterprise"
+  },
+  {
+    "en": {
+      "title": "Mid/Senior AI Video Artist",
+      "company": "EverAI",
+      "desc": "Our Vision & Products🚀 EverAI — Building the Future of AI CompanionshipOne of the Top 15 Largest & Fastest-Growing AI Companies in the World50 Million Users in 2 years — Help Us Reach 100M first, 500M nextAt EverAI, we’re shaping what it means to con"
+    },
+    "zh": {
+      "title": "Mid/Senior AI Video Artist",
+      "company": "EverAI",
+      "desc": ""
+    },
+    "location": "Remote",
+    "type": "Remote",
+    "category": "Graphic Design",
+    "salary": "-",
+    "posted": "13 days ago",
+    "link": "https://remotive.com/remote-jobs/marketing/mid-senior-ai-video-artist-2089994",
+    "featured": false,
+    "new": false,
+    "company_class": "mid-small"
+  },
+  {
+    "en": {
+      "title": "Product Designer",
+      "company": "World Wide Technology",
+      "desc": "Work Experience 3–5 years of experience designing digital products, platforms, or complex applications Strong foundation in UX principles, interaction design, and information architecture Proficiency with modern design tools (e.g., Figma)..."
+    },
+    "zh": {
+      "title": "Product Designer",
+      "company": "World Wide Technology",
+      "desc": ""
+    },
+    "location": "USA",
+    "type": "Remote",
+    "category": "UI/UX",
+    "salary": "$110,000-$140,000/yr",
+    "posted": "14 days ago",
+    "link": "https://jobicy.com/jobs/142370-product-designer-4",
+    "featured": false,
+    "new": false,
+    "company_class": "mid-small"
+  },
+  {
+    "en": {
+      "title": "Staff Product Designer – Pro",
+      "company": "Kraken",
+      "desc": "Building the Future of Crypto Our Krakenites are a world-class team with crypto conviction, united by our desire to discover and unlock the potential of crypto and blockchain technology.What makes us..."
+    },
+    "zh": {
+      "title": "Staff Product Designer – Pro",
+      "company": "Kraken",
+      "desc": ""
+    },
+    "location": "Europe",
+    "type": "Remote",
+    "category": "UI/UX",
+    "salary": "",
+    "posted": "17 days ago",
+    "link": "https://jobicy.com/jobs/142151-staff-product-designer-pro",
+    "featured": false,
+    "new": false,
+    "company_class": "enterprise"
+  },
+  {
+    "en": {
+      "title": "Design Engineer",
+      "company": "RemoteStar",
+      "desc": "RemoteStar is looking to hire a Design Engineer on behalf of our client in the Scotland.About Role – We are looking to hire a Design Engineer who has experience in..."
+    },
+    "zh": {
+      "title": "Design Engineer",
+      "company": "RemoteStar",
+      "desc": ""
+    },
+    "location": "UK",
+    "type": "Remote",
+    "category": "Graphic Design",
+    "salary": "",
+    "posted": "23 days ago",
+    "link": "https://jobicy.com/jobs/141921-design-engineer",
+    "featured": false,
+    "new": false,
+    "company_class": "mid-small"
+  },
+  {
+    "en": {
+      "title": "Senior AI Video Artist",
+      "company": "EverAI",
+      "desc": "Our Vision & Products🚀 EverAI — Building the Future of AI CompanionshipOne of the Top 15 Largest & Fastest-Growing AI Companies in the World50 Million Users in 2 years — Help Us Reach 100M first, 500M nextAt EverAI, we’re shaping what it means to con"
+    },
+    "zh": {
+      "title": "Senior AI Video Artist",
+      "company": "EverAI",
+      "desc": ""
+    },
+    "location": "Remote",
+    "type": "Remote",
+    "category": "Graphic Design",
+    "company_class": "mid-small",
+    "salary": "-",
+    "posted": "26 days ago",
+    "link": "https://remotive.com/remote-jobs/marketing/senior-ai-video-artist-2089994",
+    "featured": false,
+    "new": false
+  },
+  {
+    "en": {
+      "title": "Design Technologist",
+      "company": "Elation Health",
+      "desc": "Our team is committed to enhancing physician and patient quality of life through Elation, a SaaS cloud-based clinical platform. We’ve built a product that users love, and we plan to..."
+    },
+    "zh": {
+      "title": "Design Technologist",
+      "company": "Elation Health",
+      "desc": ""
+    },
+    "location": "Canada",
+    "type": "Remote",
+    "category": "Graphic Design",
+    "company_class": "mid-small",
+    "salary": "",
+    "posted": "Today",
+    "link": "https://jobicy.com/jobs/147498-design-technologist",
+    "featured": true,
+    "new": true
+  },
+  {
+    "en": {
+      "title": "Staff Product Designer",
+      "company": "Elation Health",
+      "desc": "Our team is committed to enhancing physician and patient quality of life through Elation, a SaaS cloud-based clinical platform. We’ve built a product that users love, and we plan to..."
+    },
+    "zh": {
+      "title": "Staff Product Designer",
+      "company": "Elation Health",
+      "desc": ""
+    },
+    "location": "Canada",
+    "type": "Remote",
+    "category": "UI/UX",
+    "company_class": "mid-small",
+    "salary": "$160,000-$185,000/yr",
+    "posted": "Today",
+    "link": "https://jobicy.com/jobs/147497-staff-product-designer-5",
+    "featured": true,
+    "new": true
+  },
+  {
+    "en": {
+      "title": "Senior Product Designer I (PLG)",
+      "company": "Housecall Pro",
+      "desc": "Why Housecall Pro? Help us build solutions that build better lives. At Housecall Pro, we show up to work every day to make a difference for real people: the home..."
+    },
+    "zh": {
+      "title": "Senior Product Designer I (PLG)",
+      "company": "Housecall Pro",
+      "desc": ""
+    },
+    "location": "USA",
+    "type": "Remote",
+    "category": "UI/UX",
+    "company_class": "mid-small",
+    "salary": "$130,000-$142,000/yr",
+    "posted": "Today",
+    "link": "https://jobicy.com/jobs/147493-senior-product-designer-i-plg",
     "featured": true,
     "new": true
   }
