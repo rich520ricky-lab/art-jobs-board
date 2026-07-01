@@ -1300,5 +1300,47 @@
     "link": "https://jobicy.com/jobs/143622-staff-motion-designer-metamask",
     "featured": true,
     "new": true
+  },
+  {
+    "en": {
+      "title": "Principal Brand Designer",
+      "company": "OKX",
+      "desc": "Who We Are At OKX, we believe that the future will be reshaped by crypto, and ultimately contribute to every individual's freedom. OKX is a leading crypto exchange, and the developer of OKX Wallet, giving millions access to crypto trading and decentr"
+    },
+    "zh": {
+      "title": "Principal Brand Designer",
+      "company": "OKX",
+      "desc": ""
+    },
+    "location": "USA",
+    "type": "Remote",
+    "category": "Graphic Design",
+    "company_class": "mid-small",
+    "salary": "$140,249-$300,533/yr",
+    "posted": "Today",
+    "link": "https://jobicy.com/jobs/148140-principal-brand-designer",
+    "featured": true,
+    "new": true
+  },
+  {
+    "en": {
+      "title": "Network Design Engineer V (WAN /Job Package Engineer) ABMS",
+      "company": "Lumen Technologies",
+      "desc": "Lumen is the trusted network for AI. We’re transforming how businesses connect, secure, and scale in an AI-driven world.By connecting people, data, and applications quickly, securely, and effortlessly, we help organizations move faster and unlock wha"
+    },
+    "zh": {
+      "title": "Network Design Engineer V (WAN /Job Package Engineer) ABMS",
+      "company": "Lumen Technologies",
+      "desc": ""
+    },
+    "location": "USA",
+    "type": "Remote",
+    "category": "Graphic Design",
+    "company_class": "mid-small",
+    "salary": "$132,232-$193,940/yr",
+    "posted": "Today",
+    "link": "https://jobicy.com/jobs/143399-network-design-engineer-v-wan-job-package-engineer-abms",
+    "featured": true,
+    "new": true
   }
 ]
